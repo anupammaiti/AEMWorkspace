@@ -1,0 +1,18 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1500786171473
+Build-Jdk: 1.8.0_111
+Built-By: sukhrajsingh
+Bundle-Description: Bundles for Integration Tests for portfolio
+Bundle-ManifestVersion: 2
+Bundle-Name: portfolio - Integration Tests Bundles
+Bundle-SymbolicName: org.myorg.portfolio.it.tests
+Bundle-Version: 0.0.1.SNAPSHOT
+Created-By: Apache Maven Bundle Plugin
+Export-Package: org.myorg.portfolio.it.tests;uses:="org.apache.sling.jun
+ it.annotations,org.junit,org.junit.runner";version="0.0.1"
+Import-Package: org.apache.sling.junit.annotations;version="[1.0,2)",org
+ .apache.sling.settings;version="[1.3,2)",org.junit,org.junit.runner,org
+ .myorg.portfolio.core.models;version="[0.0,1)"
+Require-Capability: osgi.ee;filter:="(&(osgi.ee=JavaSE)(version=1.6))"
+Sling-Test-Regexp: .*Test
+Tool: Bnd-2.3.0.201405100607

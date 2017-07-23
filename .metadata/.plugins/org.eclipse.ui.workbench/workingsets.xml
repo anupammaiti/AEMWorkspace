@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1494147706907_1" label="clientLibDemo" name="clientLibDemo">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/nagarrosite.it.tests" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/nagarrosite.it.launcher" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/nagarrosite.ui.apps" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/nagarrosite" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/nagarrosite.core" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/clientLibDemo" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/nagarrosite.ui.content" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1494655182200_2" label="we.retail" name="we.retail"/>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1500744554635_3" label="key61" name="key61"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1492185269685_0" label="Window Working Set" name="Aggregate for window 1492185269685"/>
+</workingSetManager>

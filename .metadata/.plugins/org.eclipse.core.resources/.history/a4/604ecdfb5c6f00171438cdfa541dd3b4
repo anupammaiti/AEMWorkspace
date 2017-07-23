@@ -1,0 +1,5 @@
+package org.myorg.portfolio.key;
+
+public class KeyServiceImpl {
+
+}

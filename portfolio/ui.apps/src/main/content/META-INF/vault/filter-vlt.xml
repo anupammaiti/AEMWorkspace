@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+	<filter root="/libs/foundation"/>
+    <filter root="/apps/portfolio">
+        <exclude pattern="/apps/portfolio/install" />
+    </filter>
+    <filter root="/apps/sling" />
+    <filter root="/etc/designs/portfolio"/>
+</workspaceFilter>

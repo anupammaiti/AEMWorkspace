@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>clientLibDemo - UI content</comment>
+<entry key="createdBy">sukhrajsingh</entry>
+<entry key="name">clientLibDemo.ui.content</entry>
+<entry key="created">2017-07-01T09:43:40.753+0530</entry>
+<entry key="groupId">org.clientLibDemo</entry>
+<entry key="version">0.0.1-SNAPSHOT</entry>
+<entry key="requiresRoot">false</entry>
+<entry key="group">clientLibDemo Content Package</entry>
+<entry key="description">UI content package for clientLibDemo</entry>
+<entry key="artifactId">clientLibDemo.ui.content</entry>
+<entry key="path">/etc/packages/clientLibDemo Content Package/clientLibDemo.ui.content.zip</entry>
+</properties>

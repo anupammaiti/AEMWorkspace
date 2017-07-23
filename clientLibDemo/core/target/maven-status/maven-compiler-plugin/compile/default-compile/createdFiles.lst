@@ -1,0 +1,6 @@
+org\clientLibDemo\clientLibDemo\core\package-info.class
+org\clientLibDemo\clientLibDemo\core\filters\LoggingFilter.class
+org\clientLibDemo\clientLibDemo\core\models\HelloWorldModel.class
+org\clientLibDemo\clientLibDemo\core\servlets\SimpleServlet.class
+org\clientLibDemo\clientLibDemo\core\schedulers\SimpleScheduledTask.class
+org\clientLibDemo\clientLibDemo\core\listeners\SimpleResourceListener.class

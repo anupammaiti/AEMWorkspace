@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Dialog"
+    activeTab="{Long}0"
+    helpPath="en/cq/current/wcm/default_components.html#Forms Captcha"
+    title="Captcha Component"
+    xtype="tabpanel">
+    <items jcr:primaryType="cq:WidgetCollection">
+        <one
+            jcr:primaryType="nt:unstructured"
+            title="Title"
+            xtype="panel">
+            <items jcr:primaryType="cq:WidgetCollection">
+                <title
+                    jcr:primaryType="cq:Widget"
+                    fieldLabel="Title"
+                    name="./jcr:title"
+                    xtype="textfield"/>
+                <hideTitle
+                    jcr:primaryType="cq:Widget"
+                    fieldLabel="Hide Title"
+                    inputValue="true"
+                    name="./hideTitle"
+                    type="checkbox"
+                    xtype="selection"/>
+                <description
+                    jcr:primaryType="cq:Widget"
+                    fieldLabel="Description"
+                    name="./jcr:description"
+                    xtype="textfield"/>
+            </items>
+        </one>
+        <fourth
+            jcr:primaryType="nt:unstructured"
+            title="Constraints"
+            xtype="panel">
+            <items jcr:primaryType="cq:WidgetCollection">
+                <required
+                    jcr:primaryType="cq:Widget"
+                    fieldLabel="Required"
+                    inputValue="true"
+                    name="./required"
+                    type="checkbox"
+                    xtype="selection"/>
+                <requiredMessage
+                    jcr:primaryType="cq:Widget"
+                    fieldLabel="Required Message"
+                    name="./requiredMessage"
+                    xtype="textarea"/>
+                <constraintMessage
+                    jcr:primaryType="cq:Widget"
+                    fieldLabel="Invalid Captcha Message"
+                    name="./constraintMessage"
+                    xtype="textarea"/>
+            </items>
+        </fourth>
+        <five
+            jcr:primaryType="nt:unstructured"
+            title="Styling"
+            xtype="panel">
+            <items jcr:primaryType="cq:WidgetCollection">
+                <class
+                    jcr:primaryType="cq:Widget"
+                    anchor=""
+                    fieldLabel="CSS"
+                    name="./css"
+                    xtype="textfield"/>
+            </items>
+        </five>
+    </items>
+</jcr:root>

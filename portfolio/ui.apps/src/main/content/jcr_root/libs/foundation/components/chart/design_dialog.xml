@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Dialog"
+    title="Chart (Design)"
+    xtype="tabpanel">
+    <items jcr:primaryType="cq:WidgetCollection">
+        <common
+            jcr:primaryType="cq:Panel"
+            title="Common">
+            <items jcr:primaryType="cq:WidgetCollection">
+                <bgColor
+                    jcr:primaryType="cq:Widget"
+                    fieldLabel="Background Color"
+                    name="./bgColor"
+                    xtype="colorfield"/>
+                <labelColor
+                    jcr:primaryType="cq:Widget"
+                    fieldLabel="Label Color"
+                    name="./labelColor"
+                    xtype="colorfield"/>
+                <lineColor
+                    jcr:primaryType="cq:Widget"
+                    fieldLabel="Line Color"
+                    name="./lineColor"
+                    xtype="colorfield"/>
+            </items>
+        </common>
+        <data
+            jcr:primaryType="cq:Panel"
+            title="Data Colors">
+            <items jcr:primaryType="cq:WidgetCollection">
+                <dataColors
+                    jcr:primaryType="cq:Widget"
+                    border="{Boolean}false"
+                    fieldLabel="Data Colors"
+                    name="./dataColors"
+                    xtype="colorlist"/>
+            </items>
+        </data>
+        <pie
+            jcr:primaryType="cq:Panel"
+            title="Pie Chart">
+            <items jcr:primaryType="cq:WidgetCollection">
+                <angle
+                    jcr:primaryType="cq:Widget"
+                    allowNegative="false"
+                    fieldLabel="Start Angle"
+                    name="./pieStartAngle"
+                    xtype="spinner">
+                    <strategy
+                        jcr:primaryType="nt:unstructured"
+                        incrementValue="{Double}0.1"
+                        maxValue="{Double}360.0"
+                        minValue="{Double}0.0"
+                        xtype="number"/>
+                </angle>
+            </items>
+        </pie>
+        <line
+            jcr:primaryType="cq:Panel"
+            title="Line Chart">
+            <items jcr:primaryType="cq:WidgetCollection">
+                <width
+                    jcr:primaryType="cq:Widget"
+                    allowNegative="false"
+                    fieldLabel="Line Width"
+                    name="./lineLineWidth"
+                    xtype="spinner">
+                    <strategy
+                        jcr:primaryType="nt:unstructured"
+                        incrementValue="{Double}0.1"
+                        minValue="{Double}0.0"
+                        xtype="number"/>
+                </width>
+            </items>
+        </line>
+        <bar
+            jcr:primaryType="cq:Panel"
+            title="Bar Chart">
+            <items jcr:primaryType="cq:WidgetCollection">
+                <width
+                    jcr:primaryType="cq:Widget"
+                    allowNegative="false"
+                    fieldLabel="Bar Width"
+                    name="./barBarWidth"
+                    xtype="spinner">
+                    <strategy
+                        jcr:primaryType="nt:unstructured"
+                        incrementValue="{Double}0.1"
+                        minValue="{Double}0.0"
+                        xtype="number"/>
+                </width>
+                <spacing
+                    jcr:primaryType="cq:Widget"
+                    allowNegative="false"
+                    fieldLabel="Bar Spacing"
+                    name="./barBarSpacing"
+                    xtype="spinner">
+                    <strategy
+                        jcr:primaryType="nt:unstructured"
+                        incrementValue="{Double}0.1"
+                        minValue="{Double}0.0"
+                        xtype="number"/>
+                </spacing>
+            </items>
+        </bar>
+    </items>
+</jcr:root>

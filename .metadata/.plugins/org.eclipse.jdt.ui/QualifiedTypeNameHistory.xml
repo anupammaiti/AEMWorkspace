@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="org.apache.sling.api.servlets.SlingAllMethodsServlet"/>
+<fullyQualifiedTypeName name="org.apache.sling.commons.json.JSONObject"/>
+<fullyQualifiedTypeName name="org.apache.sling.api.SlingHttpServletRequest"/>
+<fullyQualifiedTypeName name="org.apache.sling.api.SlingHttpServletResponse"/>
+<fullyQualifiedTypeName name="java.rmi.ServerException"/>
+<fullyQualifiedTypeName name="java.io.IOException"/>
+<fullyQualifiedTypeName name="org.json.JSONObject"/>
+<fullyQualifiedTypeName name="org.apache.sling.jcr.api.SlingRepository"/>
+<fullyQualifiedTypeName name="org.json.simple.JSONObject"/>
+<fullyQualifiedTypeName name="org.apache.felix.scr.annotations.sling.SlingServlet"/>
+<fullyQualifiedTypeName name="javax.servlet.Servlet"/>
+<fullyQualifiedTypeName name="java.util.logging.Logger"/>
+<fullyQualifiedTypeName name="org.apache.felix.scr.impl.helper.Logger"/>
+<fullyQualifiedTypeName name="org.slf4j.Logger"/>
+<fullyQualifiedTypeName name="com.nagarrosite.services.KeyService"/>
+<fullyQualifiedTypeName name="org.apache.felix.scr.annotations.Component"/>
+<fullyQualifiedTypeName name="org.apache.felix.scr.annotations.Service"/>
+</qualifiedTypeNameHistroy>

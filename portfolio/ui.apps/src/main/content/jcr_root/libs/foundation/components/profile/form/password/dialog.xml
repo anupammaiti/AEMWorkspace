@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Dialog"
+    activeTab="{Long}0"
+    xtype="tabpanel">
+    <items jcr:primaryType="cq:WidgetCollection">
+        <first
+            jcr:primaryType="nt:unstructured"
+            title="Title and Text"
+            xtype="panel">
+            <items jcr:primaryType="cq:WidgetCollection">
+                <name
+                    jcr:primaryType="cq:Widget"
+                    allowBlank="{Boolean}false"
+                    fieldLabel="Element Name"
+                    name="./name"
+                    regex="/^[a-zA-Z0-9_\\.\\/:\\-]+$/"
+                    regexText="Element name should only contain characters, numbers or _./:-"
+                    xtype="textfield"/>
+                <title
+                    jcr:primaryType="cq:Widget"
+                    fieldLabel="Title"
+                    name="./jcr:title"
+                    xtype="textfield"/>
+                <confirm
+                    jcr:primaryType="cq:Widget"
+                    fieldLabel="Confirmation Title"
+                    name="./confirmationTitle"
+                    xtype="textfield"/>
+                <description
+                    jcr:primaryType="cq:Widget"
+                    fieldLabel="Description"
+                    name="./jcr:description"
+                    xtype="textfield"/>
+            </items>
+        </first>
+        <constraints
+            jcr:primaryType="nt:unstructured"
+            title="Constraints"
+            xtype="panel">
+            <items jcr:primaryType="cq:WidgetCollection">
+                <required
+                    jcr:primaryType="cq:Widget"
+                    fieldLabel="Required"
+                    inputValue="true"
+                    name="./required"
+                    type="checkbox"
+                    xtype="selection"/>
+                <requiredMessage
+                    jcr:primaryType="cq:Widget"
+                    fieldLabel="Required Message"
+                    name="./requiredMessage"
+                    xtype="textarea"/>
+                <constraintMessage
+                    jcr:primaryType="cq:Widget"
+                    fieldLabel="Constraint Message"
+                    name="./constraintMessage"
+                    xtype="textarea"/>
+            </items>
+        </constraints>
+        <size
+            jcr:primaryType="nt:unstructured"
+            title="Size"
+            xtype="panel">
+            <items jcr:primaryType="cq:WidgetCollection">
+                <multiLine
+                    jcr:primaryType="cq:Widget"
+                    fieldLabel="Size"
+                    heightParameter="./rows"
+                    heightSuffix="rows"
+                    widthParameter="./cols"
+                    widthSuffix="cols"
+                    xtype="sizefield"/>
+            </items>
+        </size>
+    </items>
+</jcr:root>

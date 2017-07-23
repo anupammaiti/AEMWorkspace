@@ -1,0 +1,6 @@
+org\myorg\portfolio\core\package-info.class
+org\myorg\portfolio\core\schedulers\SimpleScheduledTask.class
+org\myorg\portfolio\core\listeners\SimpleResourceListener.class
+org\myorg\portfolio\core\filters\LoggingFilter.class
+org\myorg\portfolio\core\models\HelloWorldModel.class
+org\myorg\portfolio\core\servlets\SimpleServlet.class

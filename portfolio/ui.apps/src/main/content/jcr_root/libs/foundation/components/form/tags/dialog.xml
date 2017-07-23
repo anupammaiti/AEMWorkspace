@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Dialog"
+    activeTab="{Long}0"
+    height="{Long}400"
+    width="{Long}650"
+    xtype="tabpanel">
+    <items jcr:primaryType="cq:WidgetCollection">
+        <generalTab
+            jcr:primaryType="nt:unstructured"
+            title="Title and Text"
+            xtype="panel">
+            <items
+                jcr:primaryType="nt:unstructured"
+                path="/libs/foundation/components/form/defaults/items.infinity.json"
+                xtype="cqinclude"/>
+        </generalTab>
+        <constraintsTab
+            jcr:primaryType="nt:unstructured"
+            title="Constraints"
+            xtype="panel">
+            <items jcr:primaryType="cq:WidgetCollection">
+                <required
+                    jcr:primaryType="cq:Widget"
+                    fieldLabel="Required"
+                    inputValue="true"
+                    name="./required"
+                    type="checkbox"
+                    xtype="selection"/>
+                <requiredMessage
+                    jcr:primaryType="cq:Widget"
+                    fieldLabel="Required Message"
+                    name="./requiredMessage"
+                    xtype="textarea"/>
+                <constraintType
+                    jcr:primaryType="cq:Widget"
+                    fieldLabel="Constraint"
+                    name="./constraintType"
+                    options="/bin/wcm/foundation/forms/constraints.json"
+                    type="select"
+                    xtype="selection"/>
+                <constraintMessage
+                    jcr:primaryType="cq:Widget"
+                    fieldLabel="Constraint Message"
+                    name="./constraintMessage"
+                    xtype="textarea"/>
+            </items>
+        </constraintsTab>
+        <tagfieldTab
+            jcr:primaryType="nt:unstructured"
+            title="Tag field"
+            xtype="panel">
+            <items jcr:primaryType="cq:WidgetCollection">
+                <namespaces
+                    jcr:primaryType="cq:Widget"
+                    fieldDescription="Leave empty to allow all namespaces."
+                    fieldLabel="Allowed Namespaces"
+                    name="./namespaces"
+                    optionsProvider="function(path, record) { return CQ.Util.formatData(CQ.Util.eval(CQ.HTTP.get(path + '.namespacesoptions.json'))); }"
+                    type="checkbox"
+                    xtype="selection"/>
+                <width
+                    jcr:primaryType="cq:Widget"
+                    anchor=""
+                    fieldLabel="Width in pixels"
+                    name="./width"
+                    width="48"
+                    xtype="textfield"/>
+                <popupSize
+                    jcr:primaryType="cq:Widget"
+                    fieldLabel="Popup Size"
+                    heightParameter="./popupHeight"
+                    heightSuffix="height"
+                    widthParameter="./popupWidth"
+                    widthSuffix="width"
+                    xtype="sizefield"/>
+            </items>
+        </tagfieldTab>
+    </items>
+</jcr:root>
