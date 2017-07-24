@@ -20,7 +20,19 @@
         <sly data-sly-include="partials/headlibs.html" data-sly-unwrap/>
     </head>
     <body class="page ${currentPage.template.name}">
+
+    	<h1>${properties.pageTitle}</h1>
+        <p>${properties.title}</p>
+
+        <div data-sly-use.page="Page">
+   			 <h1>${page.lowerCaseTitle}</h1>
+		</div>
+
+    
         <sly data-sly-include="partials/main.html" data-sly-unwrap/>
         <sly data-sly-include="partials/footlibs.html" data-sly-unwrap/>
+
+
+
     </body>
 </html>

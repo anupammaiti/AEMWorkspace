@@ -5,7 +5,7 @@
         jcr:language="fr"
         jcr:primaryType="nt:unstructured"
         jcr:title="Français"
-        sling:resourceType="portfolio/components/structure/page"
+        sling:resourceType="portfolio/components/content/googlemap"
         pageTitle="Nouveau Project">
         <logo
             jcr:primaryType="nt:unstructured"

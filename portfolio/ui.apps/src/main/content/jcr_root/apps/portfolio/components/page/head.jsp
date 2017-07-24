@@ -27,6 +27,6 @@
     <%--- Not going in detail of cloudservices <cq:include script="/libs/cq/cloudserviceconfigs/components/servicelibs/servicelibs.jsp"/> ---%>
     <cq:include script="/libs/wcm/core/browsermap/browsermap.jsp" />
     <cq:include script="/libs/wcm/mobile/components/simulator/simulator.jsp"/>
-    
+       
     <cq:includeClientLib categories="apps.geometrixx-media.all"/>
 </head>
