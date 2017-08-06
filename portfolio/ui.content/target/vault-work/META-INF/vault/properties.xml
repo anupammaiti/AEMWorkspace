@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>portfolio - UI content</comment>
+<entry key="createdBy">sukhrajsingh</entry>
+<entry key="name">portfolio.ui.content</entry>
+<entry key="created">2017-07-26T03:09:37.739+0530</entry>
+<entry key="groupId">org.myorg</entry>
+<entry key="version">0.0.1-SNAPSHOT</entry>
+<entry key="requiresRoot">false</entry>
+<entry key="group">portfolio Content Package</entry>
+<entry key="description">UI content package for portfolio</entry>
+<entry key="artifactId">portfolio.ui.content</entry>
+<entry key="path">/etc/packages/portfolio Content Package/portfolio.ui.content.zip</entry>
+</properties>

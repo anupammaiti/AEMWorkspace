@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Dialog"
+    helpPath="en/cq/current/wcm/default_components.html#Chart"
+    title="Chart"
+    xtype="tabpanel">
+    <items jcr:primaryType="cq:WidgetCollection">
+        <data
+            jcr:primaryType="cq:Panel"
+            title="Data">
+            <items jcr:primaryType="cq:WidgetCollection">
+                <table
+                    jcr:primaryType="cq:Widget"
+                    anchor="94% -20"
+                    fieldDescription="Add chart data in CSV format (use ',' as separator)"
+                    fieldLabel="Chart Data"
+                    name="./chartData"
+                    xtype="textarea"/>
+            </items>
+        </data>
+        <advanced
+            jcr:primaryType="cq:Panel"
+            title="Advanced">
+            <items jcr:primaryType="cq:WidgetCollection">
+                <type
+                    jcr:primaryType="cq:Widget"
+                    allowEmpty="false"
+                    fieldLabel="Chart Type"
+                    name="./chartType"
+                    type="select"
+                    value="pie"
+                    xtype="selection">
+                    <options jcr:primaryType="cq:WidgetCollection">
+                        <pie
+                            jcr:primaryType="nt:unstructured"
+                            text="Pie Chart"
+                            value="pie"/>
+                        <line
+                            jcr:primaryType="nt:unstructured"
+                            text="Line Chart"
+                            value="line"/>
+                        <bar
+                            jcr:primaryType="nt:unstructured"
+                            text="Bar Chart"
+                            value="bar"/>
+                    </options>
+                </type>
+                <alt
+                    jcr:primaryType="cq:Widget"
+                    fieldLabel="Alternative text"
+                    name="./chartAlt"
+                    xtype="textfield"/>
+                <width
+                    jcr:primaryType="cq:Widget"
+                    allowDecimals="false"
+                    allowNegative="false"
+                    fieldDescription="Width of the chart in pixel (eg. 400)"
+                    fieldLabel="Width"
+                    name="./chartWidth"
+                    value="400"
+                    xtype="textfield"/>
+                <height
+                    jcr:primaryType="cq:Widget"
+                    allowDecimals="false"
+                    allowNegative="false"
+                    fieldDescription="Height of the chart in pixel (eg. 400)"
+                    fieldLabel="Height"
+                    name="./chartHeight"
+                    value="400"
+                    xtype="textfield"/>
+            </items>
+        </advanced>
+    </items>
+</jcr:root>

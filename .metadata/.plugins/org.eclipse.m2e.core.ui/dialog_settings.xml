@@ -64,21 +64,9 @@
 		<item value="44" key="y"/>
 		<item value="560" key="x"/>
 	</section>
-	<section name="MavenModuleWizardParentPage">
-		<list key="moduleName">
-			<item value="test"/>
-		</list>
-		<list key="projectNameTemplate">
-			<item value="[artifactId]"/>
-			<item value="[artifactId]-TRUNK"/>
-			<item value="[artifactId]-[version]"/>
-			<item value="[groupId].[artifactId]"/>
-			<item value="[groupId].[artifactId]-[version]"/>
-			<item value="[name]"/>
-		</list>
-	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="E:\AEM\workspace\portfolio\htl"/>
 			<item value="E:\AEM\workspace\portfolio\key"/>
 			<item value="E:\AEM\workspace\portfolio.key"/>
 			<item value="E:\AEM\workspace\portfolio"/>
@@ -89,6 +77,19 @@
 			<item value="E:\AEM\workspace\nagarrosite"/>
 			<item value="E:\AEM\workspace\nagarrosite.keyServiceOSGi"/>
 			<item value="E:\AEM\workspace"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenModuleWizardParentPage">
+		<list key="moduleName">
+			<item value="test"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>

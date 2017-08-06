@@ -17883,3 +17883,850 @@ org.eclipse.core.runtime.CoreException: Variable references non-existent resourc
 2017-07-23 10:32:30,946 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\ui.content\src\test\resources
 2017-07-23 10:32:41,566 [Worker-67] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\AEM\workspace\portfolio
 2017-07-23 10:32:41,566 [Worker-67] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -PautoInstallPackage  -B clean install 
+2017-07-23 12:57:20,929 [Worker-90] WARN  o.a.j.spi2dav.RepositoryServiceImpl - Authentication required to access repository descriptors
+2017-07-23 12:57:22,230 [Worker-90] ERROR o.a.j.j.h.ChildNodeEntriesImpl - ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+2017-07-23 12:57:22,301 [Worker-90] ERROR o.a.j.j.h.ChildNodeEntriesImpl - ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+2017-07-23 12:57:22,362 [Worker-90] ERROR o.a.j.j.h.ChildNodeEntriesImpl - ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+2017-07-23 12:57:22,597 [Worker-90] ERROR o.a.j.j.h.ChildNodeEntriesImpl - ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+2017-07-23 12:57:22,688 [Worker-90] ERROR o.a.j.j.h.ChildNodeEntriesImpl - ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+2017-07-23 12:57:22,786 [Worker-90] ERROR o.a.j.j.h.ChildNodeEntriesImpl - ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+2017-07-23 12:57:22,924 [Worker-90] ERROR o.a.j.j.h.ChildNodeEntriesImpl - ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+2017-07-23 12:57:22,969 [Worker-90] ERROR o.a.j.j.h.ChildNodeEntriesImpl - ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+2017-07-23 12:57:23,420 [Worker-90] ERROR o.a.j.j.h.ChildNodeEntriesImpl - ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+2017-07-23 12:57:23,556 [Worker-90] ERROR o.a.j.j.h.ChildNodeEntriesImpl - ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+2017-07-23 12:57:23,644 [Worker-90] ERROR o.a.j.j.h.ChildNodeEntriesImpl - ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+2017-07-23 12:57:23,681 [Worker-90] ERROR o.a.j.j.h.ChildNodeEntriesImpl - ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+2017-07-23 12:57:23,795 [Worker-90] ERROR o.a.j.j.h.ChildNodeEntriesImpl - ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+2017-07-23 12:57:23,892 [Worker-90] ERROR o.a.j.j.h.ChildNodeEntriesImpl - ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+2017-07-23 12:57:24,032 [Worker-90] ERROR o.a.j.j.h.ChildNodeEntriesImpl - ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+2017-07-23 12:57:24,078 [Worker-90] ERROR o.a.j.j.h.ChildNodeEntriesImpl - ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+2017-07-23 12:57:24,078 [Worker-90] ERROR o.a.j.j.h.ChildNodeEntriesImpl - ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+2017-07-23 12:57:24,218 [Worker-90] ERROR o.a.j.j.h.ChildNodeEntriesImpl - ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+2017-07-23 12:57:24,288 [Worker-90] ERROR o.a.j.j.h.ChildNodeEntriesImpl - ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+2017-07-23 12:57:24,344 [Worker-90] ERROR o.a.j.j.h.ChildNodeEntriesImpl - ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+2017-07-23 12:57:24,428 [Worker-90] ERROR o.a.j.j.h.ChildNodeEntriesImpl - ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+2017-07-23 12:57:24,444 [Worker-90] ERROR o.a.j.j.h.ChildNodeEntriesImpl - ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+2017-07-23 12:57:24,445 [Worker-90] ERROR o.a.j.j.h.ChildNodeEntriesImpl - ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+2017-07-23 12:57:24,690 [Worker-90] ERROR o.a.j.j.h.ChildNodeEntriesImpl - ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+2017-07-23 12:57:24,848 [Worker-90] ERROR o.a.j.j.h.ChildNodeEntriesImpl - ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+2017-07-23 12:57:24,849 [Worker-90] ERROR o.a.j.j.h.ChildNodeEntriesImpl - ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+2017-07-23 12:57:24,885 [Worker-90] ERROR o.a.j.j.h.ChildNodeEntriesImpl - ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+2017-07-24 22:56:11,415 [Worker-386] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-24 22:56:11,415 [Worker-386] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\ui.content\META-INF
+2017-07-24 22:56:11,416 [Worker-386] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-24 22:56:11,416 [Worker-386] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource to ../vault-work/META-INF
+2017-07-24 22:56:11,417 [Worker-386] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 26 resources
+2017-07-24 22:56:11,444 [Worker-386] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-24 22:56:11,444 [Worker-386] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\ui.content\src\test\resources
+2017-07-24 22:58:26,327 [Worker-389] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-24 22:58:26,327 [Worker-389] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\ui.apps\META-INF
+2017-07-24 22:58:26,329 [Worker-389] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-24 22:58:26,329 [Worker-389] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource to ../vault-work/META-INF
+2017-07-24 22:58:26,336 [Worker-389] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 151 resources
+2017-07-24 22:58:26,583 [Worker-389] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-24 22:58:26,584 [Worker-389] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\ui.apps\src\test\resources
+2017-07-24 22:58:32,021 [Worker-393] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-24 22:58:32,022 [Worker-393] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\ui.apps\META-INF
+2017-07-24 22:58:32,022 [Worker-393] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-24 22:58:32,023 [Worker-393] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources to ../vault-work/META-INF
+2017-07-24 22:58:32,044 [Worker-393] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 153 resources
+2017-07-24 22:58:32,054 [Worker-393] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-24 22:58:32,054 [Worker-393] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\ui.apps\src\test\resources
+2017-07-25 01:24:40,495 [Worker-452] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 01:24:40,496 [Worker-452] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\ui.apps\META-INF
+2017-07-25 01:24:40,496 [Worker-452] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 01:24:40,496 [Worker-452] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource to ../vault-work/META-INF
+2017-07-25 01:24:40,496 [Worker-452] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-25 01:24:40,497 [Worker-452] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 01:24:40,497 [Worker-452] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\ui.apps\src\test\resources
+2017-07-25 01:24:45,018 [Worker-450] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 01:24:45,019 [Worker-450] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\core\src\main\resources
+2017-07-25 01:24:45,160 [Worker-450] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 01:24:45,161 [Worker-450] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\core\src\test\resources
+2017-07-25 01:24:45,359 [Worker-450] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 01:24:45,359 [Worker-450] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\it.tests\src\main\resources
+2017-07-25 01:24:45,384 [Worker-450] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 01:24:45,384 [Worker-450] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\it.tests\src\test\resources
+2017-07-25 01:24:46,100 [Worker-450] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 01:24:46,100 [Worker-450] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\it.launcher\src\main\resources
+2017-07-25 01:24:46,101 [Worker-450] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 01:24:46,102 [Worker-450] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\it.launcher\src\test\resources
+2017-07-25 01:24:46,473 [Worker-450] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 01:24:46,473 [Worker-450] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\key\src\main\resources
+2017-07-25 01:24:46,502 [Worker-450] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 01:24:46,502 [Worker-450] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\key\src\test\resources
+2017-07-25 01:24:47,618 [Worker-444] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 01:24:47,618 [Worker-444] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\ui.content\META-INF
+2017-07-25 01:24:47,620 [Worker-444] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 01:24:47,625 [Worker-444] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources to ../vault-work/META-INF
+2017-07-25 01:24:47,632 [Worker-444] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 27 resources
+2017-07-25 01:24:47,637 [Worker-444] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 01:24:47,637 [Worker-444] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\ui.content\src\test\resources
+2017-07-25 02:05:26,518 [Worker-464] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.myorg:portfolio.htl:0.0.1-SNAPSHOT @ E:\AEM\workspace\portfolio\htl\pom.xml.
+2017-07-25 02:05:26,661 [Worker-464] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /portfolio.htl/src/main/java
+2017-07-25 02:05:26,665 [Worker-464] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /portfolio.htl/src/test/java
+2017-07-25 02:05:26,913 [Worker-464] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2017-07-25 02:05:27,391 [Worker-464] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 02:05:27,391 [Worker-464] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\htl\src\main\resources
+2017-07-25 02:05:27,418 [Worker-464] INFO  o.e.m.c.i.embedder.EclipseLogger - Writing 1 Service Component Descriptors to E:\AEM\workspace\portfolio\htl\target\classes\OSGI-INF\org.myorg.portfolio.key.KeyServiceImpl.xml
+2017-07-25 02:05:27,420 [Worker-464] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 02:05:27,420 [Worker-464] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\htl\src\test\resources
+2017-07-25 02:07:26,196 [Worker-465] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 02:07:26,196 [Worker-465] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\htl\src\main\resources
+2017-07-25 02:07:26,304 [Worker-465] INFO  o.e.m.c.i.embedder.EclipseLogger - Writing 1 Service Component Descriptors to E:\AEM\workspace\portfolio\htl\target\classes\OSGI-INF\org.myorg.portfolio.htl.KeyServiceImpl.xml
+2017-07-25 02:07:26,307 [Worker-465] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 02:07:26,308 [Worker-465] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\htl\src\test\resources
+2017-07-25 02:07:26,423 [Worker-465] ERROR o.e.m.c.i.embedder.EclipseLogger - Manifest org.myorg:portfolio.htl:bundle:0.0.1-SNAPSHOT : Input file does not exist: E:\AEM\workspace\portfolio\htl\target\classes/OSGI-INF/org.myorg.portfolio.key.KeyServiceImpl.xml
+2017-07-25 02:07:26,429 [Worker-465] ERROR o.e.m.c.i.embedder.EclipseLogger - Manifest org.myorg:portfolio.htl:bundle:0.0.1-SNAPSHOT : Service-Component entry can not be located in JAR: OSGI-INF/org.myorg.portfolio.key.KeyServiceImpl.xml
+2017-07-25 02:07:26,430 [Worker-465] ERROR o.e.m.c.i.embedder.EclipseLogger - Error(s) found in manifest configuration
+2017-07-25 02:07:55,372 [Worker-468] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 02:07:55,372 [Worker-468] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\htl\src\main\resources
+2017-07-25 02:07:55,454 [Worker-468] INFO  o.e.m.c.i.embedder.EclipseLogger - Writing 1 Service Component Descriptors to E:\AEM\workspace\portfolio\htl\target\classes\OSGI-INF\org.myorg.portfolio.htl.KeyServiceImpl.xml
+2017-07-25 02:07:55,455 [Worker-468] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 02:07:55,455 [Worker-468] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\htl\src\test\resources
+2017-07-25 02:08:09,898 [Worker-460] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 02:08:09,898 [Worker-460] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\htl\src\main\resources
+2017-07-25 02:08:09,966 [Worker-460] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 02:08:09,966 [Worker-460] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\htl\src\test\resources
+2017-07-25 02:08:21,229 [Worker-467] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 02:08:21,229 [Worker-467] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\htl\src\main\resources
+2017-07-25 02:08:21,298 [Worker-467] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 02:08:21,298 [Worker-467] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\htl\src\test\resources
+2017-07-25 02:10:33,912 [Worker-463] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 02:10:33,912 [Worker-463] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\ui.content\META-INF
+2017-07-25 02:10:33,915 [Worker-463] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 02:10:33,916 [Worker-463] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource to ../vault-work/META-INF
+2017-07-25 02:10:33,918 [Worker-463] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 26 resources
+2017-07-25 02:10:33,960 [Worker-463] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 02:10:33,960 [Worker-463] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\ui.content\src\test\resources
+2017-07-25 02:11:01,725 [Worker-468] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 02:11:01,726 [Worker-468] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\htl\src\main\resources
+2017-07-25 02:11:01,817 [Worker-468] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 02:11:01,817 [Worker-468] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\htl\src\test\resources
+2017-07-25 02:12:10,206 [Worker-460] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 02:12:10,206 [Worker-460] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\htl\src\main\resources
+2017-07-25 02:12:10,323 [Worker-460] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 02:12:10,323 [Worker-460] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\htl\src\test\resources
+2017-07-25 02:12:34,773 [Worker-463] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 02:12:34,773 [Worker-463] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\htl\src\main\resources
+2017-07-25 02:12:34,846 [Worker-463] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 02:12:34,847 [Worker-463] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\htl\src\test\resources
+2017-07-25 02:13:13,088 [Worker-471] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 02:13:13,088 [Worker-471] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\htl\src\main\resources
+2017-07-25 02:13:13,165 [Worker-471] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 02:13:13,165 [Worker-471] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\htl\src\test\resources
+2017-07-25 02:14:42,522 [Worker-460] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\AEM\workspace\portfolio\htl
+2017-07-25 02:14:42,522 [Worker-460] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean
+2017-07-25 02:14:47,374 [Worker-463] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 02:14:47,374 [Worker-463] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\htl\src\main\resources
+2017-07-25 02:14:47,438 [Worker-463] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 02:14:47,438 [Worker-463] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\htl\src\test\resources
+2017-07-25 02:15:20,558 [Worker-471] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\AEM\workspace\portfolio\htl
+2017-07-25 02:15:20,558 [Worker-471] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean
+2017-07-25 02:15:24,215 [Worker-468] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 02:15:24,215 [Worker-468] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\htl\src\main\resources
+2017-07-25 02:15:24,284 [Worker-468] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 02:15:24,284 [Worker-468] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\htl\src\test\resources
+2017-07-25 02:15:57,692 [Worker-470] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\AEM\workspace\portfolio
+2017-07-25 02:15:57,692 [Worker-470] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean
+2017-07-25 02:16:02,590 [Worker-460] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 02:16:02,590 [Worker-460] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\core\src\main\resources
+2017-07-25 02:16:02,621 [Worker-460] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 02:16:02,622 [Worker-460] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\core\src\test\resources
+2017-07-25 02:16:02,804 [Worker-460] WARN  o.e.m.c.i.embedder.EclipseLogger - Manifest org.myorg:portfolio.core:bundle:0.0.1-SNAPSHOT : Unused Private-Package instructions, no such package(s) on the class path: [!*]
+2017-07-25 02:16:02,804 [Worker-460] WARN  o.e.m.c.i.embedder.EclipseLogger - Manifest org.myorg:portfolio.core:bundle:0.0.1-SNAPSHOT : The JAR is empty: The instructions for the JAR named org.myorg.portfolio.core did not cause any content to be included, this is likely wrong
+2017-07-25 02:16:03,298 [Worker-460] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.myorg:portfolio.htl:0.0.1-SNAPSHOT @ E:\AEM\workspace\portfolio\htl\pom.xml.
+2017-07-25 02:16:03,486 [Worker-460] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 02:16:03,486 [Worker-460] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\htl\src\main\resources
+2017-07-25 02:16:03,509 [Worker-460] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 02:16:03,509 [Worker-460] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\htl\src\test\resources
+2017-07-25 02:16:03,586 [Worker-460] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 02:16:03,586 [Worker-460] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\it.tests\src\main\resources
+2017-07-25 02:16:03,609 [Worker-460] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 02:16:03,609 [Worker-460] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\it.tests\src\test\resources
+2017-07-25 02:16:03,692 [Worker-460] WARN  o.e.m.c.i.embedder.EclipseLogger - Manifest org.myorg:portfolio.it.tests:bundle:0.0.1-SNAPSHOT : Unused Private-Package instructions, no such package(s) on the class path: [!*]
+2017-07-25 02:16:03,693 [Worker-460] WARN  o.e.m.c.i.embedder.EclipseLogger - Manifest org.myorg:portfolio.it.tests:bundle:0.0.1-SNAPSHOT : The JAR is empty: The instructions for the JAR named org.myorg.portfolio.it.tests did not cause any content to be included, this is likely wrong
+2017-07-25 02:16:04,326 [Worker-460] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 02:16:04,326 [Worker-460] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\it.launcher\src\main\resources
+2017-07-25 02:16:04,328 [Worker-460] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 02:16:04,328 [Worker-460] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\it.launcher\src\test\resources
+2017-07-25 02:16:04,913 [Worker-460] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 02:16:04,914 [Worker-460] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\key\src\main\resources
+2017-07-25 02:16:04,940 [Worker-460] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 02:16:04,940 [Worker-460] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\key\src\test\resources
+2017-07-25 02:16:05,024 [Worker-460] WARN  o.e.m.c.i.embedder.EclipseLogger - Manifest org.myorg:portfolio.key:bundle:0.0.1-SNAPSHOT : Unused Private-Package instructions, no such package(s) on the class path: [!*]
+2017-07-25 02:16:05,025 [Worker-460] WARN  o.e.m.c.i.embedder.EclipseLogger - Manifest org.myorg:portfolio.key:bundle:0.0.1-SNAPSHOT : The JAR is empty: The instructions for the JAR named org.myorg.portfolio.key did not cause any content to be included, this is likely wrong
+2017-07-25 02:16:06,296 [Worker-460] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 02:16:06,296 [Worker-460] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\ui.apps\META-INF
+2017-07-25 02:16:06,298 [Worker-460] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 02:16:06,305 [Worker-460] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources to ../vault-work/META-INF
+2017-07-25 02:16:06,377 [Worker-460] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 153 resources
+2017-07-25 02:16:06,606 [Worker-460] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 02:16:06,606 [Worker-460] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\ui.apps\src\test\resources
+2017-07-25 02:16:07,428 [Worker-463] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 02:16:07,428 [Worker-463] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\ui.content\META-INF
+2017-07-25 02:16:07,429 [Worker-463] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 02:16:07,431 [Worker-463] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources to ../vault-work/META-INF
+2017-07-25 02:16:07,443 [Worker-463] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 27 resources
+2017-07-25 02:16:07,484 [Worker-463] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 02:16:07,484 [Worker-463] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\ui.content\src\test\resources
+2017-07-25 02:16:11,753 [Worker-460] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\AEM\workspace\portfolio\htl
+2017-07-25 02:16:11,754 [Worker-460] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean
+2017-07-25 02:16:15,709 [Worker-465] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 02:16:15,709 [Worker-465] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\htl\src\main\resources
+2017-07-25 02:16:15,738 [Worker-465] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 02:16:15,738 [Worker-465] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\htl\src\test\resources
+2017-07-25 02:16:25,225 [Worker-460] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-07-25 02:16:25,675 [Worker-460] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.myorg:portfolio.htl:0.0.1-SNAPSHOT @ E:\AEM\workspace\portfolio\htl\pom.xml.
+2017-07-25 02:16:25,841 [Worker-460] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /portfolio.htl/src/main/java
+2017-07-25 02:16:25,842 [Worker-460] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /portfolio.htl/src/test/java
+2017-07-25 02:16:26,227 [Worker-460] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2017-07-25 02:16:26,448 [Worker-465] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 02:16:26,448 [Worker-465] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\htl\src\main\resources
+2017-07-25 02:16:26,487 [Worker-465] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 02:16:26,487 [Worker-465] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\htl\src\test\resources
+2017-07-25 02:16:27,669 [Worker-470] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 02:16:27,669 [Worker-470] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\htl\src\main\resources
+2017-07-25 02:16:27,730 [Worker-470] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 02:16:27,730 [Worker-470] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\htl\src\test\resources
+2017-07-25 02:16:29,922 [Worker-463] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 02:16:29,922 [Worker-463] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\htl\src\main\resources
+2017-07-25 02:16:29,986 [Worker-463] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 02:16:29,986 [Worker-463] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\htl\src\test\resources
+2017-07-25 02:16:35,326 [Worker-469] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\AEM\workspace\portfolio\htl
+2017-07-25 02:16:35,326 [Worker-469] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean
+2017-07-25 02:16:39,017 [Worker-463] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 02:16:39,017 [Worker-463] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\htl\src\main\resources
+2017-07-25 02:16:39,092 [Worker-463] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 02:16:39,092 [Worker-463] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\htl\src\test\resources
+2017-07-25 02:18:24,828 [Worker-472] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 02:18:24,829 [Worker-472] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\htl\src\main\resources
+2017-07-25 02:18:24,913 [Worker-472] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 02:18:24,913 [Worker-472] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\htl\src\test\resources
+2017-07-25 02:18:24,989 [Worker-472] WARN  o.e.m.c.i.embedder.EclipseLogger - Manifest org.myorg:portfolio.htl:bundle:0.0.1-SNAPSHOT : Unused Private-Package instructions, no such package(s) on the class path: [!*]
+2017-07-25 02:18:29,927 [Worker-469] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\AEM\workspace\portfolio\htl
+2017-07-25 02:18:29,927 [Worker-469] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean
+2017-07-25 02:18:33,514 [Worker-465] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 02:18:33,514 [Worker-465] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\htl\src\main\resources
+2017-07-25 02:18:33,592 [Worker-465] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 02:18:33,592 [Worker-465] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\htl\src\test\resources
+2017-07-25 02:18:33,699 [Worker-465] WARN  o.e.m.c.i.embedder.EclipseLogger - Manifest org.myorg:portfolio.htl:bundle:0.0.1-SNAPSHOT : Unused Private-Package instructions, no such package(s) on the class path: [!*]
+2017-07-25 02:20:16,741 [Worker-469] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 02:20:16,741 [Worker-469] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\htl\src\main\resources
+2017-07-25 02:20:16,833 [Worker-469] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 02:20:16,833 [Worker-469] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\htl\src\test\resources
+2017-07-25 02:20:16,927 [Worker-469] WARN  o.e.m.c.i.embedder.EclipseLogger - Manifest org.myorg:portfolio.htl:bundle:0.0.1-SNAPSHOT : Unused Private-Package instructions, no such package(s) on the class path: [!*]
+2017-07-25 02:20:58,919 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 02:20:58,924 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\clientLibDemo\ui.apps\META-INF
+2017-07-25 02:20:58,927 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 02:20:58,933 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources to ../vault-work/META-INF
+2017-07-25 02:20:58,957 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 62 resources
+2017-07-25 02:20:58,985 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 02:20:58,985 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\clientLibDemo\ui.apps\src\test\resources
+2017-07-25 02:20:59,058 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 02:20:59,058 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\clientLibDemo\ui.content\META-INF
+2017-07-25 02:20:59,060 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 02:20:59,061 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources to ../vault-work/META-INF
+2017-07-25 02:20:59,083 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 23 resources
+2017-07-25 02:20:59,097 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 02:20:59,097 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\clientLibDemo\ui.content\src\test\resources
+2017-07-25 02:20:59,339 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 02:20:59,340 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\nagarrosite\ui.apps\META-INF
+2017-07-25 02:20:59,341 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 02:20:59,342 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources to ../vault-work/META-INF
+2017-07-25 02:20:59,345 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 83 resources
+2017-07-25 02:20:59,384 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 02:20:59,384 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\nagarrosite\ui.apps\src\test\resources
+2017-07-25 02:21:00,733 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 02:21:00,736 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\nagarrosite\ui.content\META-INF
+2017-07-25 02:21:00,737 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 02:21:00,738 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources to ../vault-work/META-INF
+2017-07-25 02:21:00,741 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 29 resources
+2017-07-25 02:21:00,754 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 02:21:00,754 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\nagarrosite\ui.content\src\test\resources
+2017-07-25 02:21:01,461 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 02:21:01,461 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\htl\src\main\resources
+2017-07-25 02:21:01,747 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 02:21:01,747 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\htl\src\test\resources
+2017-07-25 02:21:02,752 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 02:21:02,752 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\ui.apps\META-INF
+2017-07-25 02:21:02,754 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 02:21:02,755 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources to ../vault-work/META-INF
+2017-07-25 02:21:02,768 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 153 resources
+2017-07-25 02:21:02,784 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 02:21:02,784 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\ui.apps\src\test\resources
+2017-07-25 02:21:03,735 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 02:21:03,735 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\ui.apps\META-INF
+2017-07-25 02:21:03,736 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 02:21:03,739 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources to ../vault-work/META-INF
+2017-07-25 02:21:03,794 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 153 resources
+2017-07-25 02:21:03,807 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 02:21:03,807 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\ui.apps\src\test\resources
+2017-07-25 02:21:03,882 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 02:21:03,882 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\ui.content\META-INF
+2017-07-25 02:21:03,884 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 02:21:03,884 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources to ../vault-work/META-INF
+2017-07-25 02:21:03,886 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 27 resources
+2017-07-25 02:21:03,890 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-25 02:21:03,890 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\ui.content\src\test\resources
+2017-07-26 02:54:55,872 [Worker-101] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.apache.sling.ide.eclipse.m2e.contentPackageLifecycleMapping lifecycle mapping for MavenProject: org.myorg:portfolio.ui.apps:0.0.1-SNAPSHOT @ E:\AEM\workspace\portfolio\ui.apps\pom.xml.
+2017-07-26 02:54:56,545 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 02:54:56,545 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\ui.apps\META-INF
+2017-07-26 02:54:56,546 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 02:54:56,547 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource to ../vault-work/META-INF
+2017-07-26 02:54:56,547 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-26 02:54:56,548 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 02:54:56,548 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\ui.apps\src\test\resources
+2017-07-26 02:55:11,624 [Worker-99] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.apache.sling.ide.eclipse.m2e.contentPackageLifecycleMapping lifecycle mapping for MavenProject: org.myorg:portfolio.ui.apps:0.0.1-SNAPSHOT @ E:\AEM\workspace\portfolio\ui.apps\pom.xml.
+2017-07-26 02:55:12,252 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 02:55:12,252 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\ui.apps\META-INF
+2017-07-26 02:55:12,253 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 02:55:12,253 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource to ../vault-work/META-INF
+2017-07-26 02:55:12,253 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-26 02:55:12,254 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 02:55:12,254 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\ui.apps\src\test\resources
+2017-07-26 02:55:15,045 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 02:55:15,045 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\ui.apps\META-INF
+2017-07-26 02:55:15,047 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 02:55:15,049 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources to ../vault-work/META-INF
+2017-07-26 02:55:15,167 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 153 resources
+2017-07-26 02:55:15,529 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 02:55:15,529 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\ui.apps\src\test\resources
+2017-07-26 02:55:27,799 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 02:55:27,799 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\ui.content\META-INF
+2017-07-26 02:55:27,801 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 02:55:27,802 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources to ../vault-work/META-INF
+2017-07-26 02:55:27,813 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 27 resources
+2017-07-26 02:55:27,821 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 02:55:27,821 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\ui.content\src\test\resources
+2017-07-26 02:55:56,856 [Worker-107] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.apache.sling.ide.eclipse.m2e.contentPackageLifecycleMapping lifecycle mapping for MavenProject: org.myorg:portfolio.ui.content:0.0.1-SNAPSHOT @ E:\AEM\workspace\portfolio\ui.content\pom.xml.
+2017-07-26 02:55:56,949 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 02:55:56,949 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\ui.content\META-INF
+2017-07-26 02:55:56,950 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 02:55:56,950 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource to ../vault-work/META-INF
+2017-07-26 02:55:56,950 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-26 02:55:56,951 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 02:55:56,951 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\ui.content\src\test\resources
+2017-07-26 02:56:03,389 [Worker-101] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.apache.sling.ide.eclipse.m2e.contentPackageLifecycleMapping lifecycle mapping for MavenProject: org.myorg:portfolio.ui.content:0.0.1-SNAPSHOT @ E:\AEM\workspace\portfolio\ui.content\pom.xml.
+2017-07-26 02:56:03,477 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 02:56:03,477 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\ui.content\META-INF
+2017-07-26 02:56:03,477 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 02:56:03,478 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource to ../vault-work/META-INF
+2017-07-26 02:56:03,478 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-26 02:56:03,478 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 02:56:03,478 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\ui.content\src\test\resources
+2017-07-26 02:56:04,907 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 02:56:04,907 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\ui.content\META-INF
+2017-07-26 02:56:04,908 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 02:56:04,909 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources to ../vault-work/META-INF
+2017-07-26 02:56:04,916 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 27 resources
+2017-07-26 02:56:04,961 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 02:56:04,961 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\ui.content\src\test\resources
+2017-07-26 02:56:18,128 [Worker-99] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.apache.sling.ide.eclipse.m2e.contentPackageLifecycleMapping lifecycle mapping for MavenProject: org.myorg:portfolio.ui.content:0.0.1-SNAPSHOT @ E:\AEM\workspace\portfolio\ui.content\pom.xml.
+2017-07-26 02:56:18,207 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 02:56:18,207 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\ui.content\META-INF
+2017-07-26 02:56:18,208 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 02:56:18,208 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource to ../vault-work/META-INF
+2017-07-26 02:56:18,208 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-26 02:56:18,209 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 02:56:18,209 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\ui.content\src\test\resources
+2017-07-26 02:56:36,115 [Worker-103] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.apache.sling.ide.eclipse.m2e.contentPackageLifecycleMapping lifecycle mapping for MavenProject: org.myorg:portfolio.ui.content:0.0.1-SNAPSHOT @ E:\AEM\workspace\portfolio\ui.content\pom.xml.
+2017-07-26 02:56:36,190 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 02:56:36,191 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\ui.content\META-INF
+2017-07-26 02:56:36,192 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 02:56:36,192 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource to ../vault-work/META-INF
+2017-07-26 02:56:36,192 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-26 02:56:36,193 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 02:56:36,193 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\ui.content\src\test\resources
+2017-07-26 02:57:09,869 [Worker-97] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: org.myorg:portfolio:0.0.1-SNAPSHOT @ E:\AEM\workspace\portfolio\pom.xml.
+2017-07-26 02:57:10,469 [Worker-97] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.myorg:portfolio.it.launcher:0.0.1-SNAPSHOT @ E:\AEM\workspace\portfolio\it.launcher\pom.xml.
+2017-07-26 02:57:10,836 [Worker-97] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.myorg:portfolio.it.tests:0.0.1-SNAPSHOT @ E:\AEM\workspace\portfolio\it.tests\pom.xml.
+2017-07-26 02:57:10,958 [Worker-97] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.myorg:portfolio.key:0.0.1-SNAPSHOT @ E:\AEM\workspace\portfolio\key\pom.xml.
+2017-07-26 02:57:11,099 [Worker-97] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.myorg:portfolio.core:0.0.1-SNAPSHOT @ E:\AEM\workspace\portfolio\core\pom.xml.
+2017-07-26 02:57:11,202 [Worker-97] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.myorg:portfolio.htl:0.0.1-SNAPSHOT @ E:\AEM\workspace\portfolio\htl\pom.xml.
+2017-07-26 02:57:11,401 [Worker-97] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.apache.sling.ide.eclipse.m2e.contentPackageLifecycleMapping lifecycle mapping for MavenProject: org.myorg:portfolio.ui.apps:0.0.1-SNAPSHOT @ E:\AEM\workspace\portfolio\ui.apps\pom.xml.
+2017-07-26 02:57:11,718 [Worker-97] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.apache.sling.ide.eclipse.m2e.contentPackageLifecycleMapping lifecycle mapping for MavenProject: org.myorg:portfolio.ui.content:0.0.1-SNAPSHOT @ E:\AEM\workspace\portfolio\ui.content\pom.xml.
+2017-07-26 02:57:12,983 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 02:57:12,983 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\core\src\main\resources
+2017-07-26 02:57:13,343 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 02:57:13,343 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\core\src\test\resources
+2017-07-26 02:57:13,532 [Worker-97] WARN  o.e.m.c.i.embedder.EclipseLogger - Manifest org.myorg:portfolio.core:bundle:0.0.1-SNAPSHOT : Unused Private-Package instructions, no such package(s) on the class path: [!*]
+2017-07-26 02:57:13,534 [Worker-97] WARN  o.e.m.c.i.embedder.EclipseLogger - Manifest org.myorg:portfolio.core:bundle:0.0.1-SNAPSHOT : The JAR is empty: The instructions for the JAR named org.myorg.portfolio.core did not cause any content to be included, this is likely wrong
+2017-07-26 02:57:13,662 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 02:57:13,662 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\htl\src\main\resources
+2017-07-26 02:57:13,696 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 02:57:13,696 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\htl\src\test\resources
+2017-07-26 02:57:13,831 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 02:57:13,832 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\it.tests\src\main\resources
+2017-07-26 02:57:13,870 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 02:57:13,870 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\it.tests\src\test\resources
+2017-07-26 02:57:13,995 [Worker-97] WARN  o.e.m.c.i.embedder.EclipseLogger - Manifest org.myorg:portfolio.it.tests:bundle:0.0.1-SNAPSHOT : Unused Private-Package instructions, no such package(s) on the class path: [!*]
+2017-07-26 02:57:13,997 [Worker-97] WARN  o.e.m.c.i.embedder.EclipseLogger - Manifest org.myorg:portfolio.it.tests:bundle:0.0.1-SNAPSHOT : The JAR is empty: The instructions for the JAR named org.myorg.portfolio.it.tests did not cause any content to be included, this is likely wrong
+2017-07-26 02:57:14,745 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 02:57:14,746 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\it.launcher\src\main\resources
+2017-07-26 02:57:14,748 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 02:57:14,748 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\it.launcher\src\test\resources
+2017-07-26 02:57:15,492 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 02:57:15,492 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\key\src\main\resources
+2017-07-26 02:57:15,523 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 02:57:15,523 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\key\src\test\resources
+2017-07-26 02:57:15,652 [Worker-97] WARN  o.e.m.c.i.embedder.EclipseLogger - Manifest org.myorg:portfolio.key:bundle:0.0.1-SNAPSHOT : Unused Private-Package instructions, no such package(s) on the class path: [!*]
+2017-07-26 02:57:15,652 [Worker-97] WARN  o.e.m.c.i.embedder.EclipseLogger - Manifest org.myorg:portfolio.key:bundle:0.0.1-SNAPSHOT : The JAR is empty: The instructions for the JAR named org.myorg.portfolio.key did not cause any content to be included, this is likely wrong
+2017-07-26 02:57:17,231 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 02:57:17,231 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\ui.apps\META-INF
+2017-07-26 02:57:17,233 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 02:57:17,237 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource to ../vault-work/META-INF
+2017-07-26 02:57:17,237 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-26 02:57:17,239 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 02:57:17,239 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\ui.apps\src\test\resources
+2017-07-26 02:57:17,275 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 02:57:17,275 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\ui.content\META-INF
+2017-07-26 02:57:17,277 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 02:57:17,277 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource to ../vault-work/META-INF
+2017-07-26 02:57:17,277 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-26 02:57:17,279 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 02:57:17,279 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\ui.content\src\test\resources
+2017-07-26 02:57:24,611 [Worker-106] WARN  o.a.j.spi2dav.RepositoryServiceImpl - Authentication required to access repository descriptors
+2017-07-26 02:57:25,812 [Worker-106] ERROR o.a.j.j.h.ChildNodeEntriesImpl - ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+2017-07-26 02:57:25,892 [Worker-106] ERROR o.a.j.j.h.ChildNodeEntriesImpl - ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+2017-07-26 02:57:25,980 [Worker-106] ERROR o.a.j.j.h.ChildNodeEntriesImpl - ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+2017-07-26 02:57:26,218 [Worker-106] ERROR o.a.j.j.h.ChildNodeEntriesImpl - ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+2017-07-26 02:57:26,435 [Worker-106] ERROR o.a.j.j.h.ChildNodeEntriesImpl - ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+2017-07-26 02:57:26,520 [Worker-106] ERROR o.a.j.j.h.ChildNodeEntriesImpl - ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+2017-07-26 02:57:26,623 [Worker-106] ERROR o.a.j.j.h.ChildNodeEntriesImpl - ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+2017-07-26 02:57:26,671 [Worker-106] ERROR o.a.j.j.h.ChildNodeEntriesImpl - ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+2017-07-26 02:57:27,151 [Worker-106] ERROR o.a.j.j.h.ChildNodeEntriesImpl - ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+2017-07-26 02:57:27,279 [Worker-106] ERROR o.a.j.j.h.ChildNodeEntriesImpl - ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+2017-07-26 02:57:27,372 [Worker-106] ERROR o.a.j.j.h.ChildNodeEntriesImpl - ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+2017-07-26 02:57:27,407 [Worker-106] ERROR o.a.j.j.h.ChildNodeEntriesImpl - ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+2017-07-26 02:57:27,511 [Worker-106] ERROR o.a.j.j.h.ChildNodeEntriesImpl - ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+2017-07-26 02:57:27,602 [Worker-106] ERROR o.a.j.j.h.ChildNodeEntriesImpl - ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+2017-07-26 02:57:27,742 [Worker-106] ERROR o.a.j.j.h.ChildNodeEntriesImpl - ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+2017-07-26 02:57:27,789 [Worker-106] ERROR o.a.j.j.h.ChildNodeEntriesImpl - ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+2017-07-26 02:57:27,789 [Worker-106] ERROR o.a.j.j.h.ChildNodeEntriesImpl - ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+2017-07-26 02:57:27,939 [Worker-106] ERROR o.a.j.j.h.ChildNodeEntriesImpl - ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+2017-07-26 02:57:28,070 [Worker-106] ERROR o.a.j.j.h.ChildNodeEntriesImpl - ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+2017-07-26 02:57:28,153 [Worker-106] ERROR o.a.j.j.h.ChildNodeEntriesImpl - ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+2017-07-26 02:57:28,247 [Worker-106] ERROR o.a.j.j.h.ChildNodeEntriesImpl - ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+2017-07-26 02:57:28,263 [Worker-106] ERROR o.a.j.j.h.ChildNodeEntriesImpl - ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+2017-07-26 02:57:28,263 [Worker-106] ERROR o.a.j.j.h.ChildNodeEntriesImpl - ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+2017-07-26 02:57:28,537 [Worker-106] ERROR o.a.j.j.h.ChildNodeEntriesImpl - ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+2017-07-26 02:57:28,684 [Worker-106] ERROR o.a.j.j.h.ChildNodeEntriesImpl - ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+2017-07-26 02:57:28,685 [Worker-106] ERROR o.a.j.j.h.ChildNodeEntriesImpl - ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+2017-07-26 02:57:28,725 [Worker-106] ERROR o.a.j.j.h.ChildNodeEntriesImpl - ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+2017-07-26 02:58:58,161 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 02:58:58,161 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\ui.apps\META-INF
+2017-07-26 02:58:58,162 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 02:58:58,163 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources to ../vault-work/META-INF
+2017-07-26 02:58:58,207 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 153 resources
+2017-07-26 02:58:58,220 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 02:58:58,220 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\ui.apps\src\test\resources
+2017-07-26 02:59:13,806 [Worker-97] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-07-26 02:59:14,139 [Worker-97] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: org.myorg:portfolio:0.0.1-SNAPSHOT @ E:\AEM\workspace\portfolio\pom.xml.
+2017-07-26 02:59:14,654 [Worker-97] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.myorg:portfolio.core:0.0.1-SNAPSHOT @ E:\AEM\workspace\portfolio\core\pom.xml.
+2017-07-26 02:59:14,811 [Worker-97] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.myorg:portfolio.htl:0.0.1-SNAPSHOT @ E:\AEM\workspace\portfolio\htl\pom.xml.
+2017-07-26 02:59:14,998 [Worker-97] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.myorg:portfolio.it.launcher:0.0.1-SNAPSHOT @ E:\AEM\workspace\portfolio\it.launcher\pom.xml.
+2017-07-26 02:59:15,246 [Worker-97] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.myorg:portfolio.it.tests:0.0.1-SNAPSHOT @ E:\AEM\workspace\portfolio\it.tests\pom.xml.
+2017-07-26 02:59:15,328 [Worker-97] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.myorg:portfolio.key:0.0.1-SNAPSHOT @ E:\AEM\workspace\portfolio\key\pom.xml.
+2017-07-26 02:59:15,528 [Worker-97] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.apache.sling.ide.eclipse.m2e.contentPackageLifecycleMapping lifecycle mapping for MavenProject: org.myorg:portfolio.ui.apps:0.0.1-SNAPSHOT @ E:\AEM\workspace\portfolio\ui.apps\pom.xml.
+2017-07-26 02:59:15,857 [Worker-97] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.apache.sling.ide.eclipse.m2e.contentPackageLifecycleMapping lifecycle mapping for MavenProject: org.myorg:portfolio.ui.content:0.0.1-SNAPSHOT @ E:\AEM\workspace\portfolio\ui.content\pom.xml.
+2017-07-26 02:59:16,576 [Worker-97] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /portfolio.core/src/main/java
+2017-07-26 02:59:16,577 [Worker-97] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /portfolio.core/src/test/java
+2017-07-26 02:59:16,695 [Worker-97] WARN  o.e.m.c.i.embedder.EclipseLogger - Manifest org.myorg:portfolio.core:bundle:0.0.1-SNAPSHOT : Unused Private-Package instructions, no such package(s) on the class path: [!*]
+2017-07-26 02:59:16,696 [Worker-97] WARN  o.e.m.c.i.embedder.EclipseLogger - Manifest org.myorg:portfolio.core:bundle:0.0.1-SNAPSHOT : The JAR is empty: The instructions for the JAR named org.myorg.portfolio.core did not cause any content to be included, this is likely wrong
+2017-07-26 02:59:20,031 [Worker-97] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /portfolio.htl/src/main/java
+2017-07-26 02:59:20,031 [Worker-97] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /portfolio.htl/src/test/java
+2017-07-26 02:59:20,569 [Worker-97] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /portfolio.it.launcher/src/main/java
+2017-07-26 02:59:20,569 [Worker-97] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /portfolio.it.launcher/src/test/java
+2017-07-26 02:59:20,646 [Worker-97] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /portfolio.it.tests/src/main/java
+2017-07-26 02:59:20,647 [Worker-97] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /portfolio.it.tests/src/test/java
+2017-07-26 02:59:20,737 [Worker-97] WARN  o.e.m.c.i.embedder.EclipseLogger - Manifest org.myorg:portfolio.it.tests:bundle:0.0.1-SNAPSHOT : Unused Private-Package instructions, no such package(s) on the class path: [!*]
+2017-07-26 02:59:20,737 [Worker-97] WARN  o.e.m.c.i.embedder.EclipseLogger - Manifest org.myorg:portfolio.it.tests:bundle:0.0.1-SNAPSHOT : The JAR is empty: The instructions for the JAR named org.myorg.portfolio.it.tests did not cause any content to be included, this is likely wrong
+2017-07-26 02:59:20,812 [Worker-97] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /portfolio.key/src/main/java
+2017-07-26 02:59:20,813 [Worker-97] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /portfolio.key/src/test/java
+2017-07-26 02:59:20,920 [Worker-97] WARN  o.e.m.c.i.embedder.EclipseLogger - Manifest org.myorg:portfolio.key:bundle:0.0.1-SNAPSHOT : Unused Private-Package instructions, no such package(s) on the class path: [!*]
+2017-07-26 02:59:20,921 [Worker-97] WARN  o.e.m.c.i.embedder.EclipseLogger - Manifest org.myorg:portfolio.key:bundle:0.0.1-SNAPSHOT : The JAR is empty: The instructions for the JAR named org.myorg.portfolio.key did not cause any content to be included, this is likely wrong
+2017-07-26 02:59:21,151 [Worker-97] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /portfolio.ui.apps/src/main/java
+2017-07-26 02:59:21,151 [Worker-97] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /portfolio.ui.apps/src/main/content/META-INF
+2017-07-26 02:59:21,152 [Worker-97] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /portfolio.ui.apps/src/main/content/jcr_root
+2017-07-26 02:59:21,166 [Worker-97] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /portfolio.ui.apps/src/test/java
+2017-07-26 02:59:21,559 [Worker-97] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /portfolio.ui.content/src/main/java
+2017-07-26 02:59:21,559 [Worker-97] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /portfolio.ui.content/src/main/content/META-INF
+2017-07-26 02:59:21,560 [Worker-97] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /portfolio.ui.content/src/main/content/jcr_root
+2017-07-26 02:59:21,561 [Worker-97] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /portfolio.ui.content/src/test/java
+2017-07-26 02:59:22,512 [Worker-97] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 8 sec
+2017-07-26 02:59:23,127 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 02:59:23,127 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\core\src\main\resources
+2017-07-26 02:59:23,461 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Generating 1 MetaType Descriptors in E:\AEM\workspace\portfolio\core\target\classes\OSGI-INF\metatype\org.myorg.portfolio.core.schedulers.SimpleScheduledTask.xml
+2017-07-26 02:59:23,467 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Writing 1 Service Component Descriptors to E:\AEM\workspace\portfolio\core\target\classes\OSGI-INF\org.myorg.portfolio.core.filters.LoggingFilter.xml
+2017-07-26 02:59:23,469 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Writing 1 Service Component Descriptors to E:\AEM\workspace\portfolio\core\target\classes\OSGI-INF\org.myorg.portfolio.core.listeners.SimpleResourceListener.xml
+2017-07-26 02:59:23,470 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Writing 1 Service Component Descriptors to E:\AEM\workspace\portfolio\core\target\classes\OSGI-INF\org.myorg.portfolio.core.schedulers.SimpleScheduledTask.xml
+2017-07-26 02:59:23,472 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Writing 1 Service Component Descriptors to E:\AEM\workspace\portfolio\core\target\classes\OSGI-INF\org.myorg.portfolio.core.servlets.SimpleServlet.xml
+2017-07-26 02:59:23,476 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 02:59:23,476 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\core\src\test\resources
+2017-07-26 02:59:23,874 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 02:59:23,874 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\htl\src\main\resources
+2017-07-26 02:59:23,914 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 02:59:23,915 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\htl\src\test\resources
+2017-07-26 02:59:24,282 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 02:59:24,282 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\it.tests\src\main\resources
+2017-07-26 02:59:24,376 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 02:59:24,376 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\it.tests\src\test\resources
+2017-07-26 02:59:24,978 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 02:59:24,978 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\it.launcher\src\main\resources
+2017-07-26 02:59:24,980 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 02:59:24,980 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\it.launcher\src\test\resources
+2017-07-26 02:59:25,651 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 02:59:25,651 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\key\src\main\resources
+2017-07-26 02:59:25,698 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Writing 1 Service Component Descriptors to E:\AEM\workspace\portfolio\key\target\classes\OSGI-INF\org.myorg.portfolio.key.KeyServiceImpl.xml
+2017-07-26 02:59:25,700 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 02:59:25,701 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\key\src\test\resources
+2017-07-26 02:59:27,375 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 02:59:27,375 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\ui.apps\META-INF
+2017-07-26 02:59:27,377 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 02:59:27,378 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources to ../vault-work/META-INF
+2017-07-26 02:59:27,409 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 153 resources
+2017-07-26 02:59:27,691 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 02:59:27,691 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\ui.apps\src\test\resources
+2017-07-26 02:59:27,972 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 02:59:27,972 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\ui.content\META-INF
+2017-07-26 02:59:27,973 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 02:59:27,974 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources to ../vault-work/META-INF
+2017-07-26 02:59:27,981 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 27 resources
+2017-07-26 02:59:28,037 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 02:59:28,037 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\ui.content\src\test\resources
+2017-07-26 03:00:08,214 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 03:00:08,214 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\ui.content\META-INF
+2017-07-26 03:00:08,215 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 03:00:08,217 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource to ../vault-work/META-INF
+2017-07-26 03:00:08,218 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 26 resources
+2017-07-26 03:00:08,248 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 03:00:08,248 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\ui.content\src\test\resources
+2017-07-26 03:02:37,346 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 03:02:37,346 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\ui.apps\META-INF
+2017-07-26 03:02:37,347 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 03:02:37,347 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource to ../vault-work/META-INF
+2017-07-26 03:02:37,354 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 156 resources
+2017-07-26 03:02:37,557 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 03:02:37,557 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\ui.apps\src\test\resources
+2017-07-26 03:03:32,918 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 03:03:32,918 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\ui.apps\META-INF
+2017-07-26 03:03:32,919 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 03:03:32,919 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources to ../vault-work/META-INF
+2017-07-26 03:03:32,946 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 158 resources
+2017-07-26 03:03:32,955 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 03:03:32,955 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\ui.apps\src\test\resources
+2017-07-26 03:03:37,238 [Worker-117] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\AEM\workspace\portfolio
+2017-07-26 03:03:37,238 [Worker-117] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean
+2017-07-26 03:03:47,983 [Worker-116] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\AEM\workspace\portfolio
+2017-07-26 03:03:47,984 [Worker-116] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2017-07-26 03:04:01,264 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 03:04:01,264 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\core\src\main\resources
+2017-07-26 03:04:01,306 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 03:04:01,306 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\core\src\test\resources
+2017-07-26 03:04:01,792 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 03:04:01,792 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\htl\src\main\resources
+2017-07-26 03:04:01,823 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 03:04:01,824 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\htl\src\test\resources
+2017-07-26 03:04:02,071 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 03:04:02,071 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\it.tests\src\main\resources
+2017-07-26 03:04:02,104 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 03:04:02,104 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\it.tests\src\test\resources
+2017-07-26 03:04:02,199 [Worker-99] WARN  o.e.m.c.i.embedder.EclipseLogger - Manifest org.myorg:portfolio.it.tests:bundle:0.0.1-SNAPSHOT : Unused Private-Package instructions, no such package(s) on the class path: [!*]
+2017-07-26 03:04:02,200 [Worker-99] WARN  o.e.m.c.i.embedder.EclipseLogger - Manifest org.myorg:portfolio.it.tests:bundle:0.0.1-SNAPSHOT : The JAR is empty: The instructions for the JAR named org.myorg.portfolio.it.tests did not cause any content to be included, this is likely wrong
+2017-07-26 03:04:02,853 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 03:04:02,854 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\it.launcher\src\main\resources
+2017-07-26 03:04:02,856 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 03:04:02,856 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\it.launcher\src\test\resources
+2017-07-26 03:04:03,456 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 03:04:03,456 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\key\src\main\resources
+2017-07-26 03:04:03,488 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 03:04:03,488 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\key\src\test\resources
+2017-07-26 03:04:04,763 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 03:04:04,764 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\ui.apps\META-INF
+2017-07-26 03:04:04,765 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 03:04:04,769 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources to ../vault-work/META-INF
+2017-07-26 03:04:04,801 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 158 resources
+2017-07-26 03:04:04,811 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 03:04:04,811 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\ui.apps\src\test\resources
+2017-07-26 03:04:04,885 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 03:04:04,885 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\ui.content\META-INF
+2017-07-26 03:04:04,886 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 03:04:04,887 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources to ../vault-work/META-INF
+2017-07-26 03:04:04,891 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 27 resources
+2017-07-26 03:04:04,895 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 03:04:04,895 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\ui.content\src\test\resources
+2017-07-26 03:04:51,828 [Worker-115] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.apache.sling.ide.eclipse.m2e.contentPackageLifecycleMapping lifecycle mapping for MavenProject: org.myorg:portfolio.ui.content:0.0.1-SNAPSHOT @ E:\AEM\workspace\portfolio\ui.content\pom.xml.
+2017-07-26 03:04:51,934 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 03:04:51,934 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\ui.content\META-INF
+2017-07-26 03:04:51,935 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 03:04:51,936 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource to ../vault-work/META-INF
+2017-07-26 03:04:51,936 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-26 03:04:51,937 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 03:04:51,937 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\ui.content\src\test\resources
+2017-07-26 03:05:00,706 [Worker-116] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-07-26 03:05:01,230 [Worker-116] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.apache.sling.ide.eclipse.m2e.contentPackageLifecycleMapping lifecycle mapping for MavenProject: org.myorg:portfolio.ui.content:0.0.1-SNAPSHOT @ E:\AEM\workspace\portfolio\ui.content\pom.xml.
+2017-07-26 03:05:01,307 [Worker-116] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /portfolio.ui.content/src/main/java
+2017-07-26 03:05:01,308 [Worker-116] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /portfolio.ui.content/src/main/content/META-INF
+2017-07-26 03:05:01,308 [Worker-116] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /portfolio.ui.content/src/main/content/jcr_root
+2017-07-26 03:05:01,308 [Worker-116] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /portfolio.ui.content/src/test/java
+2017-07-26 03:05:01,438 [Worker-116] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2017-07-26 03:05:01,601 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 03:05:01,601 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\ui.content\META-INF
+2017-07-26 03:05:01,602 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 03:05:01,603 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources to ../vault-work/META-INF
+2017-07-26 03:05:01,609 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 27 resources
+2017-07-26 03:05:01,644 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 03:05:01,644 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\ui.content\src\test\resources
+2017-07-26 03:05:08,216 [Worker-104] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\AEM\workspace\portfolio
+2017-07-26 03:05:08,216 [Worker-104] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2017-07-26 03:05:19,031 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 03:05:19,031 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\core\src\main\resources
+2017-07-26 03:05:19,058 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 03:05:19,058 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\core\src\test\resources
+2017-07-26 03:05:19,279 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 03:05:19,279 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\htl\src\main\resources
+2017-07-26 03:05:19,304 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 03:05:19,304 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\htl\src\test\resources
+2017-07-26 03:05:19,500 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 03:05:19,500 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\key\src\main\resources
+2017-07-26 03:05:19,524 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 03:05:19,524 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\key\src\test\resources
+2017-07-26 03:05:20,310 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 03:05:20,311 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\ui.apps\META-INF
+2017-07-26 03:05:20,312 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 03:05:20,316 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource to ../vault-work/META-INF
+2017-07-26 03:05:20,316 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-26 03:05:20,318 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 03:05:20,318 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\ui.apps\src\test\resources
+2017-07-26 03:05:20,350 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 03:05:20,350 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\ui.content\META-INF
+2017-07-26 03:05:20,351 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 03:05:20,351 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources to ../vault-work/META-INF
+2017-07-26 03:05:20,357 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 27 resources
+2017-07-26 03:05:20,360 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 03:05:20,360 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\ui.content\src\test\resources
+2017-07-26 03:06:04,702 [Worker-116] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\AEM\workspace\portfolio\ui.content
+2017-07-26 03:06:04,702 [Worker-116] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean
+2017-07-26 03:06:07,739 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 03:06:07,739 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\ui.content\META-INF
+2017-07-26 03:06:07,740 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 03:06:07,741 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources to ../vault-work/META-INF
+2017-07-26 03:06:07,752 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 27 resources
+2017-07-26 03:06:07,785 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 03:06:07,785 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\ui.content\src\test\resources
+2017-07-26 03:06:15,924 [Worker-105] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\AEM\workspace\portfolio\ui.content
+2017-07-26 03:06:15,924 [Worker-105] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2017-07-26 03:06:20,124 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 03:06:20,124 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\ui.content\META-INF
+2017-07-26 03:06:20,124 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 03:06:20,125 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources to ../vault-work/META-INF
+2017-07-26 03:06:20,127 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 27 resources
+2017-07-26 03:06:20,136 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 03:06:20,136 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\ui.content\src\test\resources
+2017-07-26 03:07:07,107 [Worker-120] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.apache.sling.ide.eclipse.m2e.contentPackageLifecycleMapping lifecycle mapping for MavenProject: org.myorg:portfolio.ui.content:0.0.1-SNAPSHOT @ E:\AEM\workspace\portfolio\ui.content\pom.xml.
+2017-07-26 03:07:07,193 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 03:07:07,193 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\ui.content\META-INF
+2017-07-26 03:07:07,194 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 03:07:07,194 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource to ../vault-work/META-INF
+2017-07-26 03:07:07,194 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-26 03:07:07,195 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 03:07:07,195 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\ui.content\src\test\resources
+2017-07-26 03:07:08,601 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 03:07:08,601 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\ui.content\META-INF
+2017-07-26 03:07:08,602 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 03:07:08,603 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources to ../vault-work/META-INF
+2017-07-26 03:07:08,611 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 27 resources
+2017-07-26 03:07:08,660 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 03:07:08,661 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\ui.content\src\test\resources
+2017-07-26 03:07:20,843 [Worker-99] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-07-26 03:07:21,334 [Worker-99] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.apache.sling.ide.eclipse.m2e.contentPackageLifecycleMapping lifecycle mapping for MavenProject: org.myorg:portfolio.ui.content:0.0.1-SNAPSHOT @ E:\AEM\workspace\portfolio\ui.content\pom.xml.
+2017-07-26 03:07:21,401 [Worker-99] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /portfolio.ui.content/src/main/java
+2017-07-26 03:07:21,401 [Worker-99] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /portfolio.ui.content/src/main/content/META-INF
+2017-07-26 03:07:21,401 [Worker-99] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /portfolio.ui.content/src/main/content/jcr_root
+2017-07-26 03:07:21,402 [Worker-99] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /portfolio.ui.content/src/test/java
+2017-07-26 03:07:21,529 [Worker-99] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2017-07-26 03:07:21,711 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 03:07:21,711 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\ui.content\META-INF
+2017-07-26 03:07:21,712 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 03:07:21,712 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources to ../vault-work/META-INF
+2017-07-26 03:07:21,716 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 27 resources
+2017-07-26 03:07:21,748 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 03:07:21,748 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\ui.content\src\test\resources
+2017-07-26 03:07:31,281 [Worker-116] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\AEM\workspace\portfolio\ui.content
+2017-07-26 03:07:31,282 [Worker-116] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2017-07-26 03:07:55,779 [Worker-117] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.apache.sling.ide.eclipse.m2e.contentPackageLifecycleMapping lifecycle mapping for MavenProject: org.myorg:portfolio.ui.content:0.0.1-SNAPSHOT @ E:\AEM\workspace\portfolio\ui.content\pom.xml.
+2017-07-26 03:07:55,857 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 03:07:55,857 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\ui.content\META-INF
+2017-07-26 03:07:55,857 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 03:07:55,858 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource to ../vault-work/META-INF
+2017-07-26 03:07:55,858 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-26 03:07:55,858 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 03:07:55,858 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\ui.content\src\test\resources
+2017-07-26 03:07:57,253 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 03:07:57,254 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\ui.content\META-INF
+2017-07-26 03:07:57,254 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 03:07:57,255 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources to ../vault-work/META-INF
+2017-07-26 03:07:57,260 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 27 resources
+2017-07-26 03:07:57,296 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 03:07:57,296 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\ui.content\src\test\resources
+2017-07-26 03:08:13,136 [Worker-119] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.apache.sling.ide.eclipse.m2e.contentPackageLifecycleMapping lifecycle mapping for MavenProject: org.myorg:portfolio.ui.content:0.0.1-SNAPSHOT @ E:\AEM\workspace\portfolio\ui.content\pom.xml.
+2017-07-26 03:08:13,201 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 03:08:13,201 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\ui.content\META-INF
+2017-07-26 03:08:13,202 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 03:08:13,202 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource to ../vault-work/META-INF
+2017-07-26 03:08:13,202 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-26 03:08:13,203 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 03:08:13,203 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\ui.content\src\test\resources
+2017-07-26 03:08:17,434 [Worker-118] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.apache.sling.ide.eclipse.m2e.contentPackageLifecycleMapping lifecycle mapping for MavenProject: org.myorg:portfolio.ui.content:0.0.1-SNAPSHOT @ E:\AEM\workspace\portfolio\ui.content\pom.xml.
+2017-07-26 03:08:17,500 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 03:08:17,500 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\ui.content\META-INF
+2017-07-26 03:08:17,501 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 03:08:17,501 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource to ../vault-work/META-INF
+2017-07-26 03:08:17,501 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-26 03:08:17,502 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 03:08:17,502 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\ui.content\src\test\resources
+2017-07-26 03:08:25,962 [Worker-119] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-07-26 03:08:26,464 [Worker-119] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.apache.sling.ide.eclipse.m2e.contentPackageLifecycleMapping lifecycle mapping for MavenProject: org.myorg:portfolio.ui.content:0.0.1-SNAPSHOT @ E:\AEM\workspace\portfolio\ui.content\pom.xml.
+2017-07-26 03:08:26,529 [Worker-119] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /portfolio.ui.content/src/main/java
+2017-07-26 03:08:26,529 [Worker-119] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /portfolio.ui.content/src/main/content/META-INF
+2017-07-26 03:08:26,529 [Worker-119] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /portfolio.ui.content/src/main/content/jcr_root
+2017-07-26 03:08:26,530 [Worker-119] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /portfolio.ui.content/src/test/java
+2017-07-26 03:08:26,671 [Worker-119] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2017-07-26 03:08:26,821 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 03:08:26,821 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\ui.content\META-INF
+2017-07-26 03:08:26,822 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 03:08:26,822 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources to ../vault-work/META-INF
+2017-07-26 03:08:26,826 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 27 resources
+2017-07-26 03:08:26,857 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 03:08:26,857 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\ui.content\src\test\resources
+2017-07-26 03:08:37,286 [Worker-117] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\AEM\workspace\portfolio\ui.content
+2017-07-26 03:08:37,286 [Worker-117] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2017-07-26 03:08:41,971 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 03:08:41,972 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\ui.content\META-INF
+2017-07-26 03:08:41,972 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 03:08:41,973 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources to ../vault-work/META-INF
+2017-07-26 03:08:41,976 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 27 resources
+2017-07-26 03:08:41,979 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 03:08:41,979 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\ui.content\src\test\resources
+2017-07-26 03:08:49,668 [Worker-117] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\AEM\workspace\portfolio
+2017-07-26 03:08:49,668 [Worker-117] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2017-07-26 03:09:04,596 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 03:09:04,596 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\core\src\main\resources
+2017-07-26 03:09:04,621 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 03:09:04,621 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\core\src\test\resources
+2017-07-26 03:09:04,771 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 03:09:04,771 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\htl\src\main\resources
+2017-07-26 03:09:04,838 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 03:09:04,838 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\htl\src\test\resources
+2017-07-26 03:09:05,024 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 03:09:05,024 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\it.tests\src\main\resources
+2017-07-26 03:09:05,045 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 03:09:05,045 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\it.tests\src\test\resources
+2017-07-26 03:09:05,693 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 03:09:05,693 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\it.launcher\src\main\resources
+2017-07-26 03:09:05,695 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 03:09:05,695 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\it.launcher\src\test\resources
+2017-07-26 03:09:05,782 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 03:09:05,782 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\key\src\main\resources
+2017-07-26 03:09:05,812 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 03:09:05,813 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\key\src\test\resources
+2017-07-26 03:09:07,102 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 03:09:07,102 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\ui.apps\META-INF
+2017-07-26 03:09:07,105 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 03:09:07,109 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource to ../vault-work/META-INF
+2017-07-26 03:09:07,110 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-26 03:09:07,112 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 03:09:07,112 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\ui.apps\src\test\resources
+2017-07-26 03:09:07,327 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 03:09:07,327 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\ui.content\META-INF
+2017-07-26 03:09:07,328 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 03:09:07,328 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource to ../vault-work/META-INF
+2017-07-26 03:09:07,328 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-26 03:09:07,329 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-26 03:09:07,329 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\ui.content\src\test\resources
+2017-07-26 03:09:24,905 [Worker-120] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\AEM\workspace\portfolio
+2017-07-26 03:09:24,905 [Worker-120] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -PautoInstallPackage  -B clean install 
+2017-08-05 18:55:02,042 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-05 18:55:02,054 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\clientLibDemo\ui.apps\META-INF
+2017-08-05 18:55:02,064 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-05 18:55:02,083 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources to ../vault-work/META-INF
+2017-08-05 18:55:02,281 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 62 resources
+2017-08-05 18:55:02,823 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-05 18:55:02,824 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\clientLibDemo\ui.apps\src\test\resources
+2017-08-05 18:55:03,493 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-05 18:55:03,494 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\clientLibDemo\ui.content\META-INF
+2017-08-05 18:55:03,500 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-05 18:55:03,503 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources to ../vault-work/META-INF
+2017-08-05 18:55:03,537 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 23 resources
+2017-08-05 18:55:03,779 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-05 18:55:03,779 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\clientLibDemo\ui.content\src\test\resources
+2017-08-05 18:55:10,844 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-05 18:55:10,846 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\nagarrosite\ui.apps\META-INF
+2017-08-05 18:55:10,852 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-05 18:55:10,854 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources to ../vault-work/META-INF
+2017-08-05 18:55:10,907 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 83 resources
+2017-08-05 18:55:13,186 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-05 18:55:13,187 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\nagarrosite\ui.apps\src\test\resources
+2017-08-05 18:55:20,462 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-05 18:55:20,463 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\nagarrosite\ui.content\META-INF
+2017-08-05 18:55:20,611 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-05 18:55:20,649 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources to ../vault-work/META-INF
+2017-08-05 18:55:21,211 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 29 resources
+2017-08-05 18:55:23,304 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-05 18:55:23,304 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\nagarrosite\ui.content\src\test\resources
+2017-08-05 18:55:26,227 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-05 18:55:26,228 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\clientLibDemo\ui.apps\META-INF
+2017-08-05 18:55:26,233 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-05 18:55:26,259 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources to ../vault-work/META-INF
+2017-08-05 18:55:26,291 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 62 resources
+2017-08-05 18:55:26,323 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-05 18:55:26,324 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\clientLibDemo\ui.apps\src\test\resources
+2017-08-05 18:55:39,487 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: org.myorg:portfolio:0.0.1-SNAPSHOT @ E:\AEM\workspace\portfolio\pom.xml.
+2017-08-05 18:55:43,287 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.apache.sling.ide.eclipse.m2e.contentPackageLifecycleMapping lifecycle mapping for MavenProject: org.myorg:portfolio.ui.apps:0.0.1-SNAPSHOT @ E:\AEM\workspace\portfolio\ui.apps\pom.xml.
+2017-08-05 18:55:47,213 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.myorg:portfolio.it.launcher:0.0.1-SNAPSHOT @ E:\AEM\workspace\portfolio\it.launcher\pom.xml.
+2017-08-05 18:55:49,751 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.myorg:portfolio.it.tests:0.0.1-SNAPSHOT @ E:\AEM\workspace\portfolio\it.tests\pom.xml.
+2017-08-05 18:55:51,493 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.myorg:portfolio.key:0.0.1-SNAPSHOT @ E:\AEM\workspace\portfolio\key\pom.xml.
+2017-08-05 18:55:52,250 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.myorg:portfolio.core:0.0.1-SNAPSHOT @ E:\AEM\workspace\portfolio\core\pom.xml.
+2017-08-05 18:55:52,846 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.apache.sling.ide.eclipse.m2e.contentPackageLifecycleMapping lifecycle mapping for MavenProject: org.myorg:portfolio.ui.content:0.0.1-SNAPSHOT @ E:\AEM\workspace\portfolio\ui.content\pom.xml.
+2017-08-05 18:55:53,357 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.myorg:portfolio.htl:0.0.1-SNAPSHOT @ E:\AEM\workspace\portfolio\htl\pom.xml.
+2017-08-05 18:56:11,504 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-05 18:56:11,505 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\core\src\main\resources
+2017-08-05 18:56:21,684 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Generating 1 MetaType Descriptors in E:\AEM\workspace\portfolio\core\target\classes\OSGI-INF\metatype\org.myorg.portfolio.core.schedulers.SimpleScheduledTask.xml
+2017-08-05 18:56:21,718 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Writing 1 Service Component Descriptors to E:\AEM\workspace\portfolio\core\target\classes\OSGI-INF\org.myorg.portfolio.core.filters.LoggingFilter.xml
+2017-08-05 18:56:21,725 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Writing 1 Service Component Descriptors to E:\AEM\workspace\portfolio\core\target\classes\OSGI-INF\org.myorg.portfolio.core.listeners.SimpleResourceListener.xml
+2017-08-05 18:56:21,733 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Writing 1 Service Component Descriptors to E:\AEM\workspace\portfolio\core\target\classes\OSGI-INF\org.myorg.portfolio.core.schedulers.SimpleScheduledTask.xml
+2017-08-05 18:56:21,740 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Writing 1 Service Component Descriptors to E:\AEM\workspace\portfolio\core\target\classes\OSGI-INF\org.myorg.portfolio.core.servlets.SimpleServlet.xml
+2017-08-05 18:56:21,759 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-05 18:56:21,760 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\core\src\test\resources
+2017-08-05 18:56:26,813 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-05 18:56:26,814 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\htl\src\main\resources
+2017-08-05 18:56:27,068 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-05 18:56:27,069 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\htl\src\test\resources
+2017-08-05 18:56:30,042 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-05 18:56:30,043 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\it.tests\src\main\resources
+2017-08-05 18:56:30,259 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-05 18:56:30,260 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\it.tests\src\test\resources
+2017-08-05 18:56:44,057 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-05 18:56:44,058 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\it.launcher\src\main\resources
+2017-08-05 18:56:44,069 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-05 18:56:44,070 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\it.launcher\src\test\resources
+2017-08-05 18:56:46,514 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-05 18:56:46,515 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\key\src\main\resources
+2017-08-05 18:56:47,228 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Writing 1 Service Component Descriptors to E:\AEM\workspace\portfolio\key\target\classes\OSGI-INF\org.myorg.portfolio.key.KeyServiceImpl.xml
+2017-08-05 18:56:47,239 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-05 18:56:47,239 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\key\src\test\resources
+2017-08-05 18:57:01,741 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-05 18:57:01,742 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\ui.apps\META-INF
+2017-08-05 18:57:01,750 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-05 18:57:01,753 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources to ../vault-work/META-INF
+2017-08-05 18:57:02,057 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 158 resources
+2017-08-05 18:57:06,733 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-05 18:57:06,733 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\ui.apps\src\test\resources
+2017-08-05 18:57:08,453 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-05 18:57:08,454 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\ui.content\META-INF
+2017-08-05 18:57:08,494 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-05 18:57:08,496 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources to ../vault-work/META-INF
+2017-08-05 18:57:08,629 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 27 resources
+2017-08-05 18:57:09,168 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-05 18:57:09,169 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\ui.content\src\test\resources

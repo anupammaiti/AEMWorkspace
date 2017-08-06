@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Widget"
+    allowBlank="{Boolean}false"
+    fieldLabel="Content Path"
+    name="./action"
+    xtype="textfield">
+    <listeners
+        jcr:primaryType="nt:unstructured"
+        loadcontent="function() { var f = this.findParentByType(&quot;form&quot;); if(f &amp;&amp; (typeof(this.value) == &quot;undefined&quot; || this.value.length == 0)) { this.setValue(&quot;/content/usergenerated&quot; + f.form.url.replace(/^.content/,&quot;&quot;).replace(/jcr.content.*/,&quot;&quot;) + f.form.id + &quot;/&quot;)}}"/>
+</jcr:root>

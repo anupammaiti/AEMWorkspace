@@ -1,0 +1,170 @@
+/*
+ * Copyright 1997-2009 Day Management AG
+ * Barfuesserplatz 6, 4001 Basel, Switzerland
+ * All Rights Reserved.
+ *
+ * This software is the confidential and proprietary information of
+ * Day Management AG, ("Confidential Information"). You shall not
+ * disclose such Confidential Information and shall use it only in
+ * accordance with the terms of the license agreement you entered into
+ * with Day.
+ */
+
+.x-tagging-menu {
+    padding:0 !important;
+}
+
+
+.tagging-node-selected span {
+    font-weight: 800 !important;
+}
+
+/* trigger button */
+.arrow-trigger {
+    width:17px;
+    height:21px;
+    border:0;
+    background:transparent url(../../../../cq/tagging/widgets/themes/default/images/form/trigger.gif) no-repeat 0 0;
+    cursor:pointer;
+    border-bottom: 1px solid #B5B8C8;
+    top:0;
+}
+
+.trigger-focus {
+    background-position:-51px 0;
+}
+
+/* tag labels */
+
+.taglabel {
+    clear: none  !important;
+    display: inline !important;
+    
+    width: auto  !important;
+    padding: 2px 1px 1px 2px !important;
+    float: left  !important;
+}
+
+.taglabel td {
+	margin: 0;
+    padding: 2px 4px;
+}
+
+/* tag label inner table structure */
+
+.taglabel table {
+    border-collapse: collapse;
+    background: #dddddd;
+    border: solid 1px #d0d0d0;
+}
+
+/* inner cell with taglabel text contents */
+
+.taglabel-body {
+    margin-bottom:0px;
+    margin-top:0px;
+}
+
+.taglabel .parentpath {
+    font-size: 7pt;
+    display: block;
+    white-space: nowrap;
+    color: #666;
+}
+
+.taglabel .tagname {
+    font-size: 8pt;
+    display: block;
+    text-align: right;
+    white-space: nowrap;
+}
+
+.taglabel .no-parentpath {
+    font-size: 9pt;
+}
+
+/* added (but existing) tags: green text on normal background */
+.addedtag .tagname {
+    font-style: italic;
+    /*color: green !important;*/
+}
+
+/* new tags: green text on grey background */
+.newtag table {
+    background: #DDD !important;
+}
+.newtag .tagname {
+    font-style: italic;
+    /*color: blue !important;*/
+}
+
+/* new tag that cannot be created */
+.deniedtag .parentpath {
+    color: red !important;
+}
+.deniedtag .tagname {
+    font-style: italic;
+    color: red !important;
+}
+
+
+/* remove button (X) */
+
+.taglabel-tool-cell {
+    width: 15px;
+    height: 38px;
+    padding: 3px 2px 2px 0;
+}
+.taglabel-tool {
+    cursor:pointer;
+    background:transparent url(../../../../cq/tagging/widgets/themes/default/images/label/tool-sprites.gif) no-repeat;
+    width:15px;
+    height:15px;
+    float:right;
+}
+.taglabel-tool-remove {
+    visibility: hidden;
+    margin-bottom:1px;
+    margin-left:0;
+    margin-right:1px;
+    margin-top:0px;
+    font-size: 8pt; /*ie does not set the proper height if font-size is too big*/
+}
+div.taglabel_hover .taglabel-tool-remove {
+    visibility: visible;
+    height:15px !important;
+}
+
+/* input field / combo */
+
+.floating {
+    float:left;
+}
+
+.invisible-input {
+    border: 0 !important;
+    background: white !important;
+}
+
+.dummy-input .invisible-input {
+    padding-top: 10px;
+}
+
+.dummy-input {
+    background:#FFFFFF url(../../../../cq/tagging/widgets/themes/default/images/form/text-bg.gif) repeat-x scroll 0 0;
+    border:1px solid #B5B8C8;
+    padding:1px;
+    padding-top:3px;
+    float: left;
+}
+
+.dummy-input-focus {
+    border:1px solid #777777 !important;
+}
+
+/* menu fix */
+
+/* x-menu has a z-index of 15000 (see standard menu.css) */
+.x-above-menu {
+    z-index: 20000 !important;
+}

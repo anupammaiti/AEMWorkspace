@@ -1,5 +1,5 @@
 Manifest-Version: 1.0
-Bnd-LastModified: 1500929165022
+Bnd-LastModified: 1501939608018
 Build-Jdk: 1.7.0_51
 Built-By: sukhrajsingh
 Bundle-Description: Core bundle for portfolio
@@ -8,5 +8,10 @@ Bundle-Name: portfolio - key
 Bundle-SymbolicName: org.myorg.portfolio.key
 Bundle-Version: 0.0.1.SNAPSHOT
 Created-By: Apache Maven Bundle Plugin
+Export-Package: org.myorg.portfolio.key;version="0.0.1"
+Provide-Capability: osgi.service;effective:=active;objectClass="org.myor
+ g.portfolio.key.KeyService";service.vendor=Adobe
+Require-Capability: osgi.ee;filter:="(&(osgi.ee=JavaSE)(version=1.6))"
+Service-Component: OSGI-INF/org.myorg.portfolio.key.KeyServiceImpl.xml
 Sling-Model-Packages: org.myorg.portfolio.key
 Tool: Bnd-2.3.0.201405100607

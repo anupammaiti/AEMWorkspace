@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Dialog"
+    helpPath="en/cq/current/wcm/default_components.html#Profile Detailed Name"
+    title="Full Name">
+    <items jcr:primaryType="cq:WidgetCollection">
+        <panels jcr:primaryType="cq:TabPanel">
+            <items jcr:primaryType="cq:WidgetCollection">
+                <titles
+                    jcr:primaryType="cq:Panel"
+                    title="Titles">
+                    <items jcr:primaryType="cq:WidgetCollection">
+                        <honoricpref
+                            jcr:primaryType="nt:unstructured"
+                            fieldLabel="Honoric Prefix"
+                            name="./honoricPrefixTitle"
+                            xtype="textfield"/>
+                        <title
+                            jcr:primaryType="nt:unstructured"
+                            fieldLabel="Title"
+                            name="./title"
+                            xtype="textfield"/>
+                        <givenname
+                            jcr:primaryType="nt:unstructured"
+                            fieldLabel="Given Name"
+                            name="./givenNameTitle"
+                            xtype="textfield"/>
+                        <middlename
+                            jcr:primaryType="nt:unstructured"
+                            fieldLabel="Middle Name"
+                            name="./middleNameTitle"
+                            xtype="textfield"/>
+                        <familyname
+                            jcr:primaryType="nt:unstructured"
+                            fieldLabel="Family Name"
+                            name="./familyNameTitle"
+                            xtype="textfield"/>
+                        <honoricsuf
+                            jcr:primaryType="nt:unstructured"
+                            fieldLabel="Honoric Suffix"
+                            name="./honoricSuffixTitle"
+                            xtype="textfield"/>
+                    </items>
+                </titles>
+            </items>
+        </panels>
+    </items>
+</jcr:root>

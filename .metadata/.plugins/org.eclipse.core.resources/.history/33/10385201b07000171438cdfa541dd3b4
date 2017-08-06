@@ -1,0 +1,8 @@
+package org.myorg.portfolio.htl;
+
+public interface HeroTextBean {
+    
+    public void setKey(int val); 
+    public String getKey();
+ 
+}

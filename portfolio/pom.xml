@@ -25,6 +25,7 @@
     <modules>
         <module>core</module>
         <module>key</module>
+        <module>htl</module>
         <module>ui.apps</module>
         <module>ui.content</module>
         <module>it.tests</module>
