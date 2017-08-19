@@ -1,8 +1,0 @@
-package org.myorg.portfolio.htl;
-
-public interface KeyService {
-    
-    public void setKey(int val); 
-    public String getKey();
- 
-}

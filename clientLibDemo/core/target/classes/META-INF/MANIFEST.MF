@@ -1,5 +1,5 @@
 Manifest-Version: 1.0
-Bnd-LastModified: 1500751204095
+Bnd-LastModified: 1503122270661
 Build-Jdk: 1.7.0_51
 Built-By: sukhrajsingh
 Bundle-Description: Core bundle for clientLibDemo

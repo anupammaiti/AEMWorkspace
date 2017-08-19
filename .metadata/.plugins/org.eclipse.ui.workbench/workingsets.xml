@@ -11,5 +11,8 @@
 </workingSet>
 <workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1494655182200_2" label="we.retail" name="we.retail"/>
 <workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1500744554635_3" label="key61" name="key61"/>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1503122721569_4" label="portfolio" name="portfolio">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/portfolio.relationalDB" type="4"/>
+</workingSet>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1492185269685_0" label="Window Working Set" name="Aggregate for window 1492185269685"/>
 </workingSetManager>

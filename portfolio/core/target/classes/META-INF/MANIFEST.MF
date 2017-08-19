@@ -1,5 +1,5 @@
 Manifest-Version: 1.0
-Bnd-LastModified: 1501939584970
+Bnd-LastModified: 1503127790480
 Build-Jdk: 1.7.0_51
 Built-By: sukhrajsingh
 Bundle-Description: Core bundle for portfolio
@@ -8,14 +8,14 @@ Bundle-Name: portfolio - Core
 Bundle-SymbolicName: org.myorg.portfolio.core
 Bundle-Version: 0.0.1.SNAPSHOT
 Created-By: Apache Maven Bundle Plugin
-Export-Package: org.myorg.portfolio.core.filters;uses:="javax.servlet";v
- ersion="0.0.1",org.myorg.portfolio.core.listeners;uses:="org.osgi.servi
- ce.event";version="0.0.1",org.myorg.portfolio.core.models;uses:="javax.
- annotation,javax.inject,org.apache.sling.api.resource,org.apache.sling.
- models.annotations";version="0.0.1",org.myorg.portfolio.core;version="1
+Export-Package: org.myorg.portfolio.core.filters;version="0.0.1";uses:="
+ javax.servlet",org.myorg.portfolio.core.listeners;version="0.0.1";uses:
+ ="org.osgi.service.event",org.myorg.portfolio.core.models;version="0.0.
+ 1";uses:="javax.annotation,javax.inject,org.apache.sling.api.resource,o
+ rg.apache.sling.models.annotations",org.myorg.portfolio.core;version="1
  .0",org.myorg.portfolio.core.schedulers;version="0.0.1",org.myorg.portf
- olio.core.servlets;uses:="javax.servlet,org.apache.sling.api,org.apache
- .sling.api.servlets";version="0.0.1"
+ olio.core.servlets;version="0.0.1";uses:="javax.servlet,org.apache.slin
+ g.api,org.apache.sling.api.servlets"
 Import-Package: javax.annotation,javax.inject;version="[0.0,1)",javax.se
  rvlet,org.apache.sling.api;version="[2.3,3)",org.apache.sling.api.reque
  st;version="[2.4,3)",org.apache.sling.api.resource;version="[2.5,3)",or

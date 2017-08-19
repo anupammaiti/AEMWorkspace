@@ -17,4 +17,8 @@
 <fullyQualifiedTypeName name="com.nagarrosite.services.KeyService"/>
 <fullyQualifiedTypeName name="org.apache.felix.scr.annotations.Component"/>
 <fullyQualifiedTypeName name="org.apache.felix.scr.annotations.Service"/>
+<fullyQualifiedTypeName name="java.sql.SQLException"/>
+<fullyQualifiedTypeName name="java.sql.Connection"/>
+<fullyQualifiedTypeName name="java.sql.DriverManager"/>
+<fullyQualifiedTypeName name="com.adobe.cq.CustomerService"/>
 </qualifiedTypeNameHistroy>

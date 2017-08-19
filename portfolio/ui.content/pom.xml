@@ -132,6 +132,11 @@
                         </embedded>
                          <embedded>
                             <groupId>org.myorg</groupId>
+                            <artifactId>portfolio.relationalDB</artifactId>
+                            <target>/apps/portfolio/install</target>
+                        </embedded>
+                         <embedded>
+                            <groupId>org.myorg</groupId>
                             <artifactId>portfolio.htl</artifactId>
                             <target>/apps/portfolio/install</target>
                         </embedded>
@@ -218,6 +223,11 @@
         <dependency>
             <groupId>org.myorg</groupId>
             <artifactId>portfolio.htl</artifactId>
+            <version>0.0.1-SNAPSHOT</version>
+        </dependency>
+          <dependency>
+            <groupId>org.myorg</groupId>
+            <artifactId>portfolio.relationalDB</artifactId>
             <version>0.0.1-SNAPSHOT</version>
         </dependency>
 

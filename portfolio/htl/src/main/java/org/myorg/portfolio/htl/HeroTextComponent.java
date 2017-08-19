@@ -17,8 +17,9 @@ public class HeroTextComponent extends WCMUse {
          
         Node currentNode = getResource().adaptTo(Node.class);
         
+        
         heroTextBean = new HeroTextBean();
-         
+        System.out.println(currentNode.getName());
         if(currentNode.hasProperty("jcr:Heading")){
             heroTextBean.setHeadingText(currentNode.getProperty("./jcr:Heading").getString());
         }

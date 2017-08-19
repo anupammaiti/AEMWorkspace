@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;com.adobe.cq&apos; to &apos;CQJDBCProject/src&apos;&#x0D;&#x0A;- Original project: &apos;portfolio.key&apos;&#x0D;&#x0A;- Destination element: &apos;CQJDBCProject/src&apos;&#x0D;&#x0A;- Original element: &apos;portfolio.key/src/main/java/com.adobe.cq&apos;" description="Copy package" destination="=CQJDBCProject/src" element1="/src\/main\/java&lt;com.adobe.cq" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1502009385073" version="1.0"/>
+</session>

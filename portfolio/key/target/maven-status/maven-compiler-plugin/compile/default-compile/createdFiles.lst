@@ -1,2 +1,4 @@
-org\myorg\portfolio\key\KeyService.class
+com\adobe\cq\ConnectionHelper.class
+com\adobe\cq\CustomerService.class
 org\myorg\portfolio\key\KeyServiceImpl.class
+org\myorg\portfolio\key\KeyService.class
