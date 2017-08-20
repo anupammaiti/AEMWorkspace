@@ -1,0 +1,5 @@
+package com.adobe.cq.sample.email;
+
+public class CustomEmailService {
+
+}

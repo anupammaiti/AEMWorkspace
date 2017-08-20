@@ -20172,3 +20172,82 @@ java.io.IOException: '
 2017-08-19 12:59:54,933 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 27 resources
 2017-08-19 12:59:54,937 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2017-08-19 12:59:54,937 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\ui.content\src\test\resources
+2017-08-19 16:09:38,612 [Worker-82] ERROR o.a.j.j.h.ChildNodeEntriesImpl - ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+2017-08-19 16:09:38,668 [Worker-82] ERROR o.a.j.j.h.ChildNodeEntriesImpl - ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+2017-08-19 16:09:38,720 [Worker-82] ERROR o.a.j.j.h.ChildNodeEntriesImpl - ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+2017-08-19 16:09:38,907 [Worker-82] ERROR o.a.j.j.h.ChildNodeEntriesImpl - ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+2017-08-19 16:09:38,980 [Worker-82] ERROR o.a.j.j.h.ChildNodeEntriesImpl - ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+2017-08-19 16:09:39,060 [Worker-82] ERROR o.a.j.j.h.ChildNodeEntriesImpl - ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+2017-08-19 16:09:39,154 [Worker-82] ERROR o.a.j.j.h.ChildNodeEntriesImpl - ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+2017-08-19 16:09:39,193 [Worker-82] ERROR o.a.j.j.h.ChildNodeEntriesImpl - ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+2017-08-19 16:09:39,625 [Worker-82] ERROR o.a.j.j.h.ChildNodeEntriesImpl - ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+2017-08-19 16:09:39,742 [Worker-82] ERROR o.a.j.j.h.ChildNodeEntriesImpl - ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+2017-08-19 16:09:39,826 [Worker-82] ERROR o.a.j.j.h.ChildNodeEntriesImpl - ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+2017-08-19 16:09:39,869 [Worker-82] ERROR o.a.j.j.h.ChildNodeEntriesImpl - ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+2017-08-19 16:09:39,969 [Worker-82] ERROR o.a.j.j.h.ChildNodeEntriesImpl - ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+2017-08-19 16:09:40,053 [Worker-82] ERROR o.a.j.j.h.ChildNodeEntriesImpl - ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+2017-08-19 16:09:40,188 [Worker-82] ERROR o.a.j.j.h.ChildNodeEntriesImpl - ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+2017-08-19 16:09:40,226 [Worker-82] ERROR o.a.j.j.h.ChildNodeEntriesImpl - ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+2017-08-19 16:09:40,226 [Worker-82] ERROR o.a.j.j.h.ChildNodeEntriesImpl - ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+2017-08-19 16:09:40,331 [Worker-82] ERROR o.a.j.j.h.ChildNodeEntriesImpl - ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+2017-08-19 16:09:40,395 [Worker-82] ERROR o.a.j.j.h.ChildNodeEntriesImpl - ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+2017-08-19 16:09:40,454 [Worker-82] ERROR o.a.j.j.h.ChildNodeEntriesImpl - ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+2017-08-19 16:09:40,537 [Worker-82] ERROR o.a.j.j.h.ChildNodeEntriesImpl - ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+2017-08-19 16:09:40,553 [Worker-82] ERROR o.a.j.j.h.ChildNodeEntriesImpl - ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+2017-08-19 16:09:40,554 [Worker-82] ERROR o.a.j.j.h.ChildNodeEntriesImpl - ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+2017-08-19 16:09:40,786 [Worker-82] ERROR o.a.j.j.h.ChildNodeEntriesImpl - ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+2017-08-19 16:09:40,946 [Worker-82] ERROR o.a.j.j.h.ChildNodeEntriesImpl - ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+2017-08-19 16:09:40,947 [Worker-82] ERROR o.a.j.j.h.ChildNodeEntriesImpl - ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+2017-08-19 16:09:40,983 [Worker-82] ERROR o.a.j.j.h.ChildNodeEntriesImpl - ChildInfo iterator contains multiple entries with the same name|index or uniqueID -> ignore ChildNodeInfo.
+2017-08-19 16:14:30,310 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-19 16:14:30,310 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\relationalDB\src\main\resources
+2017-08-19 16:14:30,472 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Writing 1 Service Component Descriptors to E:\AEM\workspace\portfolio\relationalDB\target\classes\OSGI-INF\org.myorg.portfolio.relationalDB.CustomerServiceImp.xml
+2017-08-19 16:14:30,474 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-19 16:14:30,474 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\relationalDB\src\test\resources
+2017-08-19 16:14:31,765 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-19 16:14:31,766 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\relationalDB\src\main\resources
+2017-08-19 16:14:31,894 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-19 16:14:31,894 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\relationalDB\src\test\resources
+2017-08-19 16:14:46,889 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-19 16:14:46,889 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\relationalDB\src\main\resources
+2017-08-19 16:14:47,009 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Writing 1 Service Component Descriptors to E:\AEM\workspace\portfolio\relationalDB\target\classes\OSGI-INF\org.myorg.portfolio.relationalDB.CustomerServiceImp.xml
+2017-08-19 16:14:47,011 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-19 16:14:47,011 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\relationalDB\src\test\resources
+2017-08-19 16:14:48,286 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-19 16:14:48,286 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\relationalDB\src\main\resources
+2017-08-19 16:14:48,378 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-19 16:14:48,378 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\relationalDB\src\test\resources
+2017-08-19 16:18:59,008 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-19 16:18:59,008 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\relationalDB\src\main\resources
+2017-08-19 16:18:59,134 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Writing 1 Service Component Descriptors to E:\AEM\workspace\portfolio\relationalDB\target\classes\OSGI-INF\org.myorg.portfolio.relationalDB.CustomerServiceImp.xml
+2017-08-19 16:18:59,136 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-19 16:18:59,136 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\relationalDB\src\test\resources
+2017-08-19 16:19:00,530 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-19 16:19:00,530 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\relationalDB\src\main\resources
+2017-08-19 16:19:00,654 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-19 16:19:00,654 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\relationalDB\src\test\resources
+2017-08-19 16:19:14,707 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-19 16:19:14,707 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\relationalDB\src\main\resources
+2017-08-19 16:19:14,819 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - Writing 1 Service Component Descriptors to E:\AEM\workspace\portfolio\relationalDB\target\classes\OSGI-INF\org.myorg.portfolio.relationalDB.CustomerServiceImp.xml
+2017-08-19 16:19:14,822 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-19 16:19:14,822 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\relationalDB\src\test\resources
+2017-08-19 16:19:16,103 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-19 16:19:16,103 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\relationalDB\src\main\resources
+2017-08-19 16:19:16,191 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-19 16:19:16,192 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\relationalDB\src\test\resources
+2017-08-19 16:26:02,463 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-19 16:26:02,464 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\relationalDB\src\main\resources
+2017-08-19 16:26:02,567 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-19 16:26:02,567 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\relationalDB\src\test\resources
+2017-08-19 22:54:39,933 [Start Help Server] INFO  org.eclipse.jetty.util.log - Logging initialized @41254319ms
+2017-08-19 22:54:40,033 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-9.2.13.v20150730
+2017-08-19 22:54:40,074 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@d81fc25{/help,null,AVAILABLE}
+2017-08-19 22:54:40,095 [Start Help Server] INFO  o.e.jetty.server.ServerConnector - Started ServerConnector@1ab3af28{HTTP/1.1}{127.0.0.1:63614}
+2017-08-19 22:54:40,095 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started @41254481ms
+2017-08-19 23:03:16,490 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-19 23:03:16,490 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\ui.apps\META-INF
+2017-08-19 23:03:16,491 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-19 23:03:16,491 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource to ../vault-work/META-INF
+2017-08-19 23:03:16,511 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 175 resources
+2017-08-19 23:03:16,768 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-19 23:03:16,768 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\AEM\workspace\portfolio\ui.apps\src\test\resources

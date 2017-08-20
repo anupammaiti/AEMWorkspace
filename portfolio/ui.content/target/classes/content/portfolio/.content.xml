@@ -16,4 +16,6 @@
     </jcr:content>
     <fr/>
     <en/>
+    <relationalDB/>
+    <emailService/>
 </jcr:root>

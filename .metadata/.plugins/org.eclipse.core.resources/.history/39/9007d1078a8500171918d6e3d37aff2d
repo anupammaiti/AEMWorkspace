@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Dialog"
+    activeTab="{Long}0"
+    height="{Long}400"
+    width="{Long}650"
+    xtype="tabpanel">
+    <items jcr:primaryType="cq:WidgetCollection">
+        <first
+            jcr:primaryType="nt:unstructured"
+            title="Title and Text"
+            xtype="panel">
+            <items jcr:primaryType="cq:WidgetCollection">
+                <items
+                    jcr:primaryType="nt:unstructured"
+                    path="/libs/foundation/components/form/defaults/items.infinity.json"
+                    xtype="cqinclude"/>
+                <countriesSource
+                    jcr:primaryType="cq:Widget"
+                    boxLabel="Filter country list by commerce service"
+                    fieldLabel=""
+                    inputValue="true"
+                    name="./applyCommerceCountryFilter"
+                    xtype="checkbox"/>
+                <readOnly
+                    jcr:primaryType="cq:Widget"
+                    boxLabel="Only show non-editable summary"
+                    fieldLabel=""
+                    inputValue="true"
+                    name="./readOnly"
+                    xtype="checkbox"/>
+            </items>
+        </first>
+        <fourth
+            jcr:primaryType="nt:unstructured"
+            title="Constraints"
+            xtype="panel">
+            <items jcr:primaryType="cq:WidgetCollection">
+                <required
+                    jcr:primaryType="cq:Widget"
+                    fieldLabel="Required"
+                    name="./required"
+                    type="checkbox"
+                    xtype="selection">
+                    <options jcr:primaryType="cq:WidgetCollection">
+                        <firstname
+                            jcr:primaryType="nt:unstructured"
+                            text="First Name"
+                            value="firstname"/>
+                        <lastname
+                            jcr:primaryType="nt:unstructured"
+                            text="Last Name"
+                            value="lastname"/>
+                        <street1
+                            jcr:primaryType="nt:unstructured"
+                            text="Street Address 1"
+                            value="street1"/>
+                        <street2
+                            jcr:primaryType="nt:unstructured"
+                            text="Street Address 2"
+                            value="street2"/>
+                        <city
+                            jcr:primaryType="nt:unstructured"
+                            text="City"
+                            value="city"/>
+                        <state
+                            jcr:primaryType="nt:unstructured"
+                            text="State / Province"
+                            value="state"/>
+                        <zip
+                            jcr:primaryType="nt:unstructured"
+                            text="Postal / Zip Code"
+                            value="zip"/>
+                        <country
+                            jcr:primaryType="nt:unstructured"
+                            text="Country"
+                            value="country"/>
+                    </options>
+                </required>
+                <requiredMessage
+                    jcr:primaryType="cq:Widget"
+                    fieldLabel="Required Message"
+                    name="./requiredMessage"
+                    xtype="textarea"/>
+            </items>
+        </fourth>
+        <five
+            jcr:primaryType="nt:unstructured"
+            title="Styling"
+            xtype="panel">
+            <items jcr:primaryType="cq:WidgetCollection">
+                <class
+                    jcr:primaryType="cq:Widget"
+                    anchor=""
+                    fieldLabel="CSS"
+                    name="./css"
+                    xtype="textfield"/>
+            </items>
+        </five>
+    </items>
+</jcr:root>

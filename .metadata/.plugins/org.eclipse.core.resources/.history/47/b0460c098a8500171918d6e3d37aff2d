@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0"
+    jcr:primaryType="sling:Folder"
+    jcr:title="Email"
+    sling:resourceType="foundation/components/form/constraint"
+    constraintMessage="Field does not contain a valid email address."
+    hint="Validates if the field contains an email address."/>

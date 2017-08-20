@@ -9976,3 +9976,172 @@ Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to
 
 !ENTRY org.apache.sling.ide.eclipse-core 2 0 2017-08-19 23:03:24.094
 !MESSAGE No underlying properties file, cannot derive propertyType (jcr:primaryType) for SyncDir[dom:null, file:F/portfolio.ui.apps/src/main/content/jcr_root, jcrPath:/]
+
+!ENTRY org.eclipse.pde.core 4 0 2017-08-20 12:54:19.220
+!MESSAGE Error reading manifest for E:\AEM\workspace\CustomEmailServiceBundle
+!SUBENTRY 1 org.eclipse.pde.core 4 0 2017-08-20 12:54:19.220
+!MESSAGE Invalid manifest header Import-Package: "javax.mail;"
+
+!ENTRY org.apache.sling.ide.eclipse-core 2 0 2017-08-20 12:55:40.802
+!MESSAGE No underlying properties file, cannot derive propertyType (jcr:primaryType) for SyncDir[dom:null, file:F/portfolio.ui.apps/src/main/content/jcr_root, jcrPath:/]
+
+!ENTRY org.eclipse.ant.core 4 1 2017-08-20 12:56:28.792
+!MESSAGE E:\AEM\workspace\.metadata\.plugins\org.eclipse.pde.core\temp\org.eclipse.pde.container.feature\assemble.org.eclipse.pde.container.feature.win32.win32.x86_64.xml:93: The following error occurred while executing this line:
+E:\AEM\workspace\.metadata\.plugins\org.eclipse.pde.core\temp\org.eclipse.pde.container.feature\assemble.org.eclipse.pde.container.feature.win32.win32.x86_64.xml:107: The following error occurred while executing this line:
+E:\AEM\workspace\.metadata\.plugins\org.eclipse.pde.core\temp\org.eclipse.pde.container.feature\assemble.org.eclipse.pde.container.feature.win32.win32.x86_64.xml:46: The following error occurred while executing this line:
+E:\AEM\workspace\.metadata\.plugins\org.eclipse.pde.core\temp\org.eclipse.pde.container.feature\assemble.org.eclipse.pde.container.feature.win32.win32.x86_64.xml:53: Invalid Manifest: E:\AEM\plugins\CustomEmailServiceBundle_1.0.0\META-INF\MANIFEST.MF
+!STACK 0
+E:\AEM\workspace\.metadata\.plugins\org.eclipse.pde.core\temp\org.eclipse.pde.container.feature\assemble.org.eclipse.pde.container.feature.win32.win32.x86_64.xml:93: The following error occurred while executing this line:
+E:\AEM\workspace\.metadata\.plugins\org.eclipse.pde.core\temp\org.eclipse.pde.container.feature\assemble.org.eclipse.pde.container.feature.win32.win32.x86_64.xml:107: The following error occurred while executing this line:
+E:\AEM\workspace\.metadata\.plugins\org.eclipse.pde.core\temp\org.eclipse.pde.container.feature\assemble.org.eclipse.pde.container.feature.win32.win32.x86_64.xml:46: The following error occurred while executing this line:
+E:\AEM\workspace\.metadata\.plugins\org.eclipse.pde.core\temp\org.eclipse.pde.container.feature\assemble.org.eclipse.pde.container.feature.win32.win32.x86_64.xml:53: Invalid Manifest: E:\AEM\plugins\CustomEmailServiceBundle_1.0.0\META-INF\MANIFEST.MF
+	at org.apache.tools.ant.ProjectHelper.addLocationToBuildException(ProjectHelper.java:568)
+	at org.apache.tools.ant.taskdefs.Ant.execute(Ant.java:443)
+	at org.apache.tools.ant.taskdefs.CallTarget.execute(CallTarget.java:105)
+	at org.apache.tools.ant.UnknownElement.execute(UnknownElement.java:293)
+	at sun.reflect.GeneratedMethodAccessor280.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.apache.tools.ant.dispatch.DispatchUtils.execute(DispatchUtils.java:106)
+	at org.apache.tools.ant.Task.perform(Task.java:348)
+	at org.apache.tools.ant.Target.execute(Target.java:435)
+	at org.apache.tools.ant.Target.performTasks(Target.java:456)
+	at org.apache.tools.ant.Project.executeSortedTargets(Project.java:1405)
+	at org.apache.tools.ant.Project.executeTarget(Project.java:1376)
+	at org.apache.tools.ant.helper.DefaultExecutor.executeTargets(DefaultExecutor.java:41)
+	at org.eclipse.ant.internal.core.ant.EclipseDefaultExecutor.executeTargets(EclipseDefaultExecutor.java:36)
+	at org.apache.tools.ant.Project.executeTargets(Project.java:1260)
+	at org.eclipse.ant.internal.core.ant.InternalAntRunner.run(InternalAntRunner.java:705)
+	at org.eclipse.ant.internal.core.ant.InternalAntRunner.run(InternalAntRunner.java:527)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.ant.core.AntRunner.run(AntRunner.java:371)
+	at org.eclipse.pde.internal.core.exports.FeatureExportOperation.runScript(FeatureExportOperation.java:423)
+	at org.eclipse.pde.internal.core.exports.FeatureExportOperation.doExport(FeatureExportOperation.java:279)
+	at org.eclipse.pde.internal.core.exports.FeatureBasedExportOperation.run(FeatureBasedExportOperation.java:50)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+Caused by: E:\AEM\workspace\.metadata\.plugins\org.eclipse.pde.core\temp\org.eclipse.pde.container.feature\assemble.org.eclipse.pde.container.feature.win32.win32.x86_64.xml:107: The following error occurred while executing this line:
+E:\AEM\workspace\.metadata\.plugins\org.eclipse.pde.core\temp\org.eclipse.pde.container.feature\assemble.org.eclipse.pde.container.feature.win32.win32.x86_64.xml:46: The following error occurred while executing this line:
+E:\AEM\workspace\.metadata\.plugins\org.eclipse.pde.core\temp\org.eclipse.pde.container.feature\assemble.org.eclipse.pde.container.feature.win32.win32.x86_64.xml:53: Invalid Manifest: E:\AEM\plugins\CustomEmailServiceBundle_1.0.0\META-INF\MANIFEST.MF
+	at org.apache.tools.ant.ProjectHelper.addLocationToBuildException(ProjectHelper.java:568)
+	at org.apache.tools.ant.taskdefs.Ant.execute(Ant.java:443)
+	at org.apache.tools.ant.taskdefs.CallTarget.execute(CallTarget.java:105)
+	at org.apache.tools.ant.UnknownElement.execute(UnknownElement.java:293)
+	at sun.reflect.GeneratedMethodAccessor280.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.apache.tools.ant.dispatch.DispatchUtils.execute(DispatchUtils.java:106)
+	at org.apache.tools.ant.Task.perform(Task.java:348)
+	at org.apache.tools.ant.Target.execute(Target.java:435)
+	at org.apache.tools.ant.Target.performTasks(Target.java:456)
+	at org.apache.tools.ant.Project.executeSortedTargets(Project.java:1405)
+	at org.apache.tools.ant.helper.SingleCheckExecutor.executeTargets(SingleCheckExecutor.java:38)
+	at org.eclipse.ant.internal.core.ant.EclipseSingleCheckExecutor.executeTargets(EclipseSingleCheckExecutor.java:34)
+	at org.apache.tools.ant.Project.executeTargets(Project.java:1260)
+	at org.apache.tools.ant.taskdefs.Ant.execute(Ant.java:441)
+	... 25 more
+Caused by: E:\AEM\workspace\.metadata\.plugins\org.eclipse.pde.core\temp\org.eclipse.pde.container.feature\assemble.org.eclipse.pde.container.feature.win32.win32.x86_64.xml:46: The following error occurred while executing this line:
+E:\AEM\workspace\.metadata\.plugins\org.eclipse.pde.core\temp\org.eclipse.pde.container.feature\assemble.org.eclipse.pde.container.feature.win32.win32.x86_64.xml:53: Invalid Manifest: E:\AEM\plugins\CustomEmailServiceBundle_1.0.0\META-INF\MANIFEST.MF
+	at org.apache.tools.ant.ProjectHelper.addLocationToBuildException(ProjectHelper.java:568)
+	at org.apache.tools.ant.taskdefs.Ant.execute(Ant.java:443)
+	at org.apache.tools.ant.taskdefs.CallTarget.execute(CallTarget.java:105)
+	at org.apache.tools.ant.UnknownElement.execute(UnknownElement.java:293)
+	at sun.reflect.GeneratedMethodAccessor280.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.apache.tools.ant.dispatch.DispatchUtils.execute(DispatchUtils.java:106)
+	at org.apache.tools.ant.Task.perform(Task.java:348)
+	at org.apache.tools.ant.Target.execute(Target.java:435)
+	at org.apache.tools.ant.Target.performTasks(Target.java:456)
+	at org.apache.tools.ant.Project.executeSortedTargets(Project.java:1405)
+	at org.apache.tools.ant.helper.SingleCheckExecutor.executeTargets(SingleCheckExecutor.java:38)
+	at org.eclipse.ant.internal.core.ant.EclipseSingleCheckExecutor.executeTargets(EclipseSingleCheckExecutor.java:34)
+	at org.apache.tools.ant.Project.executeTargets(Project.java:1260)
+	at org.apache.tools.ant.taskdefs.Ant.execute(Ant.java:441)
+	... 39 more
+Caused by: E:\AEM\workspace\.metadata\.plugins\org.eclipse.pde.core\temp\org.eclipse.pde.container.feature\assemble.org.eclipse.pde.container.feature.win32.win32.x86_64.xml:53: Invalid Manifest: E:\AEM\plugins\CustomEmailServiceBundle_1.0.0\META-INF\MANIFEST.MF
+	at org.apache.tools.ant.taskdefs.Jar.getManifest(Jar.java:369)
+	at org.apache.tools.ant.taskdefs.Jar.getManifest(Jar.java:315)
+	at org.apache.tools.ant.taskdefs.Jar.createManifest(Jar.java:523)
+	at org.apache.tools.ant.taskdefs.Jar.initZipOutputStream(Jar.java:510)
+	at org.apache.tools.ant.taskdefs.Zip.executeMain(Zip.java:690)
+	at org.apache.tools.ant.taskdefs.Zip.execute(Zip.java:596)
+	at org.apache.tools.ant.UnknownElement.execute(UnknownElement.java:293)
+	at sun.reflect.GeneratedMethodAccessor280.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.apache.tools.ant.dispatch.DispatchUtils.execute(DispatchUtils.java:106)
+	at org.apache.tools.ant.Task.perform(Task.java:348)
+	at org.apache.tools.ant.Target.execute(Target.java:435)
+	at org.apache.tools.ant.Target.performTasks(Target.java:456)
+	at org.apache.tools.ant.Project.executeSortedTargets(Project.java:1405)
+	at org.apache.tools.ant.helper.SingleCheckExecutor.executeTargets(SingleCheckExecutor.java:38)
+	at org.eclipse.ant.internal.core.ant.EclipseSingleCheckExecutor.executeTargets(EclipseSingleCheckExecutor.java:34)
+	at org.apache.tools.ant.Project.executeTargets(Project.java:1260)
+	at org.apache.tools.ant.taskdefs.Ant.execute(Ant.java:441)
+	... 53 more
+Caused by: org.apache.tools.ant.taskdefs.ManifestException: The attribute "Bundle-RequiredExecutionEnvironment" may not occur more than once in the same section
+	at org.apache.tools.ant.taskdefs.Manifest$Section.addAttributeAndCheck(Manifest.java:707)
+	at org.apache.tools.ant.taskdefs.Manifest$Section.read(Manifest.java:473)
+	at org.apache.tools.ant.taskdefs.Manifest.<init>(Manifest.java:859)
+	at org.apache.tools.ant.taskdefs.Jar.getManifest(Jar.java:366)
+	... 71 more
+
+!ENTRY org.apache.sling.ide.eclipse-core 2 0 2017-08-20 12:56:48.304
+!MESSAGE No underlying properties file, cannot derive propertyType (jcr:primaryType) for SyncDir[dom:null, file:F/portfolio.ui.apps/src/main/content/jcr_root, jcrPath:/]
+
+!ENTRY org.apache.sling.ide.eclipse-core 2 0 2017-08-20 14:57:35.877
+!MESSAGE No underlying properties file, cannot derive propertyType (jcr:primaryType) for JcrNode[dom:null, file:F/portfolio.ui.apps/src/main/content/jcr_root/apps/portfolio/components, jcrPath:/apps/portfolio/components]
+
+!ENTRY org.apache.sling.ide.eclipse-core 2 0 2017-08-20 14:57:49.203
+!MESSAGE No underlying properties file, cannot derive propertyType (jcr:primaryType) for JcrNode[dom:null, file:F/portfolio.ui.apps/src/main/content/jcr_root/apps/portfolio/components, jcrPath:/apps/portfolio/components]
+
+!ENTRY org.apache.sling.ide.eclipse-core 2 0 2017-08-20 15:00:52.288
+!MESSAGE No underlying properties file, cannot derive propertyType (jcr:primaryType) for SyncDir[dom:null, file:F/portfolio.ui.apps/src/main/content/jcr_root, jcrPath:/]
+
+!ENTRY org.apache.sling.ide.eclipse-core 2 0 2017-08-20 15:00:52.325
+!MESSAGE No underlying properties file, cannot derive propertyType (jcr:primaryType) for SyncDir[dom:null, file:F/portfolio.ui.apps/src/main/content/jcr_root, jcrPath:/]
+
+!ENTRY org.apache.sling.ide.eclipse-core 2 0 2017-08-20 15:00:52.374
+!MESSAGE No underlying properties file, cannot derive propertyType (jcr:primaryType) for SyncDir[dom:null, file:F/portfolio.ui.apps/src/main/content/jcr_root, jcrPath:/]
+
+!ENTRY org.apache.sling.ide.eclipse-core 2 0 2017-08-20 15:00:52.536
+!MESSAGE No underlying properties file, cannot derive propertyType (jcr:primaryType) for SyncDir[dom:null, file:F/portfolio.ui.apps/src/main/content/jcr_root, jcrPath:/]
+
+!ENTRY org.apache.sling.ide.eclipse-core 2 0 2017-08-20 15:00:52.542
+!MESSAGE No underlying properties file, cannot derive propertyType (jcr:primaryType) for SyncDir[dom:null, file:F/portfolio.ui.apps/src/main/content/jcr_root, jcrPath:/]
+
+!ENTRY org.apache.sling.ide.eclipse-core 2 0 2017-08-20 15:00:55.784
+!MESSAGE No underlying properties file, cannot derive propertyType (jcr:primaryType) for SyncDir[dom:null, file:F/portfolio.ui.apps/src/main/content/jcr_root, jcrPath:/]
+
+!ENTRY org.apache.sling.ide.eclipse-core 2 0 2017-08-20 15:00:57.053
+!MESSAGE No underlying properties file, cannot derive propertyType (jcr:primaryType) for SyncDir[dom:null, file:F/portfolio.ui.apps/src/main/content/jcr_root, jcrPath:/]
+
+!ENTRY org.apache.sling.ide.eclipse-core 2 0 2017-08-20 15:00:58.563
+!MESSAGE No underlying properties file, cannot derive propertyType (jcr:primaryType) for SyncDir[dom:null, file:F/portfolio.ui.apps/src/main/content/jcr_root, jcrPath:/]
+
+!ENTRY org.apache.sling.ide.eclipse-core 2 0 2017-08-20 15:00:58.580
+!MESSAGE No underlying properties file, cannot derive propertyType (jcr:primaryType) for SyncDir[dom:null, file:F/portfolio.ui.apps/src/main/content/jcr_root, jcrPath:/]
+
+!ENTRY org.apache.sling.ide.eclipse-core 2 0 2017-08-20 15:01:00.101
+!MESSAGE No underlying properties file, cannot derive propertyType (jcr:primaryType) for SyncDir[dom:null, file:F/portfolio.ui.apps/src/main/content/jcr_root, jcrPath:/]
+
+!ENTRY org.apache.sling.ide.eclipse-core 2 0 2017-08-20 15:01:01.625
+!MESSAGE No underlying properties file, cannot derive propertyType (jcr:primaryType) for SyncDir[dom:null, file:F/portfolio.ui.apps/src/main/content/jcr_root, jcrPath:/]
+
+!ENTRY org.apache.sling.ide.eclipse-core 2 0 2017-08-20 15:01:03.170
+!MESSAGE No underlying properties file, cannot derive propertyType (jcr:primaryType) for SyncDir[dom:null, file:F/portfolio.ui.apps/src/main/content/jcr_root, jcrPath:/]
+
+!ENTRY org.apache.sling.ide.eclipse-core 2 0 2017-08-20 15:01:03.788
+!MESSAGE No underlying properties file, cannot derive propertyType (jcr:primaryType) for SyncDir[dom:null, file:F/portfolio.ui.apps/src/main/content/jcr_root, jcrPath:/]
+
+!ENTRY org.apache.sling.ide.eclipse-core 2 0 2017-08-20 15:19:04.344
+!MESSAGE No underlying properties file, cannot derive propertyType (jcr:primaryType) for SyncDir[dom:null, file:F/portfolio.ui.content/src/main/content/jcr_root, jcrPath:/]
+
+!ENTRY org.apache.sling.ide.eclipse-core 2 0 2017-08-20 15:19:04.361
+!MESSAGE No underlying properties file, cannot derive propertyType (jcr:primaryType) for SyncDir[dom:null, file:F/portfolio.ui.content/src/main/content/jcr_root, jcrPath:/]
+
+!ENTRY org.apache.sling.ide.eclipse-core 2 0 2017-08-20 15:19:04.667
+!MESSAGE No underlying properties file, cannot derive propertyType (jcr:primaryType) for SyncDir[dom:null, file:F/portfolio.ui.content/src/main/content/jcr_root, jcrPath:/]

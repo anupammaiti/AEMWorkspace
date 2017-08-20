@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0"
+    jcr:primaryType="cq:Dialog"
+    helpPath="en/cq/current/wcm/default_components.html#Forms End"
+    title="Form End"
+    xtype="panel">
+    <items jcr:primaryType="cq:WidgetCollection">
+        <submitDialog
+            jcr:primaryType="cq:Widget"
+            fieldLabel="Show Submit Button"
+            name="./submit"
+            type="checkbox"
+            xtype="selection">
+            <options jcr:primaryType="cq:WidgetCollection">
+                <t
+                    jcr:primaryType="cq:Widget"
+                    value="true"/>
+            </options>
+        </submitDialog>
+        <name
+            jcr:primaryType="cq:Widget"
+            fieldLabel="Submit Name"
+            name="./name"
+            xtype="textfield"/>
+        <title
+            jcr:primaryType="cq:Widget"
+            fieldLabel="Submit Title"
+            name="./jcr:title"
+            xtype="textfield"/>
+        <resetDialog
+            jcr:primaryType="cq:Widget"
+            fieldLabel="Show Reset Button"
+            name="./reset"
+            type="checkbox"
+            xtype="selection">
+            <options jcr:primaryType="cq:WidgetCollection">
+                <t
+                    jcr:primaryType="cq:Widget"
+                    value="true"/>
+            </options>
+        </resetDialog>
+        <resetTitle
+            jcr:primaryType="cq:Widget"
+            fieldLabel="Reset Title"
+            name="./resetTitle"
+            xtype="textfield"/>
+        <description
+            jcr:primaryType="cq:Widget"
+            fieldLabel="Description"
+            name="./jcr:description"
+            xtype="textfield"/>
+    </items>
+</jcr:root>
