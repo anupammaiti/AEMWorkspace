@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Dialog"
+    activeTab="{Long}0"
+    helpPath="en/cq/current/wcm/default_components.html#Profile Primary URL"
+    xtype="tabpanel">
+    <items jcr:primaryType="cq:WidgetCollection">
+        <first
+            jcr:primaryType="nt:unstructured"
+            title="Title and Text"
+            xtype="panel">
+            <items jcr:primaryType="cq:WidgetCollection">
+                <description
+                    jcr:primaryType="cq:Widget"
+                    fieldLabel="Description"
+                    name="./jcr:description"
+                    xtype="textfield"/>
+                <title
+                    jcr:primaryType="cq:Widget"
+                    fieldLabel="Title"
+                    name="./jcr:title"
+                    xtype="textfield"/>
+            </items>
+        </first>
+        <five
+            jcr:primaryType="nt:unstructured"
+            title="Size"
+            xtype="panel">
+            <items jcr:primaryType="cq:WidgetCollection">
+                <multiLine
+                    jcr:primaryType="cq:Widget"
+                    fieldLabel="Size"
+                    heightParameter="./rows"
+                    heightSuffix="rows"
+                    widthParameter="./cols"
+                    widthSuffix="cols"
+                    xtype="sizefield"/>
+                <width
+                    jcr:primaryType="cq:Widget"
+                    anchor=""
+                    fieldLabel="Width"
+                    name="./width"
+                    width="48"
+                    xtype="textfield"/>
+            </items>
+        </five>
+        <fourth
+            jcr:primaryType="nt:unstructured"
+            title="Constraints"
+            xtype="panel">
+            <items jcr:primaryType="cq:WidgetCollection">
+                <constraintMessage
+                    jcr:primaryType="cq:Widget"
+                    fieldLabel="Constraint Message"
+                    name="./constraintMessage"
+                    xtype="textarea"/>
+                <constraintType
+                    jcr:primaryType="cq:Widget"
+                    fieldLabel="Constraint"
+                    name="./constraintType"
+                    options="/bin/wcm/foundation/forms/constraints.json"
+                    type="select"
+                    xtype="selection"/>
+                <required
+                    jcr:primaryType="cq:Widget"
+                    fieldLabel="Required"
+                    inputValue="true"
+                    name="./required"
+                    type="checkbox"
+                    xtype="selection"/>
+                <requiredMessage
+                    jcr:primaryType="cq:Widget"
+                    fieldLabel="Required Message"
+                    name="./requiredMessage"
+                    xtype="textarea"/>
+            </items>
+        </fourth>
+        <second
+            jcr:primaryType="nt:unstructured"
+            title="Initial Values"
+            xtype="panel">
+            <items jcr:primaryType="cq:WidgetCollection">
+                <value
+                    jcr:primaryType="cq:Widget"
+                    fieldLabel="Default Value"
+                    name="./defaultValue"
+                    xtype="textfield"/>
+            </items>
+        </second>
+    </items>
+</jcr:root>

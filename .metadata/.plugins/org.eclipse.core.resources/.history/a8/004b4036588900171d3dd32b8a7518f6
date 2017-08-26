@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Dialog"
+    activeTab="{Long}0"
+    height="{Long}400"
+    width="{Long}650"
+    xtype="tabpanel">
+    <items jcr:primaryType="cq:WidgetCollection">
+        <first
+            jcr:primaryType="nt:unstructured"
+            title="Title and Text"
+            xtype="panel">
+            <items jcr:primaryType="cq:WidgetCollection">
+                <items
+                    jcr:primaryType="nt:unstructured"
+                    path="/libs/foundation/components/form/defaults/items.infinity.json"
+                    xtype="cqinclude"/>
+            </items>
+        </first>
+        <constraints
+            jcr:primaryType="nt:unstructured"
+            title="Constraints"
+            xtype="panel">
+            <items jcr:primaryType="cq:WidgetCollection">
+                <required
+                    jcr:primaryType="cq:Widget"
+                    fieldLabel="Required"
+                    inputValue="true"
+                    name="./required"
+                    type="checkbox"
+                    xtype="selection"/>
+                <requiredMessage
+                    jcr:primaryType="cq:Widget"
+                    fieldLabel="Required Message"
+                    name="./requiredMessage"
+                    xtype="textarea"/>
+                <constraintMessage
+                    jcr:primaryType="cq:Widget"
+                    fieldLabel="Constraint Message"
+                    name="./constraintMessage"
+                    xtype="textarea"/>
+            </items>
+        </constraints>
+        <size
+            jcr:primaryType="nt:unstructured"
+            title="Size"
+            xtype="panel">
+            <items jcr:primaryType="cq:WidgetCollection">
+                <multiLine
+                    jcr:primaryType="cq:Widget"
+                    fieldLabel="Size"
+                    heightParameter="./rows"
+                    heightSuffix="rows"
+                    widthParameter="./cols"
+                    widthSuffix="cols"
+                    xtype="sizefield"/>
+            </items>
+        </size>
+    </items>
+</jcr:root>

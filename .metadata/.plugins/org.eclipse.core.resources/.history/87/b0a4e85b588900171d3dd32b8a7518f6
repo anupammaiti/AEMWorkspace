@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0"
+    jcr:primaryType="cq:Dialog"
+    xtype="tabpanel">
+    <items jcr:primaryType="cq:WidgetCollection">
+        <stats
+            jcr:primaryType="cq:Widget"
+            title="Statistics"
+            xtype="panel">
+            <items jcr:primaryType="cq:WidgetCollection">
+                <stats
+                    jcr:primaryType="cq:Widget"
+                    xtype="mvtstatistics"/>
+            </items>
+        </stats>
+        <banners
+            jcr:primaryType="cq:Widget"
+            ddGroups="[media]"
+            fileReferencePrefix="./image$"
+            title="Banners"
+            xtype="mvt"/>
+        <panel
+            jcr:primaryType="cq:Widget"
+            title="Link / Size"
+            xtype="panel">
+            <items jcr:primaryType="cq:WidgetCollection">
+                <href
+                    jcr:primaryType="cq:Widget"
+                    fieldLabel="Link"
+                    name="./href"
+                    xtype="pathfield"/>
+                <size
+                    jcr:primaryType="cq:Widget"
+                    fieldLabel="Image Size"
+                    heightParameter="./height"
+                    widthParameter="./width"
+                    xtype="sizefield"/>
+            </items>
+        </panel>
+    </items>
+</jcr:root>

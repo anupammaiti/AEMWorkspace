@@ -128,6 +128,11 @@
                         </embedded>
                         <embedded>
                             <groupId>org.myorg</groupId>
+                            <artifactId>portfolio.PDFService</artifactId>
+                            <target>/apps/portfolio/install</target>
+                        </embedded>
+                        <embedded>
+                            <groupId>org.myorg</groupId>
                             <artifactId>portfolio.key</artifactId>
                             <target>/apps/portfolio/install</target>
                         </embedded>
@@ -214,6 +219,12 @@
         <dependency>
             <groupId>org.myorg</groupId>
             <artifactId>portfolio.core</artifactId>
+            <version>0.0.1-SNAPSHOT</version>
+        </dependency>
+        
+         <dependency>
+            <groupId>org.myorg</groupId>
+            <artifactId>portfolio.PDFService</artifactId>
             <version>0.0.1-SNAPSHOT</version>
         </dependency>
         

@@ -1,6 +1,6 @@
 Manifest-Version: 1.0
-Bnd-LastModified: 1503127792328
-Build-Jdk: 1.7.0_51
+Bnd-LastModified: 1503597249260
+Build-Jdk: 1.8.0_111
 Built-By: sukhrajsingh
 Bundle-Description: Core bundle for portfolio
 Bundle-ManifestVersion: 2

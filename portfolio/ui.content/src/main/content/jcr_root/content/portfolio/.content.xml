@@ -18,4 +18,6 @@
     <en/>
     <relationalDB/>
     <emailService/>
+    <carousel/>
+    <PDFService/>
 </jcr:root>

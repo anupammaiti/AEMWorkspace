@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Dialog"
+    activeTab="{Long}0"
+    height="{Long}400"
+    helpPath="en/cq/current/wcm/default_components.html#Forms Image Button"
+    width="{Long}650"
+    xtype="tabpanel">
+    <items jcr:primaryType="cq:WidgetCollection">
+        <first
+            jcr:primaryType="nt:unstructured"
+            title="Title and Text"
+            xtype="panel">
+            <items jcr:primaryType="cq:WidgetCollection">
+                <items
+                    jcr:primaryType="nt:unstructured"
+                    path="/libs/foundation/components/form/defaults/items.infinity.json"
+                    xtype="cqinclude"/>
+                <readOnly
+                    jcr:primaryType="cq:Widget"
+                    boxLabel="Only show value"
+                    fieldLabel=""
+                    inputValue="true"
+                    name="./readOnly"
+                    xtype="checkbox"/>
+            </items>
+        </first>
+        <second
+            jcr:primaryType="nt:unstructured"
+            title="Constraints"
+            xtype="panel">
+            <items jcr:primaryType="cq:WidgetCollection">
+                <required
+                    jcr:primaryType="cq:Widget"
+                    fieldLabel="Required"
+                    inputValue="true"
+                    name="./required"
+                    type="checkbox"
+                    xtype="selection"/>
+                <requiredMessage
+                    jcr:primaryType="cq:Widget"
+                    fieldLabel="Required Message"
+                    name="./requiredMessage"
+                    xtype="textarea"/>
+            </items>
+        </second>
+        <third
+            jcr:primaryType="nt:unstructured"
+            title="Styling"
+            xtype="panel">
+            <items jcr:primaryType="cq:WidgetCollection">
+                <size
+                    jcr:primaryType="cq:Widget"
+                    fieldLabel="Image Size"
+                    heightParameter="./height"
+                    widthParameter="./width"
+                    xtype="sizefield"/>
+                <class
+                    jcr:primaryType="cq:Widget"
+                    anchor=""
+                    fieldLabel="CSS"
+                    name="./css"
+                    xtype="textfield"/>
+            </items>
+        </third>
+    </items>
+</jcr:root>

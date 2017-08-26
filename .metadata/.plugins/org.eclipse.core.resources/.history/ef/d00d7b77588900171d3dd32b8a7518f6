@@ -1,0 +1,157 @@
+/*
+ ADOBE CONFIDENTIAL
+ __________________
+
+ Copyright 2013 Adobe Systems Incorporated
+ All Rights Reserved.
+
+ NOTICE:  All information contained herein is, and remains
+ the property of Adobe Systems Incorporated and its suppliers,
+ if any.  The intellectual and technical concepts contained
+ herein are proprietary to Adobe Systems Incorporated and its
+ suppliers and are protected by trade secret or copyright law.
+ Dissemination of this information or reproduction of this material
+ is strictly forbidden unless prior written permission is obtained
+ from Adobe Systems Incorporated.
+ */
+/* phone landscape */
+@media (max-width: 767px) {
+
+    .avatar-and-message {
+        display: table;
+    }
+
+    .messageDetailRow .subMessagesSubject, .messageDetailRow .timestampAndUnreadCircle {
+        display: inline-block;
+    }
+
+    .category-title .row-fluid .messaging-page-title {
+        font-size: 1.2em !important;
+    }
+
+	.messagecontainingrow .messageSelector {
+        display:none;
+    }
+    .full-width-tab {
+        width: 98% !important;
+    }
+    .messagecontainingrow .subMessagesSender {
+        display:none;
+    }
+    .row-fluid .messagebox-navigator {
+        display: none;
+    }
+    .messagecontainingrow .subMessagesSubject .minViewRecipient {
+        display: block;
+    }
+
+    .messagebox-navigator-top .messagebox-navigation-menu-top {
+        display: none;
+        border-radius: 0.5em;
+        background: #F7F7F7;
+    }
+
+
+    table.messageDetailTable, .emptyMessageBoxSection {
+        margin-left: 0.5em;
+        margin-right: 0.5em;
+    }
+
+    .messagecontainingrow .avatarColumn {
+        width: 5em;
+        margin: 0.2em 0.2em 0em 0.5em;
+        display: table-cell !important;
+        vertical-align: middle;
+    }
+    .messagecontainingrow .messageDetailRow {
+        font-size: 0.9em;
+        min-width: 80%;
+        max-width: 85%;
+        display: table-cell !important;
+        vertical-align: middle;
+        padding-left: 0.5em;
+    }
+
+    .messagecontainingrow .subMessagesSubject {
+        width: 50%;
+        line-height: 1.2em !important;
+    }
+
+    .selectAndPaginateDiv .span6, .paginateAndDisplayUsage .span6 {
+        display: inline-block;
+        max-width: 45%;
+        margin-left: 2% !important;
+    }
+    form label.mailform, form .userchooser, form .mailFormSubject, form .attachFile, form .mailFormContent {
+        margin-left: 1em;
+    }
+    form .userchooser label.mailform {
+        margin-left: 0;
+    }
+    form input.userchooser {
+        min-width: 92%;
+    }
+    .title-and-navigation-div .messaging-page-title .navigation-menu-link {
+        display: inline-block;
+        background-color: rgb(34, 34, 34);
+        background-image: -moz-linear-gradient(top, #5D5D5D 0%, #2D2D2D 100%) !important;
+        background-image: -o-linear-gradient(top, #5D5D5D 0%, #2D2D2D 100%) !important;
+        background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, #5D5D5D), color-stop(1, #2D2D2D)) !important;
+        background-image: -webkit-linear-gradient(top, #5D5D5D 0%, #2D2D2D 100%) !important;
+        background-image: linear-gradient(to bottom, #5D5D5D 0%, #2D2D2D 100%) !important;
+        font-size: 0.7em;
+        max-width: 9em;
+        border-radius: 0.2em;
+        padding: 0.3em;
+        color: rgb(255, 255, 255);
+        float: right;
+        font-style: normal;
+        font-family: arial;
+    }
+
+    .messaging-component-container {
+        padding-left: 1em;
+        padding-right: 1em;
+    }
+
+    .newMessageSubjectContainer, .newMessageUserChooser, .newMessageContentContainer {
+        padding-left: 1em;
+    }
+
+    .newMessageAttachmentContainer {
+        padding-left: 0.4em;
+        width: 97%;
+    }
+
+    .newMessageSubjectContainer .mailform, .newMessageUserChooser .mailform,
+           .newMessageContentContainer .mailform, .newMessageAttachmentContainer .mailform {
+        font-size: 0.9em;
+        line-height: 1.2em;
+    }
+
+    .newMessageContentContainer .mailFormContent {
+        font-size: 0.95em;
+        line-height: 1.5em;
+    }
+
+    .newMessageSubjectContainer .mailFormSubject {
+        padding-left: 0.4em;
+        font-size: 1em;
+        line-height: 1.3em;
+        display: table-cell;
+        vertical-align: middle;
+    }
+
+    .composemessage .sendButton {
+        height: 2em;
+        min-width: 6em;width: 6em;
+    }
+
+    .newMessageAttachmentContainer .mailform label, .newMessageAttachmentContainer .fileContainer .inputContainer {
+        font-size: 0.8em;
+    }
+
+    .newMessageAttachmentContainer .mailform label {
+        min-width: 6em;
+    }
+}

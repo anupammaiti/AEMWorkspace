@@ -1,0 +1,65 @@
+/*
+ ADOBE CONFIDENTIAL
+ __________________
+
+ Copyright 2012 Adobe Systems Incorporated
+ All Rights Reserved.
+
+ NOTICE:  All information contained herein is, and remains
+ the property of Adobe Systems Incorporated and its suppliers,
+ if any.  The intellectual and technical concepts contained
+ herein are proprietary to Adobe Systems Incorporated and its
+ suppliers and are protected by trade secret or copyright law.
+ Dissemination of this information or reproduction of this material
+ is strictly forbidden unless prior written permission is obtained
+ from Adobe Systems Incorporated.
+ */
+.article .author-summary {
+	float: left;
+	width: 280px;
+	position: absolute;
+	bottom: 28px;
+}
+
+.article .author-name {
+	color: #000000;
+}
+
+.article .community-header .article-title {
+	padding-right: 60px;
+	margin-left: 10px;
+}
+
+.article .article-title h1 {
+	font-size: 4em;
+	color: #000000;
+}
+
+.community-header {
+	position: relative;
+}
+
+.article-header div.bottom {
+	position: absolute;
+	bottom: 1.6em;
+}
+
+.article div.call-to-action {
+	border-radius: 0;
+	border-top: 2px solid #DADADA;
+	padding-bottom: 10px;
+}
+
+.community a {
+	color: #0088CC !important;
+	text-decoration: none;
+}
+
+.new-topic-form {
+	padding: 4px;
+	padding-left: 14px;
+}
+
+.new-topic-form input {
+
+}

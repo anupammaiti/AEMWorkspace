@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Dialog"
+    helpPath="en/cq/current/wcm/default_components.html#Profile Gender"
+    xtype="dialog">
+    <items
+        jcr:primaryType="nt:unstructured"
+        activeTab="0"
+        xtype="tabpanel">
+        <items jcr:primaryType="cq:WidgetCollection">
+            <first
+                jcr:primaryType="nt:unstructured"
+                title="Title and Text"
+                xtype="panel">
+                <items jcr:primaryType="cq:WidgetCollection">
+                    <prop1
+                        jcr:primaryType="cq:Widget"
+                        fieldLabel="Title"
+                        name="./jcr:title"
+                        xtype="textfield"/>
+                    <required
+                        jcr:primaryType="cq:Widget"
+                        fieldLabel="Required"
+                        inputValue="true"
+                        name="./required"
+                        type="checkbox"
+                        xtype="selection"/>
+                    <requiredMessage
+                        jcr:primaryType="cq:Widget"
+                        fieldLabel="Required Message"
+                        name="./requiredMessage"
+                        xtype="textarea"/>
+                </items>
+            </first>
+        </items>
+    </items>
+</jcr:root>

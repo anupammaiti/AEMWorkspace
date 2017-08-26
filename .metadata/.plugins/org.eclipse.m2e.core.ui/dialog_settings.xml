@@ -64,19 +64,9 @@
 		<item value="44" key="y"/>
 		<item value="560" key="x"/>
 	</section>
-	<section name="MavenProjectImportWizardPage">
-		<list key="rootDirectory">
-			<item value="E:\AEM\workspace\portfolio\htl"/>
-			<item value="E:\AEM\workspace\portfolio\key"/>
-			<item value="E:\AEM\workspace\portfolio.key"/>
-			<item value="E:\AEM\workspace\portfolio"/>
-			<item value="E:\AEM\project\key61"/>
-			<item value="E:\AEM\workspace\key61"/>
-			<item value="E:\AEM\workspace\clientLibDemo"/>
-			<item value="E:\AEM\workspace\aem-sample-we-retail-master\aem-sample-we-retail-master"/>
-			<item value="E:\AEM\workspace\nagarrosite"/>
-			<item value="E:\AEM\workspace\nagarrosite.keyServiceOSGi"/>
-			<item value="E:\AEM\workspace"/>
+	<section name="MavenModuleWizardParentPage">
+		<list key="moduleName">
+			<item value="test"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -87,9 +77,20 @@
 			<item value="[name]"/>
 		</list>
 	</section>
-	<section name="MavenModuleWizardParentPage">
-		<list key="moduleName">
-			<item value="test"/>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="E:\AEM\workspace\portfolio\PDFService"/>
+			<item value="E:\AEM\workspace\portfolio"/>
+			<item value="E:\AEM\workspace\portfolio\htl"/>
+			<item value="E:\AEM\workspace\portfolio\key"/>
+			<item value="E:\AEM\workspace\portfolio.key"/>
+			<item value="E:\AEM\project\key61"/>
+			<item value="E:\AEM\workspace\key61"/>
+			<item value="E:\AEM\workspace\clientLibDemo"/>
+			<item value="E:\AEM\workspace\aem-sample-we-retail-master\aem-sample-we-retail-master"/>
+			<item value="E:\AEM\workspace\nagarrosite"/>
+			<item value="E:\AEM\workspace\nagarrosite.keyServiceOSGi"/>
+			<item value="E:\AEM\workspace"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>

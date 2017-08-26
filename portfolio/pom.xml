@@ -27,6 +27,7 @@
         <module>key</module>
         <module>htl</module>
         <module>relationalDB</module>
+        <module>PDFService</module>
         <module>ui.apps</module>
         <module>ui.content</module>
         <module>it.tests</module>

@@ -1,0 +1,11 @@
+div.textimage div.image {
+    float: left;
+    margin: 0 8px 8px 0;
+}
+div.textimage.image_left div.image {
+}
+
+div.textimage.image_right div.image {
+    float: right !important;
+    margin: 0 0 8px 8px !important;
+}

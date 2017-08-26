@@ -1,0 +1,408 @@
+/*
+ ADOBE CONFIDENTIAL
+ __________________
+
+ Copyright 2013 Adobe Systems Incorporated
+ All Rights Reserved.
+
+ NOTICE:  All information contained herein is, and remains
+ the property of Adobe Systems Incorporated and its suppliers,
+ if any.  The intellectual and technical concepts contained
+ herein are proprietary to Adobe Systems Incorporated and its
+ suppliers and are protected by trade secret or copyright law.
+ Dissemination of this information or reproduction of this material
+ is strictly forbidden unless prior written permission is obtained
+ from Adobe Systems Incorporated.
+ */
+
+.article .list h4 {
+    font-size: 1.5em;
+    padding: 0;
+}
+
+.messagecontainingrow .subMessageColumn .subMessagesSubject {
+    max-width: 60% !important;
+}
+
+.messagecontainingrow .messageDetailRow:hover {
+    cursor: pointer;
+}
+
+.messagecontainingrow .messageDetailRow {
+    min-width: 40px;
+}
+
+.emptyMessageBoxSection .actionbuttons, #parentmessagediv .actionbuttons,
+        .paginateMessageBox .currentPageNumberDiv, .composemessage .sendButton:not(.cancelNewMessage) {
+    background-image: -ms-linear-gradient(top left, #00C5E1 0%, #00A8C8 100%);
+    background-image: -moz-linear-gradient(top left, #00C5E1 0%, #00A8C8 100%);
+    background-image: -o-linear-gradient(top left, #00C5E1 0%, #00A8C8 100%);
+    background-image: -webkit-gradient(linear, left top, right bottom, color-stop(0, #00C5E1), color-stop(1, #00A8C8));
+    background-image: -webkit-linear-gradient(top left, #00C5E1 0%, #00A8C8 100%);
+    background-image: linear-gradient(to bottom right, #00C5E1 0%, #00A8C8 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#00C4E1', endColorstr='#00A6C6');
+}
+
+.composemessage .sendButton {
+    height: 3em;
+}
+
+.userchooser.parbase {
+    margin-left: 0;
+}
+
+.composemessage .cancelNewMessage {
+    background-image: -ms-linear-gradient(top left, #878787 0%, #4E4E4E 100%);
+    background-image: -moz-linear-gradient(top left, #878787 0%, #4E4E4E 100%);
+    background-image: -o-linear-gradient(top left, #878787 0%, #4E4E4E 100%);
+    background-image: -webkit-gradient(linear, left top, right bottom, color-stop(0, #878787), color-stop(1, #4E4E4E));
+    background-image: -webkit-linear-gradient(top left, #878787 0%, #4E4E4E 100%);
+    background-image: linear-gradient(to bottom right, #878787 0%, #4E4E4E 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#878787', endColorstr='#4E4E4E');
+}
+
+.category-title .row-fluid .messaging-page-title {
+    font-size: 2em;
+}
+
+.messagebox-navigator ul  {
+    padding-left: 1em;
+    list-style-type: none;
+    margin-top: 0;
+}
+
+.messagebox-navigator ul li h4 {
+    font-size: 1em !important;
+    margin: 0.2em 2em 0 0;
+    font-family: 'Adobe Clean',arial, sans-serif;
+    border-bottom: thin solid #AAAAAA;
+}
+
+div.messagebox-navigation-menu-top ul {
+    list-style-type: none;
+    margin-top: 0;
+    padding-left: 0;
+    background: #3D3D3D;
+    border-radius: 0.5em;
+}
+
+.title-and-navigation-div .messaging-page-title .navigation-menu-link:hover {
+    cursor: pointer;
+}
+
+div.messagebox-navigation-menu-top ul li {
+    background-image: -moz-linear-gradient(top, #5D5D5D 0%, #2D2D2D 100%);
+    background-image: -o-linear-gradient(top, #5D5D5D 0%, #2D2D2D 100%);
+    background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, #5D5D5D), color-stop(1, #2D2D2D));
+    background-image: -webkit-linear-gradient(top, #5D5D5D 0%, #2D2D2D 100%);
+    background-image: linear-gradient(to bottom, #5D5D5D 0%, #2D2D2D 100%);
+    text-align: center;
+    padding-top: 0.4em;
+    padding-bottom: 0.5em;
+    border-radius: 0.5em;
+}
+
+div.messagebox-navigation-menu-top ul li h4 {
+    font-size: 1em !important;
+    margin: 0.2em 2em 0 0;
+    color: #ffffff;
+    font-weight: bold;
+    font-family: 'Adobe Clean', Arial, sans-serif;
+}
+
+div.messagebox-navigation-menu-top ul li a {
+    text-decoration: none;
+    font-style: normal;
+}
+
+.messaging-page-title .navigation-menu-link, div.messagebox-navigation-menu-top {
+    display: none;
+}
+.messagecontainingrow .circleBackgroundImage, div.successNotification {
+    background-image: -ms-linear-gradient(top left, #8DBB27 0%, #80AE3E 100%);
+    background-image: -moz-linear-gradient(top left, #8DBB27 0%, #80AE3E 100%);
+    background-image: -o-linear-gradient(top left, #8DBB27 0%, #80AE3E 100%);
+    background-image: -webkit-gradient(linear, left top, right bottom, color-stop(0, #8DBB27), color-stop(1, #80AE3E));
+    background-image: -webkit-linear-gradient(top left, #8DBB27 0%, #80AE3E 100%);
+    background-image: linear-gradient(to bottom right, #8DBB27 0%, #80AE3E 100%);
+}
+div.alertNotification, div.successNotification, div.errorNotification {
+    margin-bottom: 1em;
+}
+
+div.alertNotification .notificationImage, div.successNotification .notificationImage,
+       div.errorNotification .notificationImage{
+    width: 1.2em;
+    height: 1.2em;
+}
+
+div.alertNotification td, div.successNotification td,
+       div.errorNotification td {
+    padding: 0;
+}
+
+.messagecontainingrow .subMessagesSubject .minViewRecipient,
+        .messagecontainingrow .subMessagesSubject .minViewTimestamp {
+    display: none;
+}
+
+.messagecontainingrow .timestampAndUnreadCircle {
+    margin-left: 0;
+    float: right;
+    width: auto;
+}
+
+.messagecontainingrow .timestampAndUnreadCircle .timestamp {
+    margin-right : 1em;
+    margin-left: 1em;
+}
+
+.messagecontainingrow .messageSelector {
+    padding-left: 1%;
+    max-width: 5%;
+}
+.messagecontainingrow .subMessagesSender, .messagecontainingrow .subMessagesSubject, .messagecontainingrow .timeStamp {
+    font-size: .85em;
+}
+
+.messagecontainingrow div.subMessagesSubject,
+        .messagecontainingrow div.subMessagesSender {
+    font-weight: normal;
+}
+
+.unreadMessageContainingRow .subMessagesSubject .subjectString,
+        .unreadMessageContainingRow .subMessagesSubject .contentString,
+        .unreadMessageContainingRow div.subMessagesSender {
+    font-weight: bold;
+}
+
+.unreadMessageContainingRow .timestampAndUnreadCircle .timestamp {
+    color: #000000;
+    font-weight: bold;
+}
+
+.messagecontainingrow .subMessagesSubject .minViewTimestamp {
+    color: #A6A6A6;
+}
+
+.messagecontainingrow .subMessagesSubject a {
+    text-decoration: none;
+}
+
+.unreadMessageContainingRow .subMessagesSubject .minViewRecipient,
+        .unreadMessageContainingRow .subMessagesSubject .minViewTimestamp {
+    font-weight: bold;
+}
+
+.messagecontainingrow .subMessagesSubject .subjectString {
+    color: #000000;
+}
+
+.messagecontainingrow .subMessagesSubject .contentString {
+    color: #999999;
+}
+
+.messagecontainingrow .subMessagesSubject .contentString p {
+    display: inline-block;
+    margin: 0;
+}
+
+.messages .messagecontainingrow {
+    background-color: #FFFFFF;
+    margin: 0.5em 0 0.5em 0;
+    padding: 0.5em 0 0.5em 0.5em;
+}
+
+.messagebox .selectAndPaginateDiv {
+    padding-bottom: 0;
+}
+
+.newMessageSubjectContainer, .newMessageUserChooser, .newMessageContentContainer, .newMessageAttachmentContainer {
+    background-color: #ffffff;
+    display: table;
+    width: 95%;
+    font-size: 0.9em;
+    padding: 0.3em 0 0.3em 2em;
+    margin-bottom: 1em;
+}
+
+.newMessageAttachmentContainer {
+    padding-left: 0.4em;
+    width: 97%;
+}
+
+.transparentAttachmentContainer {
+    background-color: transparent;
+}
+
+.newMessageContentContainer {
+    padding-top: 1em;
+}
+
+.newMessageUserChooser .userchooserContainer {
+    display: table-cell;
+    border: none;
+}
+
+.newMessageUserChooser .userchooser {
+    background-image: none;
+    padding: 0 0 0 1em;
+    outline: none;
+    font-family: arial;
+    margin: 0.2em 0 0.2em 0;
+    border: none;
+    width: 15em;
+}
+
+.newMessageUserChooser .selectedUserContainer {
+    display: inline-block;
+    margin-left: 0.8em;
+}
+
+.newMessageUserChooser .selectedUserContainer > div {
+    background-color: #F0F0F0;
+    margin: 0 0.5em 0.5em 0;
+    padding: 0.2em 0 0.2em 0.2em;
+    display: inline-block;
+}
+
+
+.newMessageSubjectContainer, .newMessageUserChooser, .newMessageAttachmentContainer {
+    height: 3em;
+}
+
+.newMessageSubjectContainer .mailform, .newMessageUserChooser .mailform,
+       .newMessageContentContainer .mailform, .newMessageAttachmentContainer .mailform{
+    display: table-cell;
+    width: 10%;
+    text-align: left;
+    color: #808080;
+}
+
+.newMessageAttachmentContainer .mailform {
+    text-align: center;
+}
+
+.newMessageAttachmentContainer .mailform label {
+    color: #ffffff;
+    font-weight: bold;
+    padding: 0.4em 0 0.2em 0;
+    height: auto;
+    width: 100%;
+    display: block;
+    background-image: -ms-linear-gradient(top left, #00C4E1 0%, #00A6C6 100%);
+    background-image: -moz-linear-gradient(top left, #00C4E1 0%, #00A6C6 100%);
+    background-image: -o-linear-gradient(top left, #00C4E1 0%, #00A6C6 100%);
+    background-image: -webkit-gradient(linear, left top, right bottom, color-stop(0, #00C4E1), color-stop(1, #00A6C6));
+    background-image: -webkit-linear-gradient(top left, #00C4E1 0%, #00A6C6 100%);
+    background-image: linear-gradient(to bottom right, #00C4E1 0%, #00A6C6 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#00C4E1', endColorstr='#00A6C6');
+}
+
+.newMessageAttachmentContainer .mailform label:hover {
+    cursor: pointer;
+}
+
+.newMessageAttachmentContainer .fileContainer {
+    display: table-cell;
+    width: 85%;
+}
+
+.newMessageAttachmentContainer .fileContainer .inputContainer {
+    background-color: #F0F0F0;
+    font-size: 1em;
+    font-weight: bold;
+    margin-left: 0.8em;
+    margin-bottom: 0.2em;
+    display: inline-block;
+    width: auto;
+    min-height: 2em;
+    padding: 0.2em;
+}
+
+.inputContainer .removeAttachment:hover {
+    cursor: pointer
+}
+
+.newMessageSubjectContainer .mailform, .newMessageUserChooser .mailform {
+    vertical-align: middle;
+    border-right: thin solid #A8A8A8;
+}
+
+.newMessageContentContainer .mailform {
+    vertical-align: top;
+    padding-top: 1em;
+}
+
+.newMessageSubjectContainer .mailFormSubject, .newMessageContentContainer .mailFormContent {
+    display: table-cell;
+    width: 95%;
+    border: none;
+    padding: 0.2em 0 0.6em 1em;
+    margin-top 0;
+    outline: none;
+    font-family: arial;
+    line-height: 1.5em;
+    float: left;
+}
+
+.newMessageContentContainer .mailFormContent {
+    padding-top: 1em;
+    padding-left: 3em;
+}
+
+.newMessageSubjectContainer .mailFormSubject {
+    height: 1.2em;
+    overflow-y: hidden;
+    margin-left: 0;
+}
+
+.nameAndDateSeparatorCircle {
+    max-width: 5px;
+    min-width: 5px;
+    max-height: 5px;
+    min-height: 5px !important;
+    border-radius: 50%;
+    display: inline-block;
+    background-color: #EFEFEF;
+}
+
+.newMessageContentContainer .newMessageSenderAvatar {
+    width: 35px;
+    height: 35px;
+    margin-right: 1em;
+    display: inline-block;
+    background-size: 35px;
+    background-repeat: none;
+}
+
+.newMessageContentContainer .senderDetailContainer {
+    display: table;
+    float: left;
+}
+
+.senderDetailContainer .newMessageSenderName, .senderDetailContainer .newMessageSendDate, .senderDetailContainer .circleContainer {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.senderDetailContainer .newMessageSenderName {
+    color: #00A6C6;
+}
+
+.senderDetailContainer .newMessageSendDate, .senderDetailContainer .circleContainer {
+    color: #808080;
+    padding-left: 1em;
+}
+
+.inputContainer .hiddenUploadInput {
+    display: none;
+}
+
+.no-left-margin {
+    margin-left: 0 !important;
+}
+
+.messagebox .comment-image {
+    margin-bottom: 1em;
+}

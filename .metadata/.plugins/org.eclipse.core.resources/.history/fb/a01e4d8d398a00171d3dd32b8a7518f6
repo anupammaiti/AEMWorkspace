@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0"
+    jcr:primaryType="sling:Folder"
+    jcr:title="Luhn Algorithm validator"
+    sling:resourceType="foundation/components/form/constraint"
+    constraintMessage="The Credit Card Number is invalid. Please check that you introduced the correct Credit Card Number."
+    hint="Validates if the field contains a valid credit card number."/>

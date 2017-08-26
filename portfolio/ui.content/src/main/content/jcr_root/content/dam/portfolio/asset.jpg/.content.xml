@@ -16,8 +16,7 @@
         dam:s7damWidth="{Long}940"
         jcr:lastModified="{Date}2017-08-19T12:46:56.264+05:30"
         jcr:lastModifiedBy="admin"
-        jcr:primaryType="dam:AssetContent"
-        restored="{Boolean}true">
+        jcr:primaryType="dam:AssetContent">
         <metadata
             dam:Bitsperpixel="{Long}24"
             dam:ColorSpace="{Long}-1"
