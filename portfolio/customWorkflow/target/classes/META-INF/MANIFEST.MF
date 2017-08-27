@@ -1,6 +1,6 @@
 Manifest-Version: 1.0
-Bnd-LastModified: 1503810654501
-Build-Jdk: 1.8.0_111
+Bnd-LastModified: 1503846185134
+Build-Jdk: 1.7.0_51
 Built-By: sukhrajsingh
 Bundle-Description: customWorkflow bundle for portfolio
 Bundle-ManifestVersion: 2
@@ -8,9 +8,9 @@ Bundle-Name: portfolio - customWorkflow
 Bundle-SymbolicName: org.myorg.portfolio.customWorkflow
 Bundle-Version: 0.0.1.SNAPSHOT
 Created-By: Apache Maven Bundle Plugin
-Export-Package: org.myorg.portfolio.customWorkflow;uses:="com.adobe.gran
- ite.workflow,com.adobe.granite.workflow.exec,com.adobe.granite.workflow
- .metadata,com.day.cq.mailer,org.slf4j";version="0.0.1"
+Export-Package: org.myorg.portfolio.customWorkflow;version="0.0.1";uses:
+ ="com.adobe.granite.workflow,com.adobe.granite.workflow.exec,com.adobe.
+ granite.workflow.metadata,com.day.cq.mailer,org.slf4j"
 Import-Package: com.adobe.granite.workflow;version="[1.0,2)",com.adobe.g
  ranite.workflow.exec;version="[1.0,2)",com.adobe.granite.workflow.metad
  ata;version="[1.0,2)",com.day.cq.mailer;version="[5.8,6)",org.apache.co

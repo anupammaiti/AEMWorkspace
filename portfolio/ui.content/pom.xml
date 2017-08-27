@@ -137,6 +137,13 @@
                             <artifactId>portfolio.key</artifactId>
                             <target>/apps/portfolio/install</target>
                         </embedded>
+                        
+                        <embedded>
+                            <groupId>org.myorg</groupId>
+                            <artifactId>portfolio.eventHandlerDemo</artifactId>
+                            <target>/apps/portfolio/install</target>
+                        </embedded>
+                        
                         <embedded>
                             <groupId>org.myorg</groupId>
                             <artifactId>portfolio.PDFService</artifactId>
@@ -253,7 +260,14 @@
             <artifactId>portfolio.PDFService</artifactId>
             <version>0.0.1-SNAPSHOT</version>
         </dependency>
-
+		  
+        <dependency>
+            <groupId>org.myorg</groupId>
+            <artifactId>portfolio.eventHandlerDemo</artifactId>
+            <version>0.0.1-SNAPSHOT</version>
+        </dependency>
+		
+		
         <dependency>
             <groupId>com.adobe.aem</groupId>
             <artifactId>aem-api</artifactId>

@@ -1,0 +1,27 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1503846185422
+Build-Jdk: 1.7.0_51
+Built-By: sukhrajsingh
+Bundle-Description: eventHandlerDemo bundle for portfolio
+Bundle-ManifestVersion: 2
+Bundle-Name: portfolio - eventHandlerDemo
+Bundle-SymbolicName: org.myorg.portfolio.eventHandlerDemo
+Bundle-Version: 0.0.1.SNAPSHOT
+Created-By: Apache Maven Bundle Plugin
+Export-Package: org.myorg.portfolio.eventHandlerDemo;version="0.0.1";use
+ s:="javax.jcr,javax.jcr.observation,org.apache.sling.api.resource,org.a
+ pache.sling.jcr.api,org.osgi.service.component"
+Import-Package: javax.jcr;version="[2.0,3)",javax.jcr.observation;versio
+ n="[2.0,3)",org.apache.sling.api.resource;version="[2.5,3)",org.apache.
+ sling.jcr.api;version="[2.2,3)",org.osgi.framework;version="[1.5,2)",or
+ g.osgi.service.component;version="[1.1,2)",org.slf4j;version="[1.5,2)"
+Provide-Capability: osgi.service;effective:=active;objectClass="javax.jc
+ r.observation.EventListener";service.vendor=Adobe
+Require-Capability: osgi.service;effective:=active;filter:="(objectClass
+ =org.apache.sling.jcr.api.SlingRepository)",osgi.service;effective:=act
+ ive;filter:="(objectClass=org.apache.sling.api.resource.ResourceResolve
+ rFactory)",osgi.ee;filter:="(&(osgi.ee=JavaSE)(version=1.6))"
+Service-Component: OSGI-INF/org.myorg.portfolio.eventHandlerDemo.SimpleD
+ SComponent.xml
+Sling-Model-Packages: org.myorg.portfolio.eventHandlerDemo
+Tool: Bnd-2.3.0.201405100607

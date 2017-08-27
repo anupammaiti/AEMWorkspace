@@ -2,14 +2,14 @@
 <jcr:root xmlns:tiff="http://ns.adobe.com/tiff/1.0/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
     jcr:primaryType="dam:Asset">
     <jcr:content
-        dam:lastInvalidateCache="{Date}2017-08-24T23:24:17.765+05:30"
+        dam:lastInvalidateCache="{Date}2017-08-27T10:41:36.878+05:30"
         dam:s7damAnchorX="{Long}550"
         dam:s7damAnchorY="{Long}800"
         dam:s7damHeight="{Long}1600"
-        dam:s7damImageCopyPath="C:\\Users\\SUKHRA~1\\AppData\\Local\\Temp\\scene76359585449650445521.tmp"
+        dam:s7damImageCopyPath="C:\\Users\\SUKHRA~1\\AppData\\Local\\Temp\\scene77064940037809400867.tmp"
         dam:s7damType="Image"
         dam:s7damWidth="{Long}1100"
-        jcr:lastModified="{Date}2017-08-24T23:24:21.275+05:30"
+        jcr:lastModified="{Date}2017-08-27T10:41:42.961+05:30"
         jcr:lastModifiedBy="admin"
         jcr:primaryType="dam:AssetContent">
         <metadata

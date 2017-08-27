@@ -36,7 +36,12 @@
 		<item value="185" key="DIALOG_Y_ORIGIN"/>
 		<item value="491" key="DIALOG_X_ORIGIN"/>
 	</section>
-	<section name="ZipFileImportWizard">
+	<section name="InstallationDialogSettings">
+		<item value="706" key="DIALOG_WIDTH"/>
+		<item value="8" key="DIALOG_Y_ORIGIN"/>
+		<item value="743" key="DIALOG_HEIGHT"/>
+		<item value="131" key="DIALOG_X_ORIGIN"/>
+		<item value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
 	</section>
 	<section name="NewWizardAction">
 		<item value="org.eclipse.pde.ui.NewLibraryPluginProjectWizard" key="NewWizardSelectionPage.STORE_SELECTED_ID"/>
@@ -44,12 +49,7 @@
 			<item value="org.eclipse.pde.PDE"/>
 		</list>
 	</section>
-	<section name="InstallationDialogSettings">
-		<item value="706" key="DIALOG_WIDTH"/>
-		<item value="8" key="DIALOG_Y_ORIGIN"/>
-		<item value="131" key="DIALOG_X_ORIGIN"/>
-		<item value="743" key="DIALOG_HEIGHT"/>
-		<item value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
+	<section name="ZipFileImportWizard">
 	</section>
 	<section name="ImportExportAction">
 		<item value="org.eclipse.m2e.core.wizards.Maven2ImportWizard" key="ImportExportPage.STORE_SELECTED_IMPORT_WIZARD_ID"/>

@@ -1,6 +1,0 @@
-ins.textAdded {
-    color: #0c0;
-}
-del.textRemoved {
-    color: #c00;
-}

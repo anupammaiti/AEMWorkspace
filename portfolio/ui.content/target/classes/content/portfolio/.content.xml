@@ -4,6 +4,7 @@
     <jcr:content
         cq:designPath="/etc/designs/portfolio"
         cq:deviceGroups="[/etc/mobile/groups/responsive]"
+        jcr:mixinTypes="[]"
         jcr:primaryType="nt:unstructured"
         jcr:title="portfolio Site"
         sling:redirect="{Boolean}true"

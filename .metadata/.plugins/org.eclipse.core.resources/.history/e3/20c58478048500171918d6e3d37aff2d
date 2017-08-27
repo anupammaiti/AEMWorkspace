@@ -1,5 +1,0 @@
-<p>This is your AEM HTML Template Language component:</p>
-<div data-sly-use.heroTextObject="org.myorg.portfolio.htl.HeroTextComponent" data-sly-test="${heroTextObject}">
-       <h1>${heroTextObject.heroTextBean.headingText}</h1>
-       <p>${heroTextObject.heroTextBean.description}</p>    
-</div>
