@@ -28,6 +28,7 @@
         <module>htl</module>
         <module>relationalDB</module>
         <module>PDFService</module>
+        <module>customWorkflow</module>
         <module>ui.apps</module>
         <module>ui.content</module>
         <module>it.tests</module>
@@ -514,6 +515,7 @@
 				<version>3.0.1</version>
 				<scope>provided</scope>
 			</dependency>
+		
 			
         </dependencies>
     </dependencyManagement>

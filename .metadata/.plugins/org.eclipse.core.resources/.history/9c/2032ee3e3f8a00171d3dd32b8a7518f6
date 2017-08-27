@@ -1,0 +1,9 @@
+#Thu Aug 24 23:24:06 IST 2017
+org.myorg.portfolio.core.schedulers.SimpleScheduledTask.scheduler.expression.name=Property scheduler.expression
+org.myorg.portfolio.core.schedulers.SimpleScheduledTask.myParameter.name=A parameter
+org.myorg.portfolio.core.schedulers.SimpleScheduledTask.myParameter.description=Can be configured in /system/console/configMgr
+org.myorg.portfolio.core.schedulers.SimpleScheduledTask.scheduler.concurrent.description=Whether or not to schedule this task concurrently
+org.myorg.portfolio.core.schedulers.SimpleScheduledTask.scheduler.concurrent.name=Property scheduler.concurrent
+org.myorg.portfolio.core.schedulers.SimpleScheduledTask.scheduler.expression.description=Cron-job expression
+org.myorg.portfolio.core.schedulers.SimpleScheduledTask.description=Simple demo for cron-job like task with properties
+org.myorg.portfolio.core.schedulers.SimpleScheduledTask.name=A scheduled task

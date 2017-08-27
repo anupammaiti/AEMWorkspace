@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><components xmlns:scr="http://www.osgi.org/xmlns/scr/v1.0.0">
+    <scr:component name="org.myorg.portfolio.customWorkflow.CustomStep">
+        <implementation class="org.myorg.portfolio.customWorkflow.CustomStep"/>
+        <service servicefactory="false">
+            <provide interface="com.adobe.granite.workflow.exec.WorkflowProcess"/>
+        </service>
+        <property name="service.description" value="Test Email workflow process implementation."/>
+        <property name="service.vendor" value="Adobe"/>
+        <property name="process.label" value="Test Email Workflow Process"/>
+        <property name="service.pid" value="org.myorg.portfolio.customWorkflow.CustomStep"/>
+        <reference name="messageGatewayService" interface="com.day.cq.mailer.MessageGatewayService" cardinality="1..1" policy="static" bind="bindMessageGatewayService" unbind="unbindMessageGatewayService"/>
+    </scr:component>
+</components>

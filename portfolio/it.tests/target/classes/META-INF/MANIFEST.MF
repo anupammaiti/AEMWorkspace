@@ -1,5 +1,5 @@
 Manifest-Version: 1.0
-Bnd-LastModified: 1503597255460
+Bnd-LastModified: 1503810694810
 Build-Jdk: 1.8.0_111
 Built-By: sukhrajsingh
 Bundle-Description: Bundles for Integration Tests for portfolio
