@@ -1,6 +1,6 @@
 Manifest-Version: 1.0
-Bnd-LastModified: 1503846170466
-Build-Jdk: 1.7.0_51
+Bnd-LastModified: 1504162098041
+Build-Jdk: 1.8.0_111
 Built-By: sukhrajsingh
 Bundle-Description: PDF Service bundle for portfolio
 Bundle-ManifestVersion: 2
@@ -8,8 +8,8 @@ Bundle-Name: portfolio - PDF Service
 Bundle-SymbolicName: org.myorg.portfolio.PDFService
 Bundle-Version: 0.0.1.SNAPSHOT
 Created-By: Apache Maven Bundle Plugin
-Export-Package: org.myorg.portfolio.PDFService;version="0.0.1";uses:="or
- g.apache.sling.api.resource,org.slf4j"
+Export-Package: org.myorg.portfolio.PDFService;uses:="org.apache.sling.a
+ pi.resource,org.slf4j";version="0.0.1"
 Import-Package: com.day.cq.dam.api;version="[1.2,2)",javax.jcr;version="
  [2.0,3)",org.apache.pdfbox.pdmodel,org.apache.pdfbox.pdmodel.edit,org.a
  pache.pdfbox.pdmodel.font,org.apache.sling.api.resource;version="[2.5,3

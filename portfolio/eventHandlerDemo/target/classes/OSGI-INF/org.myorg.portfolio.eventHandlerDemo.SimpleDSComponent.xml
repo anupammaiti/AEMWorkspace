@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><components xmlns:scr="http://www.osgi.org/xmlns/scr/v1.1.0">
+<?xml version="1.0" encoding="UTF-8"?><components xmlns:scr="http://www.osgi.org/xmlns/scr/v1.0.0">
     <scr:component immediate="true" name="org.myorg.portfolio.eventHandlerDemo.SimpleDSComponent">
         <implementation class="org.myorg.portfolio.eventHandlerDemo.SimpleDSComponent"/>
         <service servicefactory="false">

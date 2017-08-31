@@ -156,6 +156,16 @@
                             <artifactId>portfolio.htl</artifactId>
                             <target>/apps/portfolio/install</target>
                         </embedded>
+                         <embedded>
+                            <groupId>org.myorg</groupId>
+                            <artifactId>portfolio.workflowDemo</artifactId>
+                            <target>/apps/portfolio/install</target>
+                        </embedded>
+                         <embedded>
+                            <groupId>org.myorg</groupId>
+                            <artifactId>portfolio.slingAPIRetrieveContent</artifactId>
+                            <target>/apps/portfolio/install</target>
+                        </embedded>                        
                     </embeddeds>
                 </configuration>
             </plugin>
@@ -265,6 +275,17 @@
             <artifactId>portfolio.eventHandlerDemo</artifactId>
             <version>0.0.1-SNAPSHOT</version>
         </dependency>
+         <dependency>
+            <groupId>org.myorg</groupId>
+            <artifactId>portfolio.workflowDemo</artifactId>
+            <version>0.0.1-SNAPSHOT</version>
+        </dependency>	
+        
+        <dependency>
+            <groupId>org.myorg</groupId>
+            <artifactId>portfolio.slingAPIRetrieveContent</artifactId>
+            <version>0.0.1-SNAPSHOT</version>
+        </dependency>	
         <dependency>
             <groupId>com.adobe.aem</groupId>
             <artifactId>aem-api</artifactId>

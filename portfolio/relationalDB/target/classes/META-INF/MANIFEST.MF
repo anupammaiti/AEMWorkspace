@@ -1,6 +1,6 @@
 Manifest-Version: 1.0
-Bnd-LastModified: 1503846185746
-Build-Jdk: 1.7.0_51
+Bnd-LastModified: 1504162097544
+Build-Jdk: 1.8.0_111
 Built-By: sukhrajsingh
 Bundle-Description: relationalDB bundle for portfolio
 Bundle-ManifestVersion: 2
@@ -8,8 +8,8 @@ Bundle-Name: portfolio - relationalDB
 Bundle-SymbolicName: org.myorg.portfolio.relationalDB
 Bundle-Version: 0.0.1.SNAPSHOT
 Created-By: Apache Maven Bundle Plugin
-Export-Package: org.myorg.portfolio.relationalDB;version="0.0.1";uses:="
- com.day.commons.datasource.poolservice,org.slf4j"
+Export-Package: org.myorg.portfolio.relationalDB;uses:="com.day.commons.
+ datasource.poolservice,org.slf4j";version="0.0.1"
 Import-Package: com.day.commons.datasource.poolservice;version="[1.1,2)"
  ,javax.sql,javax.xml.parsers,javax.xml.transform,javax.xml.transform.do
  m,javax.xml.transform.stream,org.slf4j;version="[1.5,2)",org.w3c.dom

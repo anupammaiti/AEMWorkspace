@@ -1,0 +1,23 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1504162098767
+Build-Jdk: 1.8.0_111
+Built-By: sukhrajsingh
+Bundle-Description: slingAPIRetrieveContent bundle for portfolio
+Bundle-ManifestVersion: 2
+Bundle-Name: portfolio - slingAPIRetrieveContent
+Bundle-SymbolicName: org.myorg.portfolio.slingAPIRetrieveContent
+Bundle-Version: 0.0.1.SNAPSHOT
+Created-By: Apache Maven Bundle Plugin
+Export-Package: org.myorg.portfolio.slingAPIRetrieveContent;uses:="org.a
+ pache.sling.api.resource";version="0.0.1"
+Import-Package: com.day.cq.wcm.api;version="[1.2,2)",org.apache.sling.ap
+ i.resource;version="[2.5,3)"
+Provide-Capability: osgi.service;effective:=active;objectClass="org.myor
+ g.portfolio.slingAPIRetrieveContent.Query";service.vendor=Adobe
+Require-Capability: osgi.service;effective:=active;filter:="(objectClass
+ =org.apache.sling.api.resource.ResourceResolverFactory)",osgi.ee;filter
+ :="(&(osgi.ee=JavaSE)(version=1.6))"
+Service-Component: OSGI-INF/org.myorg.portfolio.slingAPIRetrieveContent.
+ QueryImp.xml
+Sling-Model-Packages: org.myorg.portfolio.slingAPIRetrieveContent
+Tool: Bnd-2.3.0.201405100607

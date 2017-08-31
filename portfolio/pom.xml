@@ -27,9 +27,11 @@
         <module>key</module>
         <module>htl</module>
          <module>eventHandlerDemo</module>
+         <module>workflowDemo</module>
         <module>relationalDB</module>
         <module>PDFService</module>
         <module>customWorkflow</module>
+        <module>slingAPIRetrieveContent</module>
         <module>ui.apps</module>
         <module>ui.content</module>
         <module>it.tests</module>

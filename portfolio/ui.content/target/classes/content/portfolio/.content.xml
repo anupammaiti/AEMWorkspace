@@ -21,4 +21,5 @@
     <emailService/>
     <carousel/>
     <PDFService/>
+    <test/>
 </jcr:root>
