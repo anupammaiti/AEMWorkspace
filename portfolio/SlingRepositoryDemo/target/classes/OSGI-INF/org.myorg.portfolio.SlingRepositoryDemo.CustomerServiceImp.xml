@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><components xmlns:scr="http://www.osgi.org/xmlns/scr/v1.1.0">
+    <scr:component name="org.myorg.portfolio.SlingRepositoryDemo.CustomerServiceImp">
+        <implementation class="org.myorg.portfolio.SlingRepositoryDemo.CustomerServiceImp"/>
+        <service servicefactory="false">
+            <provide interface="org.myorg.portfolio.SlingRepositoryDemo.CustomerService"/>
+        </service>
+        <property name="service.vendor" value="Adobe"/>
+        <property name="service.pid" value="org.myorg.portfolio.SlingRepositoryDemo.CustomerServiceImp"/>
+        <reference name="repository" interface="org.apache.sling.jcr.api.SlingRepository" cardinality="1..1" policy="static" bind="bindRepository" unbind="unbindRepository"/>
+    </scr:component>
+</components>

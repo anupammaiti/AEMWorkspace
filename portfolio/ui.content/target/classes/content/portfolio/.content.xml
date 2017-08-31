@@ -22,4 +22,6 @@
     <carousel/>
     <PDFService/>
     <test/>
+    <slingapitest/>
+    <slingrepositorydemo/>
 </jcr:root>
