@@ -2,19 +2,19 @@
 <jcr:root xmlns:tiff="http://ns.adobe.com/tiff/1.0/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
     jcr:primaryType="dam:Asset">
     <jcr:content
-        dam:lastInvalidateCache="{Date}2017-09-01T11:49:45.053+05:30"
+        dam:lastInvalidateCache="{Date}2017-09-02T13:47:47.902+05:30"
         dam:s7damAnchorX="{Long}800"
         dam:s7damAnchorY="{Long}533"
         dam:s7damHeight="{Long}1067"
-        dam:s7damImageCopyPath="C:\\Users\\SUKHRA~1\\AppData\\Local\\Temp\\scene75475035222038324503.tmp"
+        dam:s7damImageCopyPath="C:\\Users\\SUKHRA~1\\AppData\\Local\\Temp\\scene77020520146543617152.tmp"
         dam:s7damType="Image"
         dam:s7damWidth="{Long}1600"
-        jcr:lastModified="{Date}2017-09-01T11:49:48.962+05:30"
+        jcr:lastModified="{Date}2017-09-02T13:47:52.648+05:30"
         jcr:lastModifiedBy="admin"
         jcr:primaryType="dam:AssetContent">
         <metadata
             dam:Bitsperpixel="{Long}24"
-            dam:extracted="{Date}2017-09-01T11:49:43.316+05:30"
+            dam:extracted="{Date}2017-09-02T13:47:46.915+05:30"
             dam:Fileformat="JPEG"
             dam:MIMEtype="image/jpeg"
             dam:Numberofimages="{Long}1"

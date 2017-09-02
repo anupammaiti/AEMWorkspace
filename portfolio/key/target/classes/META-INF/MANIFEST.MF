@@ -1,5 +1,5 @@
 Manifest-Version: 1.0
-Bnd-LastModified: 1504183153805
+Bnd-LastModified: 1504340246559
 Build-Jdk: 1.8.0_111
 Built-By: sukhrajsingh
 Bundle-Description: Core bundle for portfolio

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><metatype:MetaData xmlns:metatype="http://www.osgi.org/xmlns/metatype/v1.0.0" localization="OSGI-INF/metatype/org.myorg.portfolio.ecommerce.SimpleDSComponent">
+    <OCD id="org.myorg.portfolio.ecommerce.SimpleDSComponent" name="%org.myorg.portfolio.ecommerce.SimpleDSComponent.name" description="%org.myorg.portfolio.ecommerce.SimpleDSComponent.description"/>
+    <Designate pid="org.myorg.portfolio.ecommerce.SimpleDSComponent">
+        <Object ocdref="org.myorg.portfolio.ecommerce.SimpleDSComponent"/>
+    </Designate>
+</metatype:MetaData>

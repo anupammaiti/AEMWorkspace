@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><metatype:MetaData xmlns:metatype="http://www.osgi.org/xmlns/metatype/v1.0.0" localization="OSGI-INF/metatype/org.myorg.portfolio.claim.HandleClaim">
+    <OCD id="org.myorg.portfolio.claim.HandleClaim" name="%org.myorg.portfolio.claim.HandleClaim.name" description="%org.myorg.portfolio.claim.HandleClaim.description"/>
+    <Designate pid="org.myorg.portfolio.claim.HandleClaim">
+        <Object ocdref="org.myorg.portfolio.claim.HandleClaim"/>
+    </Designate>
+</metatype:MetaData>

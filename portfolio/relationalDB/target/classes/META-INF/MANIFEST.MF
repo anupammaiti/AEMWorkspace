@@ -1,5 +1,5 @@
 Manifest-Version: 1.0
-Bnd-LastModified: 1504183156079
+Bnd-LastModified: 1504340248856
 Build-Jdk: 1.8.0_111
 Built-By: sukhrajsingh
 Bundle-Description: relationalDB bundle for portfolio

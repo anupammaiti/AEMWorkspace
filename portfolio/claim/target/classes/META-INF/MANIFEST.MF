@@ -1,0 +1,23 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1504340248527
+Build-Jdk: 1.8.0_111
+Built-By: sukhrajsingh
+Bundle-Description: claim bundle for portfolio
+Bundle-ManifestVersion: 2
+Bundle-Name: portfolio - claim
+Bundle-SymbolicName: org.myorg.portfolio.claim
+Bundle-Version: 0.0.1.SNAPSHOT
+Created-By: Apache Maven Bundle Plugin
+Export-Package: org.myorg.portfolio.claim;uses:="org.apache.sling.api,or
+ g.apache.sling.api.servlets,org.apache.sling.jcr.api";version="0.0.1"
+Import-Package: org.apache.sling.api;version="[2.3,3)",org.apache.sling.
+ api.servlets;version="[2.1,3)",org.apache.sling.jcr.api;version="[2.2,3
+ )",org.json.simple
+Provide-Capability: osgi.service;effective:=active;objectClass="javax.se
+ rvlet.Servlet";service.vendor=Adobe
+Require-Capability: osgi.service;effective:=active;filter:="(objectClass
+ =org.apache.sling.jcr.api.SlingRepository)",osgi.ee;filter:="(&(osgi.ee
+ =JavaSE)(version=1.6))"
+Service-Component: OSGI-INF/org.myorg.portfolio.claim.HandleClaim.xml
+Sling-Model-Packages: org.myorg.portfolio.claim
+Tool: Bnd-2.3.0.201405100607

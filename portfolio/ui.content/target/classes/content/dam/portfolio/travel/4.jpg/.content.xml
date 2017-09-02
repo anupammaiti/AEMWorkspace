@@ -7,19 +7,19 @@
     <jcr:content
         cq:name="4.jpg"
         cq:parentPath="/content/dam/portfolio/travel"
-        dam:lastInvalidateCache="{Date}2017-08-31T18:09:26.839+05:30"
+        dam:lastInvalidateCache="{Date}2017-09-02T13:47:46.717+05:30"
         dam:s7damAnchorX="{Long}550"
         dam:s7damAnchorY="{Long}800"
         dam:s7damHeight="{Long}1600"
-        dam:s7damImageCopyPath="C:\\Users\\SUKHRA~1\\AppData\\Local\\Temp\\scene78336323413309536038.tmp"
+        dam:s7damImageCopyPath="C:\\Users\\SUKHRA~1\\AppData\\Local\\Temp\\scene7449881534792258160.tmp"
         dam:s7damType="Image"
         dam:s7damWidth="{Long}1100"
-        jcr:lastModified="{Date}2017-08-31T18:09:29.117+05:30"
+        jcr:lastModified="{Date}2017-09-02T13:47:52.559+05:30"
         jcr:lastModifiedBy="admin"
         jcr:primaryType="dam:AssetContent">
         <metadata
             dam:Bitsperpixel="{Long}24"
-            dam:extracted="{Date}2017-08-31T18:09:25.128+05:30"
+            dam:extracted="{Date}2017-09-02T13:47:45.352+05:30"
             dam:Fileformat="JPEG"
             dam:MIMEtype="image/jpeg"
             dam:Numberofimages="{Long}1"
