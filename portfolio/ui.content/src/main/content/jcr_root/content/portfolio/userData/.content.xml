@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2017-09-02T20:25:18.323+05:30"
+        cq:lastModifiedBy="admin"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="claim"
+        sling:resourceType="portfolio/components/content/userData"
+        page="1"
+        qtype="user_id"
+        rp="10"
+        sortname="id"
+        sortorder="asc">
+        <logo
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="portfolio/components/structure/logo"/>
+        <title
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="portfolio/components/content/title"/>
+        <topnav
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="portfolio/components/structure/topnav"/>
+        <par
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="wcm/foundation/components/parsys">
+            <text
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="portfolio/components/content/text"
+                text="&lt;p>This is a home page&lt;/p>"
+                textIsRich="true"/>
+        </par>
+    </jcr:content>
+</jcr:root>
