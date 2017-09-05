@@ -1,0 +1,27 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1504522150482
+Build-Jdk: 1.7.0_51
+Built-By: sukhrajsingh
+Bundle-Description: queryBuilder bundle for portfolio
+Bundle-ManifestVersion: 2
+Bundle-Name: portfolio - queryBuilder
+Bundle-SymbolicName: org.myorg.portfolio.queryBuilder
+Bundle-Version: 0.0.1.SNAPSHOT
+Created-By: Apache Maven Bundle Plugin
+Export-Package: org.myorg.portfolio.queryBuilder;version="0.0.1";uses:="
+ com.day.cq.search,org.apache.sling.api.resource,org.slf4j"
+Import-Package: com.day.cq.search;version="[1.1,2)",com.day.cq.search.re
+ sult;version="[1.1,2)",javax.jcr;version="[2.0,3)",javax.xml.parsers,ja
+ vax.xml.transform,javax.xml.transform.dom,javax.xml.transform.stream,or
+ g.apache.sling.api.resource;version="[2.5,3)",org.slf4j;version="[1.5,2
+ )",org.w3c.dom
+Provide-Capability: osgi.service;effective:=active;objectClass="org.myor
+ g.portfolio.queryBuilder.SearchService";service.vendor=Adobe
+Require-Capability: osgi.service;effective:=active;filter:="(objectClass
+ =com.day.cq.search.QueryBuilder)",osgi.service;effective:=active;filter
+ :="(objectClass=org.apache.sling.api.resource.ResourceResolverFactory)"
+ ,osgi.ee;filter:="(&(osgi.ee=JavaSE)(version=1.6))"
+Service-Component: OSGI-INF/org.myorg.portfolio.queryBuilder.SearchServi
+ ceImpl.xml
+Sling-Model-Packages: org.myorg.portfolio.queryBuilder
+Tool: Bnd-2.3.0.201405100607

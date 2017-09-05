@@ -1,6 +1,6 @@
 Manifest-Version: 1.0
-Bnd-LastModified: 1504340247815
-Build-Jdk: 1.8.0_111
+Bnd-LastModified: 1504522151415
+Build-Jdk: 1.7.0_51
 Built-By: sukhrajsingh
 Bundle-Description: workflowDemo bundle for portfolio
 Bundle-ManifestVersion: 2
@@ -8,8 +8,8 @@ Bundle-Name: portfolio - workflowDemo
 Bundle-SymbolicName: org.myorg.portfolio.workflowDemo
 Bundle-Version: 0.0.1.SNAPSHOT
 Created-By: Apache Maven Bundle Plugin
-Export-Package: org.myorg.portfolio.workflowDemo;uses:="com.day.cq.workf
- low,org.apache.sling.api.resource";version="0.0.1"
+Export-Package: org.myorg.portfolio.workflowDemo;version="0.0.1";uses:="
+ com.day.cq.workflow,org.apache.sling.api.resource"
 Import-Package: com.day.cq.workflow;version="[0.0,1)",com.day.cq.workflo
  w.exec;version="[0.0,1)",com.day.cq.workflow.model;version="[0.0,1)",ja
  vax.jcr;version="[2.0,3)",org.apache.sling.api.resource;version="[2.5,3

@@ -141,11 +141,22 @@
                             <artifactId>portfolio.key</artifactId>
                             <target>/apps/portfolio/install</target>
                         </embedded>
+                         <embedded>
+                            <groupId>org.myorg</groupId>
+                            <artifactId>portfolio.DAMImage</artifactId>
+                            <target>/apps/portfolio/install</target>
+                        </embedded>
                         <embedded>
                             <groupId>org.myorg</groupId>
                             <artifactId>portfolio.mobileData</artifactId>
                             <target>/apps/portfolio/install</target>
                         </embedded>
+                        <embedded>
+                            <groupId>org.myorg</groupId>
+                            <artifactId>portfolio.queryBuilder</artifactId>
+                            <target>/apps/portfolio/install</target>
+                        </embedded>
+                        
                         <embedded>
                             <groupId>org.myorg</groupId>
                             <artifactId>portfolio.claim</artifactId>
@@ -306,6 +317,16 @@
             <artifactId>portfolio.claim</artifactId>
             <version>0.0.1-SNAPSHOT</version>
         </dependency>	
+        <dependency>
+            <groupId>org.myorg</groupId>
+            <artifactId>portfolio.queryBuilder</artifactId>
+            <version>0.0.1-SNAPSHOT</version>
+        </dependency>
+        <dependency>
+            <groupId>org.myorg</groupId>
+            <artifactId>portfolio.DAMImage</artifactId>
+            <version>0.0.1-SNAPSHOT</version>
+        </dependency>
         <dependency>
             <groupId>org.myorg</groupId>
             <artifactId>portfolio.mobileData</artifactId>

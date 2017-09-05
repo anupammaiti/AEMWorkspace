@@ -27,9 +27,11 @@
         <module>key</module>
         <module>htl</module>
         <module>eventHandlerDemo</module>
+        <module>DAMImage</module>
         <module>workflowDemo</module>
         <module>mobileData</module>
         <module>claim</module>
+        <module>queryBuilder</module>
         <module>relationalDB</module>
         <module>PDFService</module>
         <module>customWorkflow</module>

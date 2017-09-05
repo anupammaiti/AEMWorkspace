@@ -1,6 +1,6 @@
 Manifest-Version: 1.0
-Bnd-LastModified: 1504340247482
-Build-Jdk: 1.8.0_111
+Bnd-LastModified: 1504522147986
+Build-Jdk: 1.7.0_51
 Built-By: sukhrajsingh
 Bundle-Description: eventHandlerDemo bundle for portfolio
 Bundle-ManifestVersion: 2
@@ -8,9 +8,9 @@ Bundle-Name: portfolio - eventHandlerDemo
 Bundle-SymbolicName: org.myorg.portfolio.eventHandlerDemo
 Bundle-Version: 0.0.1.SNAPSHOT
 Created-By: Apache Maven Bundle Plugin
-Export-Package: org.myorg.portfolio.eventHandlerDemo;uses:="javax.jcr,ja
- vax.jcr.observation,org.apache.sling.api.resource,org.apache.sling.jcr.
- api,org.osgi.service.component";version="0.0.1"
+Export-Package: org.myorg.portfolio.eventHandlerDemo;version="0.0.1";use
+ s:="javax.jcr,javax.jcr.observation,org.apache.sling.api.resource,org.a
+ pache.sling.jcr.api,org.osgi.service.component"
 Import-Package: javax.jcr;version="[2.0,3)",javax.jcr.observation;versio
  n="[2.0,3)",org.apache.sling.api.resource;version="[2.5,3)",org.apache.
  sling.jcr.api;version="[2.2,3)",org.osgi.framework;version="[1.5,2)",or

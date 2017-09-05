@@ -1,20 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<jcr:root xmlns:exif="http://ns.adobe.com/exif/1.0/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:tiff="http://ns.adobe.com/tiff/1.0/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
-    jcr:primaryType="dam:Asset">
+<jcr:root xmlns:exif="http://ns.adobe.com/exif/1.0/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:tiff="http://ns.adobe.com/tiff/1.0/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:isCheckedOut="{Boolean}true"
+    jcr:mixinTypes="[mix:versionable]"
+    jcr:primaryType="dam:Asset"
+    jcr:uuid="84cc4175-501c-4815-919f-741f697639b6">
     <jcr:content
-        dam:lastInvalidateCache="{Date}2017-09-02T13:47:42.993+05:30"
+        cq:name="2.jpg"
+        cq:parentPath="/content/dam/portfolio/actress/thumbs"
+        dam:lastInvalidateCache="{Date}2017-09-02T22:41:25.165+05:30"
         dam:s7damAnchorX="{Long}90"
         dam:s7damAnchorY="{Long}60"
         dam:s7damHeight="{Long}120"
-        dam:s7damImageCopyPath="C:\\Users\\SUKHRA~1\\AppData\\Local\\Temp\\scene76012769286338984062.tmp"
+        dam:s7damImageCopyPath="C:\\Users\\SUKHRA~1\\AppData\\Local\\Temp\\scene78161285560598342999.tmp"
         dam:s7damType="Image"
         dam:s7damWidth="{Long}180"
-        jcr:lastModified="{Date}2017-09-02T13:47:52.310+05:30"
+        jcr:lastModified="{Date}2017-09-02T23:47:44.537+05:30"
         jcr:lastModifiedBy="admin"
         jcr:primaryType="dam:AssetContent">
         <metadata
             dam:Bitsperpixel="{Long}24"
-            dam:extracted="{Date}2017-09-02T13:47:42.225+05:30"
+            dam:extracted="{Date}2017-09-02T22:41:24.149+05:30"
             dam:Fileformat="JPEG"
             dam:MIMEtype="image/jpeg"
             dam:Numberofimages="{Long}1"
@@ -28,6 +33,7 @@
             dam:size="{Long}11905"
             dam:writebackEnable="False"
             dc:format="image/jpeg"
+            dc:modified="{Date}2017-09-02T23:47:44.412+05:30"
             exif:ApertureValue="2821/514"
             exif:ColorSpace="{Long}1"
             exif:CustomRendered="{Long}0"
@@ -50,6 +56,8 @@
             exif:SceneCaptureType="{Long}0"
             exif:ShutterSpeedValue="3027/380"
             exif:WhiteBalance="{Long}1"
+            jcr:lastModified="{Date}2017-09-02T23:47:44.396+05:30"
+            jcr:lastModifiedBy="admin"
             jcr:mixinTypes="[cq:Taggable]"
             jcr:primaryType="nt:unstructured"
             photoshop:History=""

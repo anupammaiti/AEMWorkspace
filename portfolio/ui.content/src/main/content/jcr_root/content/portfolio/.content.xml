@@ -28,4 +28,6 @@
     <mobileData/>
     <claim/>
     <userData/>
+    <queryBuilder/>
+    <DAMImage/>
 </jcr:root>
